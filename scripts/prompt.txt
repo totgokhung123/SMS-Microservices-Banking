@@ -1,0 +1,1 @@
+và trong data của tôi khi tôi dịch có một số lỗi  khi dịch "Master card" thì lại thành "thẻ chủ" nghĩa đúng tiếng việt là "thẻ quốc tế" hoặc để nguyên "master card" :

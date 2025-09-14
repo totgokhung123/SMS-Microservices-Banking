@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+.env
+venv/
+.venv/
+
+# Data files
+*.csv
+*.doc
+*.docx
+*.pdf
+*.mp4
+*.pt
+
+# Other
+*.log
+*.bak
+*.swp
+*.DS_Store
