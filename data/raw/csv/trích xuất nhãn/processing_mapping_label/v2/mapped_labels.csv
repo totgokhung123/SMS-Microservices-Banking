@@ -1,0 +1,50 @@
+﻿label,count,entity,value_type,anchor_key,anchor_display,anchor_category,score,normalized
+Account Transactions,1,,TEXT,ACCOUNT_ACTIVITY_INFO,Account Activity,account,0.6327,account transaction
+Account Activity,17,,TEXT,ACCOUNT_ACTIVITY_INFO,Account Activity,account,0.6226,account activity
+Account Balance,2,,TEXT,ACCOUNT_BALANCE_INFO,Account Balance,account,0.6563,account balance
+Online Banking Portal URL,1,,URL,ACCOUNT_LOGIN_URL,Online Banking Login URL,account,0.549,online banking portal url
+Account Number,15,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.8134,account number
+Number tài khoản,6,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.7753,number account
+Number Account,1,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.7753,number account
+Number Tài khoản,1,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.7753,number account
+Customer Account Number,18,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.7734,customer account number
+Number Tài khoản Người nhận,1,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.7402,number account nguoi nhan
+Loan Account Number,98,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.6246,loan account number
+Bank Account Number,7,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.6246,bank account number
+Customer's Account Number,1,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.6129,customer s account number
+Thanks Account Number,2,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.6086,thanks account number
+Mortgage Account Number,67,,TEXT,ACCOUNT_NUMBER_FIELD,Account Number,account,0.5944,mortgage account number
+Reset Password,9,,TEXT,RESET_PASSWORD_URL,Reset Password URL,account,0.6844,reset password
+Password Reset,1,,TEXT,RESET_PASSWORD_URL,Reset Password URL,account,0.6132,password reset
+Card Activation Phone Number,2,,PHONE,CARD_ACTIVATION_PHONE,Card Activation Phone Number,card,0.5599,card activation phone number
+Card Activation Website URL,1,,URL,CARD_ACTIVATION_URL,Card Activation Website,card,0.568,card activation url url
+Card Number,20,,TEXT,CARD_NUMBER_FIELD,Card Number,card,0.8265,cardnumber
+Customer Card Number,8,,TEXT,CARD_NUMBER_FIELD,Card Number,card,0.8071,customer cardnumber
+Report Lost/Stolen Card,1,,TEXT,LOST_STOLEN_CARD_PHONE,Lost/Stolen Card Phone Number,card,0.7013,report lost stolen card
+Lost hoặc Stolen Card Hotline,1,,PHONE,LOST_STOLEN_CARD_PHONE,Lost/Stolen Card Phone Number,card,0.6942,lost hoac stolen card phone
+ATM Locator Website URL,1,,URL,ATM_LOCATOR_URL,ATM Locator URL,contact,0.7059,atm locator url url
+ATM Locator Website,3,,URL,ATM_LOCATOR_URL,ATM Locator URL,contact,0.673,atm locator url
+Website live chat,3,,URL,LIVE_CHAT_URL,Live Chat URL,contact,0.5582,url live chat
+Website Live Chat,2,,URL,LIVE_CHAT_URL,Live Chat URL,contact,0.5582,url live chat
+Support Email,2,,EMAIL,SUPPORT_EMAIL,Customer Support Email Address,contact,0.6103,support email
+Contact Email,1,,EMAIL,SUPPORT_EMAIL,Customer Support Email Address,contact,0.6103,contact email
+Customer Support Email,351,,EMAIL,SUPPORT_EMAIL,Customer Support Email Address,contact,0.5474,customer support email
+Email Support,15,,EMAIL,SUPPORT_EMAIL,Customer Support Email Address,contact,0.5474,email support
+Email support,1,,EMAIL,SUPPORT_EMAIL,Customer Support Email Address,contact,0.5474,email support
+Customer Support Email và email,1,,EMAIL,SUPPORT_EMAIL,Customer Support Email Address,contact,0.5396,customer support email va email
+Contact Phone Support,1,,PHONE,SUPPORT_PHONE,Customer Support Phone Number,contact,0.8064,contact phone support
+Contact Support Phone Number,2,,PHONE,SUPPORT_PHONE,Customer Support Phone Number,contact,0.6591,contact support phone number
+Phone Support,7,,PHONE,SUPPORT_PHONE,Customer Support Phone Number,contact,0.5474,phone support
+Customer Support Phone,6,,PHONE,SUPPORT_PHONE,Customer Support Phone Number,contact,0.5474,customer support phone
+Customer Support Hotline,3,,PHONE,SUPPORT_PHONE,Customer Support Phone Number,contact,0.5474,customer support phone
+Phone Support:,1,,PHONE,SUPPORT_PHONE,Customer Support Phone Number,contact,0.5474,phone support
+Customer Support Website URL,270,,URL,ISSUER_SUPPORT_PAGE,Issuer Support Page,issuer,0.6281,customer support url url
+Customer Support Website,6,,URL,ISSUER_SUPPORT_PAGE,Issuer Support Page,issuer,0.5939,customer support url
+Customer Support URL,2,,URL,ISSUER_SUPPORT_PAGE,Issuer Support Page,issuer,0.5939,customer support url
+Customer Support Website URL.,1,,URL,ISSUER_SUPPORT_PAGE,Issuer Support Page,issuer,0.5372,customer support url url.
+Issuer Website,1,,URL,ISSUER_WEBSITE,Issuer Website,issuer,0.8451,issuer url
+Card Issuer Website,1,,URL,ISSUER_WEBSITE,Issuer Website,issuer,0.6021,card issuer url
+Loan Payment,1,,TEXT,LOAN_PAYMENT_URL,Loan Payment URL,loans,0.6642,loan payment
+Loan Support Phone Number,7,,PHONE,LOAN_SUPPORT_PHONE,Loan Support Phone,loans,0.5689,loan support phone number
+Loan Customer Support Phone Number,1,,PHONE,LOAN_SUPPORT_PHONE,Loan Support Phone,loans,0.5217,loan customer support phone number
+Change Password,17,,TEXT,PASSWORD_CHANGE_URL,Change Password URL,security,0.6835,change password

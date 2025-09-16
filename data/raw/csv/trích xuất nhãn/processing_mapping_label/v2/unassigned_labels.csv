@@ -1,0 +1,2431 @@
+﻿label,count,entity,value_type,normalized,note
+Address,5,,ADDRESS,address,below_threshold
+Property Address,4,,ADDRESS,property address,below_threshold
+Customer Service Address,3,,ADDRESS,customer service address,below_threshold
+Customer Support Address,2,,ADDRESS,customer support address,below_threshold
+ATM Address,1,,ADDRESS,atm address,below_threshold
+Customer Service Address Email.,1,,ADDRESS,customer service address email.,below_threshold
+Customer Support Address Email.,1,,ADDRESS,customer support address email.,below_threshold
+Customer Support Team Address,1,,ADDRESS,customer support team address,below_threshold
+Home Address,1,,ADDRESS,home address,below_threshold
+Main Branch Address,1,,ADDRESS,main branch address,below_threshold
+Shipping Address,1,,ADDRESS,shipping address,below_threshold
+Customer Support Email Address,646,,EMAIL,customer support email address,below_threshold
+Email Address,569,,EMAIL,email address,below_threshold
+Điều email,391,,EMAIL,đieu email,below_threshold
+Customer Service Email Address,120,,EMAIL,customer service email address,below_threshold
+Customer Service Email,71,,EMAIL,customer service email,below_threshold
+Điều địa chỉ email,25,,EMAIL,đieu đia chi email,below_threshold
+Mortgage Department Email Address,16,,EMAIL,mortgage department email address,below_threshold
+Email,12,,EMAIL,email,below_threshold
+Điều email dịch vụ khách hàng,12,,EMAIL,đieu email dich vu khach hang,below_threshold
+Điều email của bạn,10,,EMAIL,đieu email cua ban,below_threshold
+Điều email hỗ trợ khách hàng,10,,EMAIL,đieu email ho tro khach hang,below_threshold
+Loan Department Email Address,9,,EMAIL,loan department email address,below_threshold
+Mortgage Cancellation Email Address,8,,EMAIL,mortgage cancellation email address,below_threshold
+Mortgage Support Email Address,8,,EMAIL,mortgage support email address,below_threshold
+email address,8,,EMAIL,email address,below_threshold
+Client Service Email Address,7,,EMAIL,client service email address,below_threshold
+Email Response Time,7,,EMAIL,email response time,below_threshold
+Loan Hỗ trợ Email,6,,EMAIL,loan ho tro email,below_threshold
+Loan Hỗ trợ Email Địa chỉ,6,,EMAIL,loan ho tro email đia chi,below_threshold
+Điều Email Tài khoản,6,,EMAIL,đieu email account,below_threshold
+Mortgage Cancellation Email,5,,EMAIL,mortgage cancellation email,below_threshold
+Điều Email Dịch vụ khách hàng,5,,EMAIL,đieu email dich vu khach hang,below_threshold
+Đăng ký email,5,,EMAIL,đang ky email,below_threshold
+Client Service Email,4,,EMAIL,client service email,below_threshold
+Loan Cancellation Email Address,4,,EMAIL,loan cancellation email address,below_threshold
+Loan Department Email,4,,EMAIL,loan department email,below_threshold
+Loan Support Email Address,4,,EMAIL,loan support email address,below_threshold
+Loan bộ phận địa chỉ email,4,,EMAIL,loan bo phan đia chi email,below_threshold
+Mortgage Department Email,4,,EMAIL,mortgage department email,below_threshold
+Mortgage Support Email,4,,EMAIL,mortgage support email,below_threshold
+Điều hỗ trợ khách hàng Email,4,,EMAIL,đieu ho tro khach hang email,below_threshold
+Điều Địa chỉ Email,4,,EMAIL,đieu đia chi email,below_threshold
+Loan Hỗ trợ Email Address,3,,EMAIL,loan ho tro email address,below_threshold
+Loan Hủy vay địa chỉ email,3,,EMAIL,loan huy vay đia chi email,below_threshold
+Mortgage Assistance Email Address,3,,EMAIL,mortgage assistance email address,below_threshold
+Điều Email,3,,EMAIL,đieu email,below_threshold
+Điều Email Hỗ trợ Khách hàng,3,,EMAIL,đieu email ho tro khach hang,below_threshold
+Điều email đăng ký,3,,EMAIL,đieu email đang ky,below_threshold
+Điện email,3,,EMAIL,đien email,below_threshold
+địa chỉ email,3,,EMAIL,đia chi email,below_threshold
+Customer Email Address,2,,EMAIL,customer email address,below_threshold
+Các Hỗ trợ Email,2,,EMAIL,cac ho tro email,below_threshold
+Công ty Email,2,,EMAIL,cong ty email,below_threshold
+Loan Hủy bỏ Email Address,2,,EMAIL,loan huy bo email address,below_threshold
+Loan Support Email,2,,EMAIL,loan support email,below_threshold
+Mortgage bộ phận địa chỉ email,2,,EMAIL,mortgage bo phan đia chi email,below_threshold
+Support Email Address,2,,EMAIL,support email address,below_threshold
+email,2,,EMAIL,email,below_threshold
+Điều Email Đăng ký,2,,EMAIL,đieu email đang ky,below_threshold
+Điều email Dịch vụ khách hàng,2,,EMAIL,đieu email dich vu khach hang,below_threshold
+Điều Địa chỉ Email Đăng ký,2,,EMAIL,đieu đia chi email đang ky,below_threshold
+Điều điện thoại Dịch vụ khách hàng Email,2,,EMAIL,đieu đien thoai dich vu khach hang email,below_threshold
+Điều đăng ký Email,2,,EMAIL,đieu đang ky email,below_threshold
+Điều địa chỉ email của bạn,2,,EMAIL,đieu đia chi email cua ban,below_threshold
+địa chỉ email tài khoản,2,,EMAIL,đia chi email account,below_threshold
+Addressed Email,1,,EMAIL,addressed email,below_threshold
+Cancellation Email Address,1,,EMAIL,cancellation email address,below_threshold
+Card Support Email Address,1,,EMAIL,card support email address,below_threshold
+Chuyết minh dịch vụ Email Địa chỉ,1,,EMAIL,chuyet minh dich vu email đia chi,below_threshold
+Credit Card Support Email,1,,EMAIL,credit card support email,below_threshold
+Credit Card Support Email Address,1,,EMAIL,credit card support email address,below_threshold
+Customer Email,1,,EMAIL,customer email,below_threshold
+Customer Email Support,1,,EMAIL,customer email support,below_threshold
+Customer Service Address Email,1,,EMAIL,customer service address email,below_threshold
+Customer Service Address with Email,1,,EMAIL,customer service address with email,below_threshold
+Customer Support Email Resolution,1,,EMAIL,customer support email resolution,below_threshold
+Customer Support Email yêu cầu hỗ trợ,1,,EMAIL,customer support email yeu cau ho tro,below_threshold
+Các Hỗ trợ Email Địa chỉ,1,,EMAIL,cac ho tro email đia chi,below_threshold
+Công ty Dịch vụ Email,1,,EMAIL,cong ty dich vu email,below_threshold
+Công ty hỗ trợ Email Address,1,,EMAIL,cong ty ho tro email address,below_threshold
+Công ty hủy bỏ địa chỉ email,1,,EMAIL,cong ty huy bo đia chi email,below_threshold
+Công ty tiền gửi địa chỉ email,1,,EMAIL,cong ty tien gui đia chi email,below_threshold
+Công ty vay Email,1,,EMAIL,cong ty vay email,below_threshold
+Công ty đặt cọc email địa chỉ,1,,EMAIL,cong ty đat coc email đia chi,below_threshold
+Công ty địa chỉ email,1,,EMAIL,cong ty đia chi email,below_threshold
+Công ty ảo địa chỉ email,1,,EMAIL,cong ty ao đia chi email,below_threshold
+Email Address Support,1,,EMAIL,email address support,below_threshold
+Email Hỗ trợ,1,,EMAIL,email ho tro,below_threshold
+Email Inbox hoặc Spam Folder,1,,EMAIL,email inbox hoac spam folder,below_threshold
+Hiện dịch email,1,,EMAIL,hien dich email,below_threshold
+Hiện ích tài chính Địa chỉ Email,1,,EMAIL,hien ich tai chinh đia chi email,below_threshold
+Hãy email,1,,EMAIL,hay email,below_threshold
+Học toán địa chỉ email,1,,EMAIL,hoc toan đia chi email,below_threshold
+Hộp email đăng ký,1,,EMAIL,hop email đang ky,below_threshold
+Loan Assistance Email,1,,EMAIL,loan assistance email,below_threshold
+Loan Cancellation Email,1,,EMAIL,loan cancellation email,below_threshold
+Loan Customer Support Email Address,1,,EMAIL,loan customer support email address,below_threshold
+Loan Dịch vụ Email Address,1,,EMAIL,loan dich vu email address,below_threshold
+Loan Hỗ trợ Khách hàng Địa chỉ Email,1,,EMAIL,loan ho tro khach hang đia chi email,below_threshold
+Loan Hỗ trợ khách hàng Email Địa chỉ,1,,EMAIL,loan ho tro khach hang email đia chi,below_threshold
+Loan Hỗ trợ Địa chỉ Email,1,,EMAIL,loan ho tro đia chi email,below_threshold
+Loan Hủy bỏ địa chỉ email,1,,EMAIL,loan huy bo đia chi email,below_threshold
+Loan Hủy khoản vay địa chỉ email,1,,EMAIL,loan huy khoan vay đia chi email,below_threshold
+Loan Nhóm Hỗ trợ Khách hàng Địa chỉ Email,1,,EMAIL,loan nhom ho tro khach hang đia chi email,below_threshold
+Loan bộ phận Email Address,1,,EMAIL,loan bo phan email address,below_threshold
+Mortgage Assistance Address Email,1,,EMAIL,mortgage assistance address email,below_threshold
+Mortgage Customer Service Email,1,,EMAIL,mortgage customer service email,below_threshold
+Mortgage Email Address,1,,EMAIL,mortgage email address,below_threshold
+Mortgage Email Services,1,,EMAIL,mortgage email services,below_threshold
+Mortgage Hỗ trợ Email Address,1,,EMAIL,mortgage ho tro email address,below_threshold
+Mortgage Hủy bỏ Email Address,1,,EMAIL,mortgage huy bo email address,below_threshold
+Mortgage Hủy bỏ số điện thoại của bộ phận Email,1,,EMAIL,mortgage huy bo so đien thoai cua bo phan email,below_threshold
+Mortgage Hủy bỏ địa chỉ email,1,,EMAIL,mortgage huy bo đia chi email,below_threshold
+Sport Email Address,1,,EMAIL,sport email address,below_threshold
+Thông tin email của khách hàng,1,,EMAIL,thong tin email cua khach hang,below_threshold
+Tin tức dịch vụ email,1,,EMAIL,tin tuc dich vu email,below_threshold
+Trang web hỗ trợ khách hàng Email,1,,EMAIL,trang web ho tro khach hang email,below_threshold
+Tên số email hỗ trợ khách hàng,1,,EMAIL,ten so email ho tro khach hang,below_threshold
+Tập dịch vụ khách hàng Email,1,,EMAIL,tap dich vu khach hang email,below_threshold
+Tập nhật địa chỉ email,1,,EMAIL,tap nhat đia chi email,below_threshold
+customer_service_email,1,,EMAIL,customer service email,below_threshold
+email tài khoản,1,,EMAIL,email account,below_threshold
+tên email,1,,EMAIL,ten email,below_threshold
+Điều Email Hỗ trợ khách hàng,1,,EMAIL,đieu email ho tro khach hang,below_threshold
+Điều Email của tài khoản,1,,EMAIL,đieu email cua account,below_threshold
+Điều Email đăng ký,1,,EMAIL,đieu email đang ky,below_threshold
+Điều dịch vụ khách hàng Email,1,,EMAIL,đieu dich vu khach hang email,below_threshold
+Điều email của dịch vụ khách hàng,1,,EMAIL,đieu email cua dich vu khach hang,below_threshold
+Điều email của họ,1,,EMAIL,đieu email cua ho,below_threshold
+Điều email của tài khoản,1,,EMAIL,đieu email cua account,below_threshold
+Điều email dịch vụ khách hàng của bạn,1,,EMAIL,đieu email dich vu khach hang cua ban,below_threshold
+Điều email hỗ trợ khách hàng của bạn,1,,EMAIL,đieu email ho tro khach hang cua ban,below_threshold
+Điều email tài khoản,1,,EMAIL,đieu email account,below_threshold
+Điều hỗ trợ khách hàng Email Address,1,,EMAIL,đieu ho tro khach hang email address,below_threshold
+Điều hỗ trợ khách hàng Email Địa chỉ,1,,EMAIL,đieu ho tro khach hang email đia chi,below_threshold
+Điều khoản hỗ trợ khách hàng Email,1,,EMAIL,đieu khoan ho tro khach hang email,below_threshold
+Điều kiện hỗ trợ khách hàng Email,1,,EMAIL,đieu kien ho tro khach hang email,below_threshold
+Điều điện thoại hỗ trợ khách hàng Email,1,,EMAIL,đieu đien thoai ho tro khach hang email,below_threshold
+Điều đơn Email,1,,EMAIL,đieu đon email,below_threshold
+Điều địa chỉ Email Tài khoản,1,,EMAIL,đieu đia chi email account,below_threshold
+Điểm Email Hỗ trợ Khách hàng,1,,EMAIL,điem email ho tro khach hang,below_threshold
+Điểm email,1,,EMAIL,điem email,below_threshold
+Điểm email hủy bỏ khoản vay,1,,EMAIL,điem email huy bo khoan vay,below_threshold
+Điểm hỗ trợ khách hàng Email Địa chỉ,1,,EMAIL,điem ho tro khach hang email đia chi,below_threshold
+Điểm hủy bỏ Email,1,,EMAIL,điem huy bo email,below_threshold
+Điện Email Tài khoản,1,,EMAIL,đien email account,below_threshold
+Điện Email Đăng ký,1,,EMAIL,đien email đang ky,below_threshold
+Điện email đăng ký với tài khoản,1,,EMAIL,đien email đang ky voi account,below_threshold
+Đại giao ảo địa chỉ email,1,,EMAIL,đai giao ao đia chi email,below_threshold
+Đại phòng hủy bỏ email,1,,EMAIL,đai phong huy bo email,below_threshold
+Đặt email dịch vụ khách hàng,1,,EMAIL,đat email dich vu khach hang,below_threshold
+Đặt email hỗ trợ khách hàng,1,,EMAIL,đat email ho tro khach hang,below_threshold
+Đặt hàng hỗ trợ email,1,,EMAIL,đat hang ho tro email,below_threshold
+Đặt hủy dịch vụ email,1,,EMAIL,đat huy dich vu email,below_threshold
+Địa chỉ Email,1,,EMAIL,đia chi email,below_threshold
+Địa chỉ email,1,,EMAIL,đia chi email,below_threshold
+Đội Hỗ trợ Email Địa chỉ,1,,EMAIL,đoi ho tro email đia chi,below_threshold
+Đội hỗ trợ email,1,,EMAIL,đoi ho tro email,below_threshold
+địa chỉ email đăng ký,1,,EMAIL,đia chi email đang ky,below_threshold
+Customer Support Working Hours,1091,,HOURS,customer support hours,below_threshold
+Customer Support Work Hours,319,,HOURS,customer support work hours,below_threshold
+Customer Service Working Hours,109,,HOURS,customer service hours,below_threshold
+Customer Support Hours,64,,HOURS,customer support hours,below_threshold
+Customer Service Hours,15,,HOURS,customer service hours,below_threshold
+Working Hours,13,,HOURS,hours,below_threshold
+Customer Service Work Hours,7,,HOURS,customer service work hours,below_threshold
+Opening Hours,7,,HOURS,hours,below_threshold
+Công ty Hỗ trợ Thời gian làm việc,6,,HOURS,cong ty ho tro hours,below_threshold
+Điều hỗ trợ khách hàng giờ làm việc,6,,HOURS,đieu ho tro khach hang hours,below_threshold
+Customer Working Hours,5,,HOURS,customer hours,below_threshold
+Customer Work Hours,4,,HOURS,customer work hours,below_threshold
+Điều điện thoại Hỗ trợ khách hàng Working Hours,4,,HOURS,đieu đien thoai ho tro khach hang hours,below_threshold
+Điều giờ làm việc hỗ trợ khách hàng,3,,HOURS,đieu hours ho tro khach hang,below_threshold
+Điều hỗ trợ khách hàng Thời gian làm việc,3,,HOURS,đieu ho tro khach hang hours,below_threshold
+Business Hours,2,,HOURS,business hours,below_threshold
+Contact Work Hours,2,,HOURS,contact work hours,below_threshold
+Credit Support Working Hours,2,,HOURS,credit support hours,below_threshold
+Customer Hỗ trợ Hours,2,,HOURS,customer ho tro hours,below_threshold
+Công ty hỗ trợ giờ làm việc,2,,HOURS,cong ty ho tro hours,below_threshold
+Mortgage Cancellation Work Hours,2,,HOURS,mortgage cancellation work hours,below_threshold
+Mortgage Support Work Hours,2,,HOURS,mortgage support work hours,below_threshold
+Ngân hàng Hỗ trợ Khách hàng Thời gian làm việc,2,,HOURS,ngan hang ho tro khach hang hours,below_threshold
+Điều hỗ trợ khách hàng Working Hours,2,,HOURS,đieu ho tro khach hang hours,below_threshold
+Điều điện thoại Dịch vụ khách hàng Working Hours,2,,HOURS,đieu đien thoai dich vu khach hang hours,below_threshold
+AMEX Hỗ trợ Khách hàng Thời gian làm việc,1,AMEX,HOURS,amex ho tro khach hang hours,below_threshold
+AMEX Hỗ trợ khách hàng Thời gian làm việc,1,AMEX,HOURS,amex ho tro khach hang hours,below_threshold
+American Express Hỗ trợ khách hàng Thời gian làm việc,1,AMERICAN_EXPRESS,HOURS,american express ho tro khach hang hours,below_threshold
+Availability Hours,1,,HOURS,availability hours,below_threshold
+Bank Customer Support Working Hours,1,,HOURS,bank customer support hours,below_threshold
+Branch Open Hours,1,,HOURS,branch open hours,below_threshold
+Branch Operating Hours,1,,HOURS,branch operating hours,below_threshold
+Branch Working Hours,1,,HOURS,branch hours,below_threshold
+Card Services Working Hours,1,,HOURS,card services hours,below_threshold
+Client Service Working Hours,1,,HOURS,client service hours,below_threshold
+Contact Support Work Hours,1,,HOURS,contact support work hours,below_threshold
+Credit Card Activated Working Hours,1,,HOURS,credit card activated hours,below_threshold
+Custom Support Hours,1,,HOURS,custom support hours,below_threshold
+Customer Hours hỗ trợ.,1,,HOURS,customer hours ho tro.,below_threshold
+Customer Support Operating Hours,1,,HOURS,customer support operating hours,below_threshold
+Customer Working Hours và Supporting,1,,HOURS,customer hours va supporting,below_threshold
+Các giờ làm việc hỗ trợ khách hàng,1,,HOURS,cac hours ho tro khach hang,below_threshold
+Các khoản hỗ trợ khách hàng Work Hours,1,,HOURS,cac khoan ho tro khach hang work hours,below_threshold
+Các khoản hỗ trợ khách hàng giờ làm việc,1,,HOURS,cac khoan ho tro khach hang hours,below_threshold
+Công ty Hỗ trợ Hours,1,,HOURS,cong ty ho tro hours,below_threshold
+Công ty Hỗ trợ Hours Mobile app,1,,HOURS,cong ty ho tro hours mobile app,below_threshold
+Công ty Hỗ trợ với các giờ làm việc,1,,HOURS,cong ty ho tro voi cac hours,below_threshold
+Công ty hỗ trợ Hours,1,,HOURS,cong ty ho tro hours,below_threshold
+Công ty hỗ trợ Hours Work,1,,HOURS,cong ty ho tro hours work,below_threshold
+Dịch vụ Khách hàng Hours,1,,HOURS,dich vu khach hang hours,below_threshold
+Giờ làm việc hỗ trợ khách hàng,1,,HOURS,hours ho tro khach hang,below_threshold
+Hiện hỗ trợ khách hàng Working Hours,1,,HOURS,hien ho tro khach hang hours,below_threshold
+Hiện khoản Hỗ trợ Khách hàng Work Hours,1,,HOURS,hien khoan ho tro khach hang work hours,below_threshold
+Hiện khoản hỗ trợ khách hàng Working Hours,1,,HOURS,hien khoan ho tro khach hang hours,below_threshold
+Hiện ích hỗ trợ khách hàng Work Hours,1,,HOURS,hien ich ho tro khach hang work hours,below_threshold
+Hiện ích hỗ trợ khách hàng Working Hours,1,,HOURS,hien ich ho tro khach hang hours,below_threshold
+Hình chuyển khoản hỗ trợ khách hàng Work Hours,1,,HOURS,hinh chuyen khoan ho tro khach hang work hours,below_threshold
+Hộp đơn hỗ trợ khách hàng Work Hours,1,,HOURS,hop đon ho tro khach hang work hours,below_threshold
+Loan Cancellation Department Work Hours,1,,HOURS,loan cancellation department work hours,below_threshold
+Loan Cancellation Work Hours,1,,HOURS,loan cancellation work hours,below_threshold
+Loan Department Working Hours,1,,HOURS,loan department hours,below_threshold
+Loan Support Working Hours,1,,HOURS,loan support hours,below_threshold
+Mortgage Assistance Work Hours,1,,HOURS,mortgage assistance work hours,below_threshold
+Mortgage Assistance Working Hours,1,,HOURS,mortgage assistance hours,below_threshold
+Mortgage Cancellation Department Work Hours,1,,HOURS,mortgage cancellation department work hours,below_threshold
+Mortgage Cancellation Working Hours,1,,HOURS,mortgage cancellation hours,below_threshold
+Mortgage Department Work Hours,1,,HOURS,mortgage department work hours,below_threshold
+Mortgage Hủy bỏ giờ làm việc,1,,HOURS,mortgage huy bo hours,below_threshold
+Mortgage bộ phận giờ làm việc,1,,HOURS,mortgage bo phan hours,below_threshold
+My Amex Dịch vụ Khách hàng Hours,1,AMEX,HOURS,my amex dich vu khach hang hours,below_threshold
+Nhà hỗ trợ khách hàng giờ làm việc,1,,HOURS,nha ho tro khach hang hours,below_threshold
+Thông tin hỗ trợ khách hàng Working Hours,1,,HOURS,thong tin ho tro khach hang hours,below_threshold
+Trang Hỗ trợ Khách hàng Working Hours,1,,HOURS,trang ho tro khach hang hours,below_threshold
+Trang hỗ trợ khách hàng Working Hours,1,,HOURS,trang ho tro khach hang hours,below_threshold
+Tuyền hỗ trợ khách hàng Working Hours,1,,HOURS,tuyen ho tro khach hang hours,below_threshold
+Tài giờ làm việc,1,,HOURS,tai hours,below_threshold
+Tài hỗ trợ khách hàng Work Hours,1,,HOURS,tai ho tro khach hang work hours,below_threshold
+Tài khoản hỗ trợ khách hàng Working Hours,1,,HOURS,account ho tro khach hang hours,below_threshold
+Tài điện thoại Hỗ trợ Khách hàng Work Hours,1,,HOURS,tai đien thoai ho tro khach hang work hours,below_threshold
+Tài điện thoại hỗ trợ khách hàng Working Hours,1,,HOURS,tai đien thoai ho tro khach hang hours,below_threshold
+Tính khoản hỗ trợ khách hàng Work Hours,1,,HOURS,tinh khoan ho tro khach hang work hours,below_threshold
+Tăng cường điện thoại giờ làm việc,1,,HOURS,tang cuong đien thoai hours,below_threshold
+hỗ trợ khách hàng Work Hours,1,,HOURS,ho tro khach hang work hours,below_threshold
+Điều Hỗ trợ Khách hàng Working Hours,1,,HOURS,đieu ho tro khach hang hours,below_threshold
+Điều giờ làm việc Hỗ trợ Khách hàng,1,,HOURS,đieu hours ho tro khach hang,below_threshold
+Điều hỗ trợ Khách hàng Hours Working,1,,HOURS,đieu ho tro khach hang hours working,below_threshold
+Điều hỗ trợ khách hàng Work Hours,1,,HOURS,đieu ho tro khach hang work hours,below_threshold
+Điều khoản hỗ trợ khách hàng Working Hours,1,,HOURS,đieu khoan ho tro khach hang hours,below_threshold
+Điều kiện hỗ trợ khách hàng Work Hours,1,,HOURS,đieu kien ho tro khach hang work hours,below_threshold
+Điều điện thoại hỗ trợ khách hàng Working Hours,1,,HOURS,đieu đien thoai ho tro khach hang hours,below_threshold
+Điểm hỗ trợ khách hàng Work Hours,1,,HOURS,điem ho tro khach hang work hours,below_threshold
+Điểm hỗ trợ khách hàng giờ làm việc,1,,HOURS,điem ho tro khach hang hours,below_threshold
+Đội hỗ trợ khách hàng giờ làm việc,1,,HOURS,đoi ho tro khach hang hours,below_threshold
+Customer Support Phone Number,4950,,PHONE,customer support phone number,below_threshold
+Customer Service Phone Number,423,,PHONE,customer service phone number,below_threshold
+Customer Phone Support Number,109,,PHONE,customer phone support number,below_threshold
+Customer Phone Number,104,,PHONE,customer phone number,below_threshold
+Customer Support Phone Number.,66,,PHONE,customer support phone number.,below_threshold
+Mortgage Support Phone Number,24,,PHONE,mortgage support phone number,below_threshold
+Mortgage Cancellation Phone Number,18,,PHONE,mortgage cancellation phone number,below_threshold
+Credit Card Phone Number,17,,PHONE,credit card phone number,below_threshold
+Bank Customer Support Phone Number,15,,PHONE,bank customer support phone number,below_threshold
+Custom Phone,15,,PHONE,custom phone,below_threshold
+Bank Customer Service Phone Number,14,,PHONE,bank customer service phone number,below_threshold
+Customer Phone Support,13,,PHONE,customer phone support,below_threshold
+Credit Card Support Phone Number,9,,PHONE,credit card support phone number,below_threshold
+Credit Support Phone Number,9,,PHONE,credit support phone number,below_threshold
+Custom Phone Number,8,,PHONE,custom phone number,below_threshold
+Custom Phone Support,7,,PHONE,custom phone support,below_threshold
+Loan Department Phone Number,7,,PHONE,loan department phone number,below_threshold
+Mortgage Assistance Phone Number,7,,PHONE,mortgage assistance phone number,below_threshold
+Customer Phone,6,,PHONE,customer phone,below_threshold
+Loan Cancellation Phone Number,6,,PHONE,loan cancellation phone number,below_threshold
+Phone,4,,PHONE,phone,below_threshold
+Card Services Phone Number,3,,PHONE,card services phone number,below_threshold
+Loan Assistance Phone Number,3,,PHONE,loan assistance phone number,below_threshold
+24/7 Hỗ trợ khách hàng Hotline,2,,PHONE,24 7 ho tro khach hang phone,below_threshold
+Activation Hotline Number,2,,PHONE,activation phone number,below_threshold
+American Express Customer Service Phone Number,2,AMERICAN_EXPRESS,PHONE,american express customer service phone number,below_threshold
+American Express Customer Support Phone Number,2,AMERICAN_EXPRESS,PHONE,american express customer support phone number,below_threshold
+American Express Phone Number,2,AMERICAN_EXPRESS,PHONE,american express phone number,below_threshold
+Automated Phone System Number,2,,PHONE,automated phone system number,below_threshold
+Bank Support Phone Number,2,,PHONE,bank support phone number,below_threshold
+Branch Support Phone Number,2,,PHONE,branch support phone number,below_threshold
+Cancellation Phone Number,2,,PHONE,cancellation phone number,below_threshold
+Customer Service Hotline,2,,PHONE,customer service phone,below_threshold
+Mortgage Department Phone Number,2,,PHONE,mortgage department phone number,below_threshold
+Mortgage Lender Phone Number,2,,PHONE,mortgage lender phone number,below_threshold
+Support Phone Number,2,,PHONE,support phone number,below_threshold
+Telephone Number,2,,PHONE,phone number,below_threshold
+Telephone Support Working Hours,2,,PHONE,phone support hours,below_threshold
+Visa Customer Support Phone Number,2,VISA,PHONE,visa customer support phone number,below_threshold
+ATM Support Phone Number,1,,PHONE,atm support phone number,below_threshold
+Activation Phone Number,1,,PHONE,activation phone number,below_threshold
+American Express Lost/Stolen Card Phone Number,1,AMERICAN_EXPRESS,PHONE,american express lost stolen card phone number,below_threshold
+American Express Phone Support Number,1,AMERICAN_EXPRESS,PHONE,american express phone support number,below_threshold
+Bank Activation Phone Number,1,,PHONE,bank activation phone number,below_threshold
+Bank Cancellation Hotline,1,,PHONE,bank cancellation phone,below_threshold
+Bank Hotline,1,,PHONE,bank phone,below_threshold
+Bank Hotline Number,1,,PHONE,bank phone number,below_threshold
+Bank International Activation Hotline,1,,PHONE,bank international activation phone,below_threshold
+Bank Phone Number,1,,PHONE,bank phone number,below_threshold
+C Phone Support,1,,PHONE,c phone support,below_threshold
+Card Issuer Phone Number,1,,PHONE,card issuer phone number,below_threshold
+Card Protection Phone Number,1,,PHONE,card protection phone number,below_threshold
+Card Support Phone Number,1,,PHONE,card support phone number,below_threshold
+Client Service Phone Number,1,,PHONE,client service phone number,below_threshold
+Conta Summary Phone Number,1,,PHONE,conta summary phone number,below_threshold
+Contact Phone Number,1,,PHONE,contact phone number,below_threshold
+Credit Card Activation Phone Number,1,,PHONE,credit card activation phone number,below_threshold
+Credit Card Issuer Support Phone Number,1,,PHONE,credit card issuer support phone number,below_threshold
+Credit Express Support Phone Number,1,,PHONE,credit express support phone number,below_threshold
+Credit Hotline Number,1,,PHONE,credit phone number,below_threshold
+Credit Hotline Working Hours,1,,PHONE,credit phone hours,below_threshold
+Credit Phone Number,1,,PHONE,credit phone number,below_threshold
+Customer Express Phone Number.,1,,PHONE,customer express phone number.,below_threshold
+Customer Phone Number trong quá trình hỗ trợ của chúng tôi,1,,PHONE,customer phone number trong qua trinh ho tro cua chung toi,below_threshold
+Customer Phone's Support Number,1,,PHONE,customer phone s support number,below_threshold
+Customer Service Hotline Number,1,,PHONE,customer service phone number,below_threshold
+Customer Support Phone Action Number,1,,PHONE,customer support phone action number,below_threshold
+Customer Support Phone Line,1,,PHONE,customer support phone line,below_threshold
+Emergency Hotline,1,,PHONE,emergency phone,below_threshold
+Fraud Hotline Number,1,,PHONE,fraud phone number,below_threshold
+Hotline Number,1,,PHONE,phone number,below_threshold
+International Customer Support Phone Number,1,,PHONE,international customer support phone number,below_threshold
+International Support Phone Number,1,,PHONE,international support phone number,below_threshold
+Lender's Phone Number,1,,PHONE,lender s phone number,below_threshold
+Loan Provider Phone Number,1,,PHONE,loan provider phone number,below_threshold
+Lost Card Phone Number,1,,PHONE,lost card phone number,below_threshold
+Mortgage Customer Service Phone Number,1,,PHONE,mortgage customer service phone number,below_threshold
+Mortgage Phone Number,1,,PHONE,mortgage phone number,below_threshold
+Mortgage Services Phone Number,1,,PHONE,mortgage services phone number,below_threshold
+Phone Call,1,,PHONE,phone call,below_threshold
+Telephone,1,,PHONE,phone,below_threshold
+Telephone Banking Number,1,,PHONE,phone banking number,below_threshold
+Telephone Support Number,1,,PHONE,phone support number,below_threshold
+Telephone dịch vụ khách hàng,1,,PHONE,phone dich vu khach hang,below_threshold
+Telephone số dịch vụ khách hàng,1,,PHONE,phone so dich vu khach hang,below_threshold
+phone,1,,PHONE,phone,below_threshold
+Credit Card,4316,,TEXT,credit card,below_threshold
+Name,706,,TEXT,name,below_threshold
+Customer Support Team,584,,TEXT,customer support team,below_threshold
+Password,382,,TEXT,password,below_threshold
+Banking App,177,,TEXT,banking app,below_threshold
+Điều tài khoản,168,,TEXT,đieu account,below_threshold
+Loan Tài khoản số,167,,TEXT,loan account so,below_threshold
+Điều mật khẩu,154,,TEXT,đieu password,below_threshold
+Customer Support,153,,TEXT,customer support,below_threshold
+Bank Name,145,,TEXT,bank name,below_threshold
+Cài đặt tài khoản,145,,TEXT,cai đat account,below_threshold
+Bank App,143,,TEXT,bank app,below_threshold
+Profile,140,,TEXT,profile,below_threshold
+Nhạc máy chủ,136,,TEXT,nhac may chu,below_threshold
+Live Chat,134,,TEXT,live chat,below_threshold
+Billing,98,,TEXT,billing,below_threshold
+Tên đầy đủ,92,,TEXT,ten đay đu,below_threshold
+Điều điện thoại hỗ trợ khách hàng,91,,TEXT,đieu đien thoai ho tro khach hang,below_threshold
+Account,86,,TEXT,account,below_threshold
+Mortgage Account,78,,TEXT,mortgage account,below_threshold
+Nhà người dùng,78,,TEXT,nha nguoi dung,below_threshold
+Nhạc người dùng,74,,TEXT,nhac nguoi dung,below_threshold
+Customer Support Number,66,,TEXT,customer support number,below_threshold
+Trang web của công ty,61,,TEXT,trang web cua cong ty,below_threshold
+App Store,59,,TEXT,appstore,below_threshold
+Google Play Store,56,,TEXT,playstore store,below_threshold
+Điều đặt hàng,56,,TEXT,đieu đat hang,below_threshold
+Cài đặt Tài khoản,55,,TEXT,cai đat account,below_threshold
+Nhạc ngân hàng,55,,TEXT,nhac ngan hang,below_threshold
+Full Name,50,,TEXT,full name,below_threshold
+Payments,49,,TEXT,payments,below_threshold
+Fees,48,,TEXT,fee,below_threshold
+Close Account,45,,TEXT,close account,below_threshold
+Card Management,44,,TEXT,card management,below_threshold
+Contact Us,44,,TEXT,contact us,below_threshold
+Mortgage Tài khoản Số,41,,TEXT,mortgage account so,below_threshold
+Security,41,,TEXT,security,below_threshold
+Nhạc Người dùng,38,,TEXT,nhac nguoi dung,below_threshold
+Customer ID,36,,TEXT,customer id,below_threshold
+Công ty Hỗ trợ Điện thoại Số,36,,TEXT,cong ty ho tro đien thoai so,below_threshold
+Trang dịch vụ,36,,TEXT,trang dich vu,below_threshold
+Contact Settings,33,,TEXT,contact settings,below_threshold
+Credit Card Number,33,,TEXT,credit cardnumber,below_threshold
+Công ty,32,,TEXT,cong ty,below_threshold
+Contact Information,31,,TEXT,contact information,below_threshold
+Loan Department,31,,TEXT,loan department,below_threshold
+Loan Hỗ trợ Nhóm,31,,TEXT,loan ho tro nhom,below_threshold
+Mobile Banking App,31,,TEXT,mobile banking app,below_threshold
+Tên Công ty,31,,TEXT,ten cong ty,below_threshold
+Account Summary,30,,TEXT,account summary,below_threshold
+Cài đặt mật khẩu,30,,TEXT,cai đat password,below_threshold
+Payment History,30,,TEXT,payment history,below_threshold
+Tập nhật thanh toán,30,,TEXT,tap nhat thanh toan,below_threshold
+Account Login,29,,TEXT,account login,below_threshold
+Bank Account,29,,TEXT,bank account,below_threshold
+Bank,27,,TEXT,bank,below_threshold
+Transactions,27,,TEXT,transaction,below_threshold
+Loan,26,,TEXT,loan,below_threshold
+Mortgage Provider,26,,TEXT,mortgage provider,below_threshold
+Mortgage Support Team,26,,TEXT,mortgage support team,below_threshold
+View Fees,26,,TEXT,view fee,below_threshold
+Điều người dùng,26,,TEXT,đieu nguoi dung,below_threshold
+Account Settings,25,,TEXT,account settings,below_threshold
+Loan Payments,25,,TEXT,loan payments,below_threshold
+Ngân hàng Hỗ trợ Khách hàng Điện thoại Số,23,,TEXT,ngan hang ho tro khach hang đien thoai so,below_threshold
+Contact Number,22,,TEXT,contact number,below_threshold
+Mortgage,22,,TEXT,mortgage,below_threshold
+Online Banking,22,,TEXT,online banking,below_threshold
+Thanks History,22,,TEXT,thanks history,below_threshold
+Điều điện thoại,22,,TEXT,đieu đien thoai,below_threshold
+24/7 Hỗ trợ khách hàng,21,,TEXT,24 7 ho tro khach hang,below_threshold
+App Ngân hàng,21,,TEXT,app ngan hang,below_threshold
+Billing History,21,,TEXT,billing history,below_threshold
+Credit Cards,21,,TEXT,credit cards,below_threshold
+Mortgage Department,21,,TEXT,mortgage department,below_threshold
+Trang ngân hàng,21,,TEXT,trang ngan hang,below_threshold
+Username,21,,TEXT,username,below_threshold
+Cancel,20,,TEXT,cancel,below_threshold
+Transaction ID,20,,TEXT,transaction id,below_threshold
+Điều Tài khoản,20,,TEXT,đieu account,below_threshold
+Điều Tài khoản Ngân hàng,20,,TEXT,đieu account ngan hang,below_threshold
+Conta Settings,19,,TEXT,conta settings,below_threshold
+Credit Card Provider,19,,TEXT,credit card provider,below_threshold
+Loan Management,19,,TEXT,loan management,below_threshold
+Loan Provider,19,,TEXT,loan provider,below_threshold
+Cards,18,,TEXT,cards,below_threshold
+Credit Card Activation,18,,TEXT,credit card activation,below_threshold
+Công ty vay,18,,TEXT,cong ty vay,below_threshold
+Loan Number,18,,TEXT,loan number,below_threshold
+Mortgage Assistance Team,18,,TEXT,mortgage assistance team,below_threshold
+Account Overview,17,,TEXT,account overview,below_threshold
+Card Details,17,,TEXT,card details,below_threshold
+Loan Support Team,17,,TEXT,loan support team,below_threshold
+Mortgage Department Điện thoại Số,17,,TEXT,mortgage department đien thoai so,below_threshold
+Bank Mobile App,16,,TEXT,bank mobile app,below_threshold
+Manage Cards,16,,TEXT,manage cards,below_threshold
+Mortgage Payments,16,,TEXT,mortgage payments,below_threshold
+Customer Support Department,15,,TEXT,customer support department,below_threshold
+Customer Support Number.,15,,TEXT,customer support number.,below_threshold
+Công ty Hỗ trợ số điện thoại,15,,TEXT,cong ty ho tro so đien thoai,below_threshold
+Hiện khoản số,15,,TEXT,hien khoan so,below_threshold
+Tập nhật tài khoản,15,,TEXT,tap nhat account,below_threshold
+tên sử dụng,15,,TEXT,ten su dung,below_threshold
+Điều điện thoại Hỗ trợ Khách hàng,15,,TEXT,đieu đien thoai ho tro khach hang,below_threshold
+Công ty Hỗ trợ Điện thoại số,14,,TEXT,cong ty ho tro đien thoai so,below_threshold
+Live Chat Support,14,,TEXT,live chat support,below_threshold
+My Account,14,,TEXT,my account,below_threshold
+Transaction History,14,,TEXT,transaction history,below_threshold
+Transfer,14,,TEXT,transfer,below_threshold
+Amount,13,,TEXT,amount,below_threshold
+Close Tài khoản,13,,TEXT,close account,below_threshold
+Loan Hỗ trợ Điện thoại Số,13,,TEXT,loan ho tro đien thoai so,below_threshold
+Nhạc Ngân hàng,13,,TEXT,nhac ngan hang,below_threshold
+Trang Ngân hàng,13,,TEXT,trang ngan hang,below_threshold
+tên mật khẩu,13,,TEXT,ten password,below_threshold
+Điều điện thoại Dịch vụ Khách hàng,13,,TEXT,đieu đien thoai dich vu khach hang,below_threshold
+Account Fees,12,,TEXT,account fee,below_threshold
+Ccount Number,12,,TEXT,ccount number,below_threshold
+Loan Số,12,,TEXT,loan so,below_threshold
+My Loans,12,,TEXT,my loans,below_threshold
+Ngân hàng Dịch vụ Điện thoại Số,12,,TEXT,ngan hang dich vu đien thoai so,below_threshold
+Nhạc máy tính,12,,TEXT,nhac may tinh,below_threshold
+Response Time,12,,TEXT,response time,below_threshold
+tên người dùng,12,,TEXT,ten nguoi dung,below_threshold
+Điều điện thoại dịch vụ khách hàng,12,,TEXT,đieu đien thoai dich vu khach hang,below_threshold
+Credit App,11,,TEXT,credit app,below_threshold
+Customer,11,,TEXT,customer,below_threshold
+Forgot Password,11,,TEXT,forgot password,below_threshold
+Loan ID,11,,TEXT,loan id,below_threshold
+Mobile App,11,,TEXT,mobile app,below_threshold
+Trang web Ngân hàng,11,,TEXT,trang web ngan hang,below_threshold
+Transfer Amount,11,,TEXT,transfer amount,below_threshold
+tín số tài khoản,11,,TEXT,tin so account,below_threshold
+Điều ID khách hàng,11,,TEXT,đieu id khach hang,below_threshold
+Điều hỗ trợ khách hàng Điện thoại,11,,TEXT,đieu ho tro khach hang đien thoai,below_threshold
+Điều mật,11,,TEXT,đieu mat,below_threshold
+Điều tiền gửi,11,,TEXT,đieu tien gui,below_threshold
+ATM Location,10,,TEXT,atm location,below_threshold
+CVV,10,,TEXT,cvv,below_threshold
+Contact,10,,TEXT,contact,below_threshold
+Credit Services,10,,TEXT,credit services,below_threshold
+Customer Support Channel,10,,TEXT,customer support channel,below_threshold
+Login,10,,TEXT,login,below_threshold
+Mortgage Payment,10,,TEXT,mortgage payment,below_threshold
+Name on Card,10,,TEXT,name on card,below_threshold
+Payment,10,,TEXT,payment,below_threshold
+Settings,10,,TEXT,settings,below_threshold
+Trang dịch vụ của người nhận,10,,TEXT,trang dich vu cua nguoi nhan,below_threshold
+Điều tài khoản của bạn,10,,TEXT,đieu account cua ban,below_threshold
+Điều điện thoại Dịch vụ khách hàng,10,,TEXT,đieu đien thoai dich vu khach hang,below_threshold
+Điều điện thoại Hỗ trợ khách hàng,10,,TEXT,đieu đien thoai ho tro khach hang,below_threshold
+24/7 Nhóm Hỗ trợ Khách hàng,9,,TEXT,24 7 nhom ho tro khach hang,below_threshold
+Account ID,9,,TEXT,account id,below_threshold
+Balance,9,,TEXT,balance,below_threshold
+Card Services,9,,TEXT,card services,below_threshold
+Close,9,,TEXT,close,below_threshold
+Conta Number,9,,TEXT,conta number,below_threshold
+Credit Management,9,,TEXT,credit management,below_threshold
+Customer Service,9,,TEXT,customer service,below_threshold
+Customer Support Email.,9,,TEXT,customer support email.,below_threshold
+Expiration Date,9,,TEXT,expiry date,below_threshold
+Login Page,9,,TEXT,login page,below_threshold
+Ngân hàng Dịch vụ Khách hàng Điện thoại Số,9,,TEXT,ngan hang dich vu khach hang đien thoai so,below_threshold
+Ngân hàng Hỗ trợ Điện thoại Số,9,,TEXT,ngan hang ho tro đien thoai so,below_threshold
+Nhạc máy,9,,TEXT,nhac may,below_threshold
+Nhạc tài khoản,9,,TEXT,nhac account,below_threshold
+Send Money,9,,TEXT,send money,below_threshold
+Support,9,,TEXT,support,below_threshold
+Transfer History,9,,TEXT,transfer history,below_threshold
+Transfer ID,9,,TEXT,transfer id,below_threshold
+Tài điện thoại,9,,TEXT,tai đien thoai,below_threshold
+Điện thư điện tử,9,,TEXT,đien thu đien tu,below_threshold
+Card Activation,8,,TEXT,card activation,below_threshold
+City,8,,TEXT,city,below_threshold
+Credit,8,,TEXT,credit,below_threshold
+Credit Account,8,,TEXT,credit account,below_threshold
+Credit Card Management,8,,TEXT,credit card management,below_threshold
+Công ty Tên,8,,TEXT,cong ty ten,below_threshold
+Delete Account,8,,TEXT,delete account,below_threshold
+Delete Profile,8,,TEXT,delete profile,below_threshold
+Google Maps,8,,TEXT,google maps,below_threshold
+Loan Details,8,,TEXT,loan details,below_threshold
+Loan Reference Number,8,,TEXT,loan reference number,below_threshold
+Mobile Bank,8,,TEXT,mobile bank,below_threshold
+Mortgage History,8,,TEXT,mortgage history,below_threshold
+Nhạc Tài khoản,8,,TEXT,nhac account,below_threshold
+Tập lịch sử thanh toán,8,,TEXT,tap lich su thanh toan,below_threshold
+Điều giao dịch,8,,TEXT,đieu transaction,below_threshold
+ATM Locator,7,,TEXT,atm locator,below_threshold
+Activate Card,7,,TEXT,activate card,below_threshold
+Branch Locator,7,,TEXT,branch locator,below_threshold
+Cancel Card,7,,TEXT,cancel card,below_threshold
+Cancel Loan,7,,TEXT,cancel loan,below_threshold
+Card Provider,7,,TEXT,card provider,below_threshold
+Contact Details,7,,TEXT,contact details,below_threshold
+Contact Method,7,,TEXT,contact method,below_threshold
+Credit Card Online Portal,7,,TEXT,credit card online portal,below_threshold
+Credit Name,7,,TEXT,credit name,below_threshold
+Công số tài khoản,7,,TEXT,cong so account,below_threshold
+Công ty thuê nhà,7,,TEXT,cong ty thue nha,below_threshold
+Công ty vay số điện thoại,7,,TEXT,cong ty vay so đien thoai,below_threshold
+Loan Account,7,,TEXT,loan account,below_threshold
+Loan Amount,7,,TEXT,loan amount,below_threshold
+Loan Department Điện thoại Số,7,,TEXT,loan department đien thoai so,below_threshold
+Mortgage Customer Support Team,7,,TEXT,mortgage customer support team,below_threshold
+Refund,7,,TEXT,refund,below_threshold
+Thanks,7,,TEXT,thanks,below_threshold
+Thông tin tài khoản,7,,TEXT,thong tin account,below_threshold
+Transaction Date,7,,TEXT,transaction date,below_threshold
+Tài số điện thoại,7,,TEXT,tai so đien thoai,below_threshold
+Tên tài khoản,7,,TEXT,ten account,below_threshold
+View Mortgage Payments,7,,TEXT,view mortgage payments,below_threshold
+Điều ID Tài khoản,7,,TEXT,đieu id account,below_threshold
+Điều tiền,7,,TEXT,đieu tien,below_threshold
+AMEX Hỗ trợ Khách hàng Điện thoại Số,6,AMEX,TEXT,amex ho tro khach hang đien thoai so,below_threshold
+Apple Maps,6,,TEXT,apple maps,below_threshold
+Bank Customer Service Number,6,,TEXT,bank customer service number,below_threshold
+Banking,6,,TEXT,banking,below_threshold
+Branch Locations,6,,TEXT,branch locations,below_threshold
+Comp,6,,TEXT,comp,below_threshold
+Contact Page,6,,TEXT,contact page,below_threshold
+Contact Thông tin,6,,TEXT,contact thong tin,below_threshold
+Credit Settings,6,,TEXT,credit settings,below_threshold
+Customer Service Number,6,,TEXT,customer service number,below_threshold
+Customer Support Work Hours.,6,,TEXT,customer support work hours.,below_threshold
+Các thẻ tín dụng,6,,TEXT,cac card tin dung,below_threshold
+Công ty Hỗ trợ Điện thoại,6,,TEXT,cong ty ho tro đien thoai,below_threshold
+Công ty đặt cọc,6,,TEXT,cong ty đat coc,below_threshold
+Công việc ngân hàng,6,,TEXT,cong viec ngan hang,below_threshold
+Loan bộ phận số điện thoại,6,,TEXT,loan bo phan so đien thoai,below_threshold
+Mortgage Hỗ trợ Bộ,6,,TEXT,mortgage ho tro bo,below_threshold
+Mortgage Services,6,,TEXT,mortgage services,below_threshold
+Name on the Card,6,,TEXT,name on card card,below_threshold
+Order Number,6,,TEXT,order number,below_threshold
+Request Cancellation,6,,TEXT,request cancellation,below_threshold
+Save,6,,TEXT,save,below_threshold
+Trang dịch vụ ngân hàng,6,,TEXT,trang dich vu ngan hang,below_threshold
+Transfer Date,6,,TEXT,transfer date,below_threshold
+Transfer Reference Number,6,,TEXT,transfer reference number,below_threshold
+Transfers,6,,TEXT,transfers,below_threshold
+Tên công ty,6,,TEXT,ten cong ty,below_threshold
+Tập lịch giao dịch,6,,TEXT,tap lich transaction,below_threshold
+Tập toán tổng hợp,6,,TEXT,tap toan tong hop,below_threshold
+View Payments,6,,TEXT,view payments,below_threshold
+name,6,,TEXT,name,below_threshold
+Điều Tài khoản Loan,6,,TEXT,đieu account loan,below_threshold
+Điều dùng tài khoản,6,,TEXT,đieu dung account,below_threshold
+Điều giao dịch ID,6,,TEXT,đieu transaction id,below_threshold
+Điều tài khoản của người nhận,6,,TEXT,đieu account cua nguoi nhan,below_threshold
+Điều tài khoản ngân hàng,6,,TEXT,đieu account ngan hang,below_threshold
+Điều đơn,6,,TEXT,đieu đon,below_threshold
+Điện thư,6,,TEXT,đien thu,below_threshold
+Account Information,5,,TEXT,account information,below_threshold
+American Express Dịch vụ Điện thoại Số,5,AMERICAN_EXPRESS,TEXT,american express dich vu đien thoai so,below_threshold
+App Name,5,,TEXT,app name,below_threshold
+Block Card,5,,TEXT,block card,below_threshold
+Card Issuer,5,,TEXT,card issuer,below_threshold
+Cards Quản lý,5,,TEXT,cards quan ly,below_threshold
+Check Balance,5,,TEXT,check balance,below_threshold
+Conta Cancel,5,,TEXT,conta cancel,below_threshold
+Conta Summary,5,,TEXT,conta summary,below_threshold
+Contact Cancel,5,,TEXT,contact cancel,below_threshold
+Contact Closed,5,,TEXT,contact closed,below_threshold
+Credit Card Account,5,,TEXT,credit card account,below_threshold
+Credit Card Services,5,,TEXT,credit card services,below_threshold
+Customer Number,5,,TEXT,customer number,below_threshold
+Date,5,,TEXT,date,below_threshold
+Hôm làm việc,5,,TEXT,hom lam viec,below_threshold
+Loan Application Number,5,,TEXT,loan application number,below_threshold
+Loan Hỗ trợ Số Điện thoại,5,,TEXT,loan ho tro so đien thoai,below_threshold
+Loan Số tài khoản,5,,TEXT,loan so account,below_threshold
+Loan Tài khoản,5,,TEXT,loan account,below_threshold
+Loan Ứng dụng ID,5,,TEXT,loan ung dung id,below_threshold
+Lock Card,5,,TEXT,lock card,below_threshold
+Mobile Banking,5,,TEXT,mobile banking,below_threshold
+Mortgage Assistance Department,5,,TEXT,mortgage assistance department,below_threshold
+Mortgage Cancellation Department,5,,TEXT,mortgage cancellation department,below_threshold
+Mortgage Department Điện thoại số,5,,TEXT,mortgage department đien thoai so,below_threshold
+Mortgage bộ phận số điện thoại,5,,TEXT,mortgage bo phan so đien thoai,below_threshold
+My Cards,5,,TEXT,my cards,below_threshold
+Name Ngân hàng,5,,TEXT,name ngan hang,below_threshold
+Name ngân hàng,5,,TEXT,name ngan hang,below_threshold
+Nhà công ty,5,,TEXT,nha cong ty,below_threshold
+Nhạc nhân,5,,TEXT,nhac nhan,below_threshold
+Number Order,5,,TEXT,number order,below_threshold
+Online Banking Portal,5,,TEXT,online banking portal,below_threshold
+Online Lender 2,5,,TEXT,online lender 2,below_threshold
+Số điện thoại Hỗ trợ Khách hàng Ngân hàng,5,,TEXT,so đien thoai ho tro khach hang ngan hang,below_threshold
+Tay sinh,5,,TEXT,tay sinh,below_threshold
+Trang web của Ngân hàng,5,,TEXT,trang web cua ngan hang,below_threshold
+Trang web ngân hàng,5,,TEXT,trang web ngan hang,below_threshold
+Tài điện thoại hỗ trợ khách hàng,5,,TEXT,tai đien thoai ho tro khach hang,below_threshold
+Tên sinh,5,,TEXT,ten sinh,below_threshold
+Update,5,,TEXT,update,below_threshold
+View Account Fees,5,,TEXT,view account fee,below_threshold
+Zip Code,5,,TEXT,zip code,below_threshold
+Điều,5,,TEXT,đieu,below_threshold
+Điều ID Khách hàng,5,,TEXT,đieu id khach hang,below_threshold
+Điều Tài khoản thuê nhà,5,,TEXT,đieu account thue nha,below_threshold
+Điều Điện thoại Hỗ trợ Khách hàng,5,,TEXT,đieu đien thoai ho tro khach hang,below_threshold
+Account Charges,4,,TEXT,account charges,below_threshold
+Account Details,4,,TEXT,account details,below_threshold
+Account Recovery,4,,TEXT,account recovery,below_threshold
+Bank App Name,4,,TEXT,bank app name,below_threshold
+Bank Branch,4,,TEXT,bank branch,below_threshold
+Billing Details,4,,TEXT,billing details,below_threshold
+Billing Information,4,,TEXT,billing information,below_threshold
+Cancel Account,4,,TEXT,cancel account,below_threshold
+Cancel Transfer,4,,TEXT,cancel transfer,below_threshold
+Card Balances,4,,TEXT,card balances,below_threshold
+Card Information,4,,TEXT,card information,below_threshold
+Cardholder Name,4,,TEXT,cardholder name,below_threshold
+Cards Hủy,4,,TEXT,cards huy,below_threshold
+Cards Management,4,,TEXT,cards management,below_threshold
+Create Account,4,,TEXT,create account,below_threshold
+Credit Card Details,4,,TEXT,credit card details,below_threshold
+Credit Card Name,4,,TEXT,credit card name,below_threshold
+Credit Number,4,,TEXT,credit number,below_threshold
+Customer Support Account Number,4,,TEXT,customer support account number,below_threshold
+Công số Tài khoản,4,,TEXT,cong so account,below_threshold
+Công ty Hỗ trợ,4,,TEXT,cong ty ho tro,below_threshold
+Công ty Ngân hàng,4,,TEXT,cong ty ngan hang,below_threshold
+Công ty bảo mật,4,,TEXT,cong ty security,below_threshold
+Công ty dịch vụ tiền mặt,4,,TEXT,cong ty dich vu tien mat,below_threshold
+Công ty và điều kiện,4,,TEXT,cong ty va đieu kien,below_threshold
+Công ty Đánh giá,4,,TEXT,cong ty đanh gia,below_threshold
+Công ước và Điều khoản,4,,TEXT,cong uoc va đieu khoan,below_threshold
+Cắt tài khoản,4,,TEXT,cat account,below_threshold
+Hiện khoản ID,4,,TEXT,hien khoan id,below_threshold
+Hiện khoản tín dụng,4,,TEXT,hien khoan tin dung,below_threshold
+Loan Assistance Team,4,,TEXT,loan assistance team,below_threshold
+Loan Department Điện thoại số,4,,TEXT,loan department đien thoai so,below_threshold
+Loan Hỗ trợ Khách hàng,4,,TEXT,loan ho tro khach hang,below_threshold
+Loan Số tham khảo,4,,TEXT,loan so tham khao,below_threshold
+Mobile App Name,4,,TEXT,mobile app name,below_threshold
+Mortgage Customer Service Team,4,,TEXT,mortgage customer service team,below_threshold
+Mortgage Hỗ trợ Nhóm,4,,TEXT,mortgage ho tro nhom,below_threshold
+Mortgage Hủy bỏ số điện thoại,4,,TEXT,mortgage huy bo so đien thoai,below_threshold
+Ngân hàng Hỗ trợ Khách hàng,4,,TEXT,ngan hang ho tro khach hang,below_threshold
+Nhà người sử dụng,4,,TEXT,nha nguoi su dung,below_threshold
+Nhà tài khoản,4,,TEXT,nha account,below_threshold
+Nhạc,4,,TEXT,nhac,below_threshold
+Online Lender 1,4,,TEXT,online lender 1,below_threshold
+Pricing,4,,TEXT,pricing,below_threshold
+Request Loan Cancellation,4,,TEXT,request loan cancellation,below_threshold
+Submit,4,,TEXT,submit,below_threshold
+Thanks Details,4,,TEXT,thanks details,below_threshold
+Thanks ID,4,,TEXT,thanks id,below_threshold
+Thiện giao dịch,4,,TEXT,thien transaction,below_threshold
+Thuyết minh,4,,TEXT,thuyet minh,below_threshold
+Trang dịch vụ số,4,,TEXT,trang dich vu so,below_threshold
+Travel Dates,4,,TEXT,travel dates,below_threshold
+Type Tài khoản,4,,TEXT,type account,below_threshold
+Tài liệu thẻ tín dụng,4,,TEXT,tai lieu card tin dung,below_threshold
+Tên của người nhận,4,,TEXT,ten cua nguoi nhan,below_threshold
+Tên đầu tiên,4,,TEXT,ten đau tien,below_threshold
+Tất cả tên,4,,TEXT,tat ca ten,below_threshold
+Tập trình giao dịch,4,,TEXT,tap trinh transaction,below_threshold
+View Loan Payments,4,,TEXT,view loan payments,below_threshold
+View Payment History,4,,TEXT,view payment history,below_threshold
+Void,4,,TEXT,void,below_threshold
+Điều Chuyển khoản Ngân hàng,4,,TEXT,đieu chuyen khoan ngan hang,below_threshold
+Điều Số Tài khoản Loan,4,,TEXT,đieu so account loan,below_threshold
+Điều chuyển khoản,4,,TEXT,đieu chuyen khoan,below_threshold
+Điều hỗ trợ khách hàng,4,,TEXT,đieu ho tro khach hang,below_threshold
+Điều khoản vay,4,,TEXT,đieu khoan vay,below_threshold
+Điều số điện thoại hỗ trợ khách hàng,4,,TEXT,đieu so đien thoai ho tro khach hang,below_threshold
+Điều thuê,4,,TEXT,đieu thue,below_threshold
+Điều thẻ,4,,TEXT,đieu card,below_threshold
+Điều đăng ký,4,,TEXT,đieu đang ky,below_threshold
+Điều đặt tài khoản,4,,TEXT,đieu đat account,below_threshold
+Điện,4,,TEXT,đien,below_threshold
+24/7 Customer Support Team,3,,TEXT,24 7 customer support team,below_threshold
+AMEX Hỗ trợ khách hàng Điện thoại Số,3,AMEX,TEXT,amex ho tro khach hang đien thoai so,below_threshold
+Account Username,3,,TEXT,account username,below_threshold
+Activate,3,,TEXT,activate,below_threshold
+American Express Dịch vụ Điện thoại số,3,AMERICAN_EXPRESS,TEXT,american express dich vu đien thoai so,below_threshold
+American Express Hỗ trợ Điện thoại Số,3,AMERICAN_EXPRESS,TEXT,american express ho tro đien thoai so,below_threshold
+Annual Fees,3,,TEXT,annual fee,below_threshold
+App Mobile Bank,3,,TEXT,app mobile bank,below_threshold
+App Store/Google Play Store,3,,TEXT,appstore playstore store,below_threshold
+Bank Khách hàng Dịch vụ Điện thoại Số,3,,TEXT,bank khach hang dich vu đien thoai so,below_threshold
+Billing Summary,3,,TEXT,billing summary,below_threshold
+Branch Location,3,,TEXT,branch location,below_threshold
+Cards Details,3,,TEXT,cards details,below_threshold
+Cards Manage,3,,TEXT,cards manage,below_threshold
+Cards Settings,3,,TEXT,cards settings,below_threshold
+Cards quản lý,3,,TEXT,cards quan ly,below_threshold
+Credit Card App,3,,TEXT,credit card app,below_threshold
+Credit Card Information,3,,TEXT,credit card information,below_threshold
+Credit Card!,3,,TEXT,credit card!,below_threshold
+Credit Details,3,,TEXT,credit details,below_threshold
+Customer Card,3,,TEXT,customer card,below_threshold
+Customer Hỗ trợ Điện thoại Số,3,,TEXT,customer ho tro đien thoai so,below_threshold
+Customer Name,3,,TEXT,customer name,below_threshold
+Customer Service Department,3,,TEXT,customer service department,below_threshold
+Customer Service Team,3,,TEXT,customer service team,below_threshold
+Customer Services,3,,TEXT,customer services,below_threshold
+Customer URL.,3,,TEXT,customer url.,below_threshold
+Cài đặt an toàn,3,,TEXT,cai đat an toan,below_threshold
+Cài đặt thẻ,3,,TEXT,cai đat card,below_threshold
+Các cài đặt tài khoản,3,,TEXT,cac cai đat account,below_threshold
+Các số điện thoại hỗ trợ khách hàng,3,,TEXT,cac so đien thoai ho tro khach hang,below_threshold
+Các thẻ quản lý,3,,TEXT,cac card quan ly,below_threshold
+Công số Tài khoản của Người nhận,3,,TEXT,cong so account cua nguoi nhan,below_threshold
+Công ty Hỗ trợ Điện thoại số.,3,,TEXT,cong ty ho tro đien thoai so.,below_threshold
+Công ty Số,3,,TEXT,cong ty so,below_threshold
+Công việc thẻ,3,,TEXT,cong viec card,below_threshold
+Công ước quyền riêng tư,3,,TEXT,cong uoc quyen rieng tu,below_threshold
+Cắt Tài khoản,3,,TEXT,cat account,below_threshold
+Fee and Charges,3,,TEXT,fee and charges,below_threshold
+Find ATM,3,,TEXT,find atm,below_threshold
+Fraud Department,3,,TEXT,fraud department,below_threshold
+Google Play,3,,TEXT,playstore,below_threshold
+Hiện dịch,3,,TEXT,hien dich,below_threshold
+Hiện khoản dịch vụ điện thoại của khách hàng,3,,TEXT,hien khoan dich vu đien thoai cua khach hang,below_threshold
+Hour Working,3,,TEXT,hour working,below_threshold
+Hủy bỏ Bộ Điện thoại số,3,,TEXT,huy bo bo đien thoai so,below_threshold
+Identification Documents,3,,TEXT,identification documents,below_threshold
+Lan Tài khoản của tôi,3,,TEXT,lan account cua toi,below_threshold
+Loan Application,3,,TEXT,loan application,below_threshold
+Loan Cancellation Department,3,,TEXT,loan cancellation department,below_threshold
+Loan Customer Support Team,3,,TEXT,loan customer support team,below_threshold
+Loan Dịch vụ,3,,TEXT,loan dich vu,below_threshold
+Loan Hủy bỏ số điện thoại,3,,TEXT,loan huy bo so đien thoai,below_threshold
+Loan Hủy vay số điện thoại,3,,TEXT,loan huy vay so đien thoai,below_threshold
+Loan Processing Time,3,,TEXT,loan processing time,below_threshold
+Loan Số ứng dụng,3,,TEXT,loan so ung dung,below_threshold
+Mortgage Agreement,3,,TEXT,mortgage agreement,below_threshold
+Mortgage Assistance,3,,TEXT,mortgage assistance,below_threshold
+Mortgage Dịch vụ khách hàng,3,,TEXT,mortgage dich vu khach hang,below_threshold
+Mortgage Hỗ trợ Khách hàng,3,,TEXT,mortgage ho tro khach hang,below_threshold
+Mortgage Hỗ trợ Điện thoại Số,3,,TEXT,mortgage ho tro đien thoai so,below_threshold
+Mortgage Lender,3,,TEXT,mortgage lender,below_threshold
+Mortgage Portal,3,,TEXT,mortgage portal,below_threshold
+Mortgage Service,3,,TEXT,mortgage service,below_threshold
+My Fees,3,,TEXT,my fee,below_threshold
+My Orders,3,,TEXT,my orders,below_threshold
+My Transactions,3,,TEXT,my transaction,below_threshold
+NameBank,3,,TEXT,namebank,below_threshold
+Ngày sinh,3,,TEXT,ngay sinh,below_threshold
+Nhạc tài khoản người nhận,3,,TEXT,nhac account nguoi nhan,below_threshold
+Nhạc điện thoại hỗ trợ khách hàng,3,,TEXT,nhac đien thoai ho tro khach hang,below_threshold
+Number Tài khoản Ngân hàng,3,,TEXT,number account ngan hang,below_threshold
+Recent Transactions,3,,TEXT,recent transaction,below_threshold
+Report Lost/Stolen,3,,TEXT,report lost stolen,below_threshold
+Security Code,3,,TEXT,security code,below_threshold
+Set Password,3,,TEXT,set password,below_threshold
+Social Media Platform,3,,TEXT,social media platform,below_threshold
+Statement,3,,TEXT,statement,below_threshold
+Số Dịch vụ Khách hàng Ngân hàng,3,,TEXT,so dich vu khach hang ngan hang,below_threshold
+Số tài khoản của bạn,3,,TEXT,so account cua ban,below_threshold
+Thuyết định tài khoản,3,,TEXT,thuyet đinh account,below_threshold
+Thuyền hỗ trợ khách hàng Điện thoại số,3,,TEXT,thuyen ho tro khach hang đien thoai so,below_threshold
+Thời gian,3,,TEXT,thoi gian,below_threshold
+Thời gian và thời gian,3,,TEXT,thoi gian va thoi gian,below_threshold
+Transaction,3,,TEXT,transaction,below_threshold
+Transaction Amount,3,,TEXT,transaction amount,below_threshold
+Transaction Details,3,,TEXT,transaction details,below_threshold
+Transaction Number,3,,TEXT,transaction number,below_threshold
+Trung Quốc 1,3,,TEXT,trung quoc 1,below_threshold
+Trung Quốc 2,3,,TEXT,trung quoc 2,below_threshold
+Tài khoản hỗ trợ khách hàng,3,,TEXT,account ho tro khach hang,below_threshold
+Tên cuối cùng,3,,TEXT,ten cuoi cung,below_threshold
+Tên ngân hàng,3,,TEXT,ten ngan hang,below_threshold
+Tên thẻ,3,,TEXT,ten card,below_threshold
+Tên điện thoại,3,,TEXT,ten đien thoai,below_threshold
+Tìm kiếm một số thông tin chi tiết của bạn.,3,,TEXT,tim kiem mot so thong tin chi tiet cua ban.,below_threshold
+Tín dụng,3,,TEXT,tin dung,below_threshold
+Tăng cường điện thoại,3,,TEXT,tang cuong đien thoai,below_threshold
+Tăng trợ điện thoại,3,,TEXT,tang tro đien thoai,below_threshold
+Tập lịch sử tài khoản,3,,TEXT,tap lich su account,below_threshold
+Tập nhật giao dịch,3,,TEXT,tap nhat transaction,below_threshold
+Tập toán Lịch sử,3,,TEXT,tap toan lich su,below_threshold
+Tập toán lịch sử,3,,TEXT,tap toan lich su,below_threshold
+Visa Card Number,3,VISA,TEXT,visa cardnumber,below_threshold
+password,3,,TEXT,password,below_threshold
+tên của người gửi,3,,TEXT,ten cua nguoi gui,below_threshold
+tên sử,3,,TEXT,ten su,below_threshold
+Điều Tài khoản Mortgage,3,,TEXT,đieu account mortgage,below_threshold
+Điều chuyển giao,3,,TEXT,đieu chuyen giao,below_threshold
+Điều cuối cùng,3,,TEXT,đieu cuoi cung,below_threshold
+Điều khoản hỗ trợ khách hàng,3,,TEXT,đieu khoan ho tro khach hang,below_threshold
+Điều khoản tiền ôn,3,,TEXT,đieu khoan tien on,below_threshold
+Điều ngân hàng,3,,TEXT,đieu ngan hang,below_threshold
+Điều tín dụng,3,,TEXT,đieu tin dung,below_threshold
+Điều Địa chỉ Thư,3,,TEXT,đieu đia chi thu,below_threshold
+Điều điện thoại của phòng gian lận,3,,TEXT,đieu đien thoai cua phong gian lan,below_threshold
+Điều đầu tiên,3,,TEXT,đieu đau tien,below_threshold
+Điểm hỗ trợ tài khoản,3,,TEXT,điem ho tro account,below_threshold
+Điểm hủy bỏ tiền đặt cọc,3,,TEXT,điem huy bo tien đat coc,below_threshold
+Điển khoản ngân hàng,3,,TEXT,đien khoan ngan hang,below_threshold
+Điện ích,3,,TEXT,đien ich,below_threshold
+Điện ích của Công ty,3,,TEXT,đien ich cua cong ty,below_threshold
+Đăng ký thư,3,,TEXT,đang ky thu,below_threshold
+24/7 Live Chat,2,,TEXT,24 7 live chat,below_threshold
+AMEX Dịch vụ Điện thoại Số,2,AMEX,TEXT,amex dich vu đien thoai so,below_threshold
+AMEX Dịch vụ Điện thoại số,2,AMEX,TEXT,amex dich vu đien thoai so,below_threshold
+AMEX Hỗ trợ Khách hàng,2,AMEX,TEXT,amex ho tro khach hang,below_threshold
+Account Credentials,2,,TEXT,account credentials,below_threshold
+Account Management,2,,TEXT,account management,below_threshold
+Account Services,2,,TEXT,account services,below_threshold
+American Express,2,AMERICAN_EXPRESS,TEXT,american express,below_threshold
+American Express Dịch vụ Điện thoại Số điện thoại,2,AMERICAN_EXPRESS,TEXT,american express dich vu đien thoai so đien thoai,below_threshold
+Balances,2,,TEXT,balances,below_threshold
+Bank Branch Location,2,,TEXT,bank branch location,below_threshold
+Bank Branch Locations,2,,TEXT,bank branch locations,below_threshold
+Bank Contact Number,2,,TEXT,bank contact number,below_threshold
+Bank Helpline Number,2,,TEXT,bank helpline number,below_threshold
+Bank's,2,,TEXT,bank s,below_threshold
+Banking Mobile App,2,,TEXT,banking mobile app,below_threshold
+Billing Statements,2,,TEXT,billing statement,below_threshold
+Block,2,,TEXT,block,below_threshold
+C Password,2,,TEXT,c password,below_threshold
+Cancell,2,,TEXT,cancell,below_threshold
+Cancellation,2,,TEXT,cancellation,below_threshold
+Card Fees,2,,TEXT,card fee,below_threshold
+Card Issuing Bank,2,,TEXT,card issuing bank,below_threshold
+Card Settings,2,,TEXT,card settings,below_threshold
+Cards Services,2,,TEXT,cards services,below_threshold
+Cards hủy,2,,TEXT,cards huy,below_threshold
+Cart Number,2,,TEXT,cart number,below_threshold
+Check Mortgage Payments,2,,TEXT,check mortgage payments,below_threshold
+Chiên cứu trực tuyến,2,,TEXT,chien cuu truc tuyen,below_threshold
+Close Card,2,,TEXT,close card,below_threshold
+Code Security,2,,TEXT,code security,below_threshold
+Company,2,,TEXT,company,below_threshold
+Conta Closes,2,,TEXT,conta closes,below_threshold
+Contact Card,2,,TEXT,contact card,below_threshold
+Contact Fees,2,,TEXT,contact fee,below_threshold
+Credit Card Activation App,2,,TEXT,credit card activation app,below_threshold
+Credit Card Balance,2,,TEXT,credit card balance,below_threshold
+Credit Card Summary,2,,TEXT,credit card summary,below_threshold
+Credit Information,2,,TEXT,credit information,below_threshold
+Credit Score,2,,TEXT,credit score,below_threshold
+Credit Support Team,2,,TEXT,credit support team,below_threshold
+Credit and Charges,2,,TEXT,credit and charges,below_threshold
+Credit and Fees,2,,TEXT,credit and fee,below_threshold
+Custom Phone.,2,,TEXT,custom phone.,below_threshold
+Custom Support Number,2,,TEXT,custom support number,below_threshold
+Customer Activation,2,,TEXT,customer activation,below_threshold
+Customer Hỗ trợ,2,,TEXT,customer ho tro,below_threshold
+Customer Information,2,,TEXT,customer information,below_threshold
+Customer Support Channels,2,,TEXT,customer support channels,below_threshold
+Customer Support Contact,2,,TEXT,customer support contact,below_threshold
+Customer Support Live Chat,2,,TEXT,customer support live chat,below_threshold
+Customer Support Services,2,,TEXT,customer support services,below_threshold
+Customer Working Hours.,2,,TEXT,customer hours.,below_threshold
+Customer hỗ trợ,2,,TEXT,customer ho tro,below_threshold
+Cài đặt,2,,TEXT,cai đat,below_threshold
+Cài đặt Password,2,,TEXT,cai đat password,below_threshold
+Cài đặt bảo mật,2,,TEXT,cai đat security,below_threshold
+Cài đặt hồ sơ,2,,TEXT,cai đat ho so,below_threshold
+Các Card Đạt,2,,TEXT,cac card đat,below_threshold
+Các Cài đặt tài khoản,2,,TEXT,cac cai đat account,below_threshold
+Các Tờ Hủy,2,,TEXT,cac to huy,below_threshold
+Các khoản hỗ trợ điện thoại,2,,TEXT,cac khoan ho tro đien thoai,below_threshold
+Các thẻ hủy,2,,TEXT,cac card huy,below_threshold
+Câu thuẫn tài khoản,2,,TEXT,cau thuan account,below_threshold
+Công sách bảo mật,2,,TEXT,cong sach security,below_threshold
+Công sách quyền riêng tư,2,,TEXT,cong sach quyen rieng tu,below_threshold
+Công ty Mobile App,2,,TEXT,cong ty mobile app,below_threshold
+Công ty Name,2,,TEXT,cong ty name,below_threshold
+Công ty Tài khoản Đơn vị,2,,TEXT,cong ty account đon vi,below_threshold
+Công ty bảo hiểm,2,,TEXT,cong ty bao hiem,below_threshold
+Công ty dịch vụ,2,,TEXT,cong ty dich vu,below_threshold
+Công ty hủy bỏ,2,,TEXT,cong ty huy bo,below_threshold
+Công ty hủy bỏ tiền đặt cọc,2,,TEXT,cong ty huy bo tien đat coc,below_threshold
+Công ty kích hoạt,2,,TEXT,cong ty activate,below_threshold
+Công ty mật khẩu,2,,TEXT,cong ty password,below_threshold
+Công ty thanh toán,2,,TEXT,cong ty thanh toan,below_threshold
+Công ty thẻ tín dụng,2,,TEXT,cong ty card tin dung,below_threshold
+Công ty vay tiền,2,,TEXT,cong ty vay tien,below_threshold
+Công ty ảo,2,,TEXT,cong ty ao,below_threshold
+Công ty ủng hộ,2,,TEXT,cong ty ung ho,below_threshold
+Công ty Ứng dụng,2,,TEXT,cong ty ung dung,below_threshold
+Công việc cài đặt thẻ,2,,TEXT,cong viec cai đat card,below_threshold
+Công việc kích hoạt thẻ,2,,TEXT,cong viec activate card,below_threshold
+Công việc quản lý thẻ,2,,TEXT,cong viec quan ly card,below_threshold
+Công việc tín dụng,2,,TEXT,cong viec tin dung,below_threshold
+Công ước và điều kiện,2,,TEXT,cong uoc va đieu kien,below_threshold
+Dịch vụ Khách hàng Ngân hàng,2,,TEXT,dich vu khach hang ngan hang,below_threshold
+Fee Summary,2,,TEXT,fee summary,below_threshold
+Hiện hỗ trợ điện thoại,2,,TEXT,hien ho tro đien thoai,below_threshold
+Hiện khoản Số,2,,TEXT,hien khoan so,below_threshold
+Hiện khoản dịch vụ điện thoại khách hàng,2,,TEXT,hien khoan dich vu đien thoai khach hang,below_threshold
+Hiện khoản hỗ trợ khách hàng,2,,TEXT,hien khoan ho tro khach hang,below_threshold
+Hiện khoản hỗ trợ khách hàng Điện thoại số,2,,TEXT,hien khoan ho tro khach hang đien thoai so,below_threshold
+Hiện thẻ tín dụng,2,,TEXT,hien card tin dung,below_threshold
+Hiện ích hỗ trợ khách hàng Điện thoại số,2,,TEXT,hien ich ho tro khach hang đien thoai so,below_threshold
+Học tiền mặt hỗ trợ khách hàng,2,,TEXT,hoc tien mat ho tro khach hang,below_threshold
+Học tài khoản,2,,TEXT,hoc account,below_threshold
+Hộp khoản,2,,TEXT,hop khoan,below_threshold
+Hộp khoản ngân hàng,2,,TEXT,hop khoan ngan hang,below_threshold
+Hộp số ngân hàng Routing,2,,TEXT,hop so ngan hang routing,below_threshold
+Hộp tiền_,2,,TEXT,hop tien,below_threshold
+Hủy,2,,TEXT,huy,below_threshold
+Hủy bỏ,2,,TEXT,huy bo,below_threshold
+Hủy bỏ tài khoản số,2,,TEXT,huy bo account so,below_threshold
+Last Name,2,,TEXT,last name,below_threshold
+Lending Platforms,2,,TEXT,lending platforms,below_threshold
+Loan Agreement Date,2,,TEXT,loan agreement date,below_threshold
+Loan Application ID,2,,TEXT,loan application id,below_threshold
+Loan Cancellation,2,,TEXT,loan cancellation,below_threshold
+Loan Dashboard,2,,TEXT,loan dashboard,below_threshold
+Loan Hỗ trợ Bộ,2,,TEXT,loan ho tro bo,below_threshold
+Loan Hỗ trợ Khách hàng Điện thoại Số,2,,TEXT,loan ho tro khach hang đien thoai so,below_threshold
+Loan Hủy khoản,2,,TEXT,loan huy khoan,below_threshold
+Loan Hủy khoản vay của chúng tôi,2,,TEXT,loan huy khoan vay cua chung toi,below_threshold
+Loan Quản lý,2,,TEXT,loan quan ly,below_threshold
+Loan Services,2,,TEXT,loan services,below_threshold
+Loan Start Date,2,,TEXT,loan start date,below_threshold
+Location,2,,TEXT,location,below_threshold
+Mortgage Cancellation,2,,TEXT,mortgage cancellation,below_threshold
+Mortgage Customer Service,2,,TEXT,mortgage customer service,below_threshold
+Mortgage Dashboard,2,,TEXT,mortgage dashboard,below_threshold
+Mortgage Department Number,2,,TEXT,mortgage department number,below_threshold
+Mortgage Helpline Number,2,,TEXT,mortgage helpline number,below_threshold
+Mortgage Hỗ trợ Khách hàng Nhóm,2,,TEXT,mortgage ho tro khach hang nhom,below_threshold
+Mortgage Nhóm Hỗ trợ Khách hàng,2,,TEXT,mortgage nhom ho tro khach hang,below_threshold
+Mortgage Payment Portal,2,,TEXT,mortgage payment portal,below_threshold
+Mortgage Specialist,2,,TEXT,mortgage specialist,below_threshold
+Mortgage Điện thoại Số,2,,TEXT,mortgage đien thoai so,below_threshold
+Nhà sử dụng,2,,TEXT,nha su dung,below_threshold
+Nhạc của người bạn,2,,TEXT,nhac cua nguoi ban,below_threshold
+Nhạc ngân hàng của bạn,2,,TEXT,nhac ngan hang cua ban,below_threshold
+Nhạc sĩ,2,,TEXT,nhac si,below_threshold
+Nhạc tài khoản chủ tài khoản,2,,TEXT,nhac account chu account,below_threshold
+Nhạc đầy đủ,2,,TEXT,nhac đay đu,below_threshold
+Nó Ngân hàng,2,,TEXT,no ngan hang,below_threshold
+Nó Tài khoản,2,,TEXT,no account,below_threshold
+Nó Tài khoản Ngân hàng,2,,TEXT,no account ngan hang,below_threshold
+One-Time Password,2,,TEXT,one time password,below_threshold
+Online Banking Platform,2,,TEXT,online banking platform,below_threshold
+Order History,2,,TEXT,order history,below_threshold
+Password Recovery,2,,TEXT,password recovery,below_threshold
+Privacy,2,,TEXT,privacy,below_threshold
+Product/Service,2,,TEXT,product service,below_threshold
+Reason,2,,TEXT,reason,below_threshold
+Response Timeframe,2,,TEXT,response timeframe,below_threshold
+Sign In,2,,TEXT,sign in,below_threshold
+Sign Up,2,,TEXT,sign up,below_threshold
+Sign-in,2,,TEXT,sign in,below_threshold
+TID chuyển khoản,2,,TEXT,tid chuyen khoan,below_threshold
+TID giao dịch,2,,TEXT,tid transaction,below_threshold
+Tay của sinh,2,,TEXT,tay cua sinh,below_threshold
+Thanh Lịch sử giao dịch,2,,TEXT,thanh lich su transaction,below_threshold
+Thanh lịch sử giao dịch,2,,TEXT,thanh lich su transaction,below_threshold
+Thuyền chuyển,2,,TEXT,thuyen chuyen,below_threshold
+Thuyền tài chính,2,,TEXT,thuyen tai chinh,below_threshold
+Thuế Dịch vụ,2,,TEXT,thue dich vu,below_threshold
+Thời gian và Thời gian,2,,TEXT,thoi gian va thoi gian,below_threshold
+Thời xử lý,2,,TEXT,thoi xu ly,below_threshold
+Time,2,,TEXT,time,below_threshold
+Tin tức cá nhân,2,,TEXT,tin tuc ca nhan,below_threshold
+Tranaction Number,2,,TEXT,tranaction number,below_threshold
+Trang chuyển khoản,2,,TEXT,trang chuyen khoan,below_threshold
+Trang dịch vụ lịch sử,2,,TEXT,trang dich vu lich su,below_threshold
+Trang dịch vụ điện thoại của khách hàng,2,,TEXT,trang dich vu đien thoai cua khach hang,below_threshold
+Trang tín dụng 1,2,,TEXT,trang tin dung 1,below_threshold
+Trang tín dụng 2,2,,TEXT,trang tin dung 2,below_threshold
+Trang tín dụng 3,2,,TEXT,trang tin dung 3,below_threshold
+Transfer Details,2,,TEXT,transfer details,below_threshold
+Transfer Funds,2,,TEXT,transfer funds,below_threshold
+Trong khoản thanh toán,2,,TEXT,trong khoan thanh toan,below_threshold
+Trung dịch vụ ngân hàng,2,,TEXT,trung dich vu ngan hang,below_threshold
+Tài khoản,2,,TEXT,account,below_threshold
+Tài khoản chuyển khoản,2,,TEXT,account chuyen khoan,below_threshold
+Tài khoản của tôi,2,,TEXT,account cua toi,below_threshold
+Tài khoản điện thoại hỗ trợ khách hàng,2,,TEXT,account đien thoai ho tro khach hang,below_threshold
+Tài liệu liên lạc,2,,TEXT,tai lieu lien lac,below_threshold
+Tài đặt tài khoản,2,,TEXT,tai đat account,below_threshold
+Tên,2,,TEXT,ten,below_threshold
+Tên Ngân hàng,2,,TEXT,ten ngan hang,below_threshold
+Tên chuyển giao,2,,TEXT,ten chuyen giao,below_threshold
+Tên chuyển khoản,2,,TEXT,ten chuyen khoan,below_threshold
+Tên giao dịch,2,,TEXT,ten transaction,below_threshold
+Tên liên hệ,2,,TEXT,ten lien he,below_threshold
+Tên người dùng,2,,TEXT,ten nguoi dung,below_threshold
+Tên sử dụng,2,,TEXT,ten su dung,below_threshold
+Tên tài khoản của người nhận,2,,TEXT,ten account cua nguoi nhan,below_threshold
+Tín dụng tối thiểu của khoản phí hàng năm,2,,TEXT,tin dung toi thieu cua khoan fee hang nam,below_threshold
+Tín số,2,,TEXT,tin so,below_threshold
+Tín số Tài khoản Loan,2,,TEXT,tin so account loan,below_threshold
+Tín số tài chính,2,,TEXT,tin so tai chinh,below_threshold
+Tín số tài khoản,2,,TEXT,tin so account,below_threshold
+Tính khoản tổng quan,2,,TEXT,tinh khoan tong quan,below_threshold
+Tính khoản điện thoại hỗ trợ khách hàng,2,,TEXT,tinh khoan đien thoai ho tro khach hang,below_threshold
+Tính năng cá nhân,2,,TEXT,tinh nang ca nhan,below_threshold
+Tính toán tổng quan,2,,TEXT,tinh toan tong quan,below_threshold
+Tập lịch sử,2,,TEXT,tap lich su,below_threshold
+Tập nhật của bạn,2,,TEXT,tap nhat cua ban,below_threshold
+Tập nhật số điện thoại,2,,TEXT,tap nhat so đien thoai,below_threshold
+Tập nhật tiền mặt,2,,TEXT,tap nhat tien mat,below_threshold
+Tập trình của tôi,2,,TEXT,tap trinh cua toi,below_threshold
+Tổng thông tin tài chính,2,,TEXT,tong thong tin tai chinh,below_threshold
+View Balance,2,,TEXT,view balance,below_threshold
+View Recent Activity,2,,TEXT,view recent activity,below_threshold
+Vận thăm trang web của chúng tôi,2,,TEXT,van tham trang web cua chung toi,below_threshold
+hỗ trợ khách hàng,2,,TEXT,ho tro khach hang,below_threshold
+lê số tài khoản,2,,TEXT,le so account,below_threshold
+lênh số tham khảo,2,,TEXT,lenh so tham khao,below_threshold
+lênh tài khoản số,2,,TEXT,lenh account so,below_threshold
+mortgage tài khoản số,2,,TEXT,mortgage account so,below_threshold
+tên của người nhận,2,,TEXT,ten cua nguoi nhan,below_threshold
+tên thuê nhà,2,,TEXT,ten thue nha,below_threshold
+tên đầy đủ,2,,TEXT,ten đay đu,below_threshold
+Điều ID giao dịch,2,,TEXT,đieu id transaction,below_threshold
+Điều Số Tài khoản Ngân hàng,2,,TEXT,đieu so account ngan hang,below_threshold
+Điều Tên Ngân hàng,2,,TEXT,đieu ten ngan hang,below_threshold
+Điều bảo mật,2,,TEXT,đieu security,below_threshold
+Điều chuyển khoản ngân hàng,2,,TEXT,đieu chuyen khoan ngan hang,below_threshold
+Điều cân bằng thẻ,2,,TEXT,đieu can bang card,below_threshold
+Điều hướng,2,,TEXT,đieu huong,below_threshold
+Điều hồ sơ,2,,TEXT,đieu ho so,below_threshold
+Điều hỗ trợ điện thoại của khách hàng,2,,TEXT,đieu ho tro đien thoai cua khach hang,below_threshold
+Điều hủy bỏ Loan,2,,TEXT,đieu huy bo loan,below_threshold
+Điều khoản hỗ trợ điện thoại,2,,TEXT,đieu khoan ho tro đien thoai,below_threshold
+Điều khoản ủng hộ,2,,TEXT,đieu khoan ung ho,below_threshold
+Điều ngày,2,,TEXT,đieu ngay,below_threshold
+Điều nhận dạng cá nhân,2,,TEXT,đieu nhan dang ca nhan,below_threshold
+Điều sinh nhật,2,,TEXT,đieu sinh nhat,below_threshold
+Điều thông tin thẻ,2,,TEXT,đieu thong tin card,below_threshold
+Điều thư điện tử,2,,TEXT,đieu thu đien tu,below_threshold
+Điều tiền gửi một thời gian (OTP),2,,TEXT,đieu tien gui mot thoi gian (otp),below_threshold
+Điều tài khoản ngân hàng của bạn,2,,TEXT,đieu account ngan hang cua ban,below_threshold
+Điều tài sản,2,,TEXT,đieu tai san,below_threshold
+Điều vay,2,,TEXT,đieu vay,below_threshold
+Điều địa chỉ,2,,TEXT,đieu đia chi,below_threshold
+Điểm hỗ trợ khách hàng,2,,TEXT,điem ho tro khach hang,below_threshold
+Điểm hủy bỏ tài khoản,2,,TEXT,điem huy bo account,below_threshold
+Điểm vay,2,,TEXT,điem vay,below_threshold
+Đại phòng hủy bỏ số tài khoản,2,,TEXT,đai phong huy bo so account,below_threshold
+Đặt vé,2,,TEXT,đat ve,below_threshold
+Độ tiền chuyển khoản,2,,TEXT,đo tien chuyen khoan,below_threshold
+địa chỉ chuyển giao,2,,TEXT,đia chi chuyen giao,below_threshold
+24/7,1,,TEXT,24 7,below_threshold
+24/7 Customer Support,1,,TEXT,24 7 customer support,below_threshold
+24/7 Customer Support Number,1,,TEXT,24 7 customer support number,below_threshold
+24/7 Số điện thoại hỗ trợ khách hàng,1,,TEXT,24 7 so đien thoai ho tro khach hang,below_threshold
+24/7 hỗ trợ khách hàng,1,,TEXT,24 7 ho tro khach hang,below_threshold
+24/7 trợ giúp,1,,TEXT,24 7 tro giup,below_threshold
+24/7 đội hỗ trợ khách hàng.,1,,TEXT,24 7 đoi ho tro khach hang.,below_threshold
+24/7Client Support Line,1,,TEXT,24 7client support line,below_threshold
+AMEX,1,AMEX,TEXT,amex,below_threshold
+AMEX Khách hàng Dịch vụ Điện thoại số,1,AMEX,TEXT,amex khach hang dich vu đien thoai so,below_threshold
+AMEX Số Dịch vụ Khách hàng,1,AMEX,TEXT,amex so dich vu khach hang,below_threshold
+AMEX Số Dịch vụ khách hàng,1,AMEX,TEXT,amex so dich vu khach hang,below_threshold
+ATM Finder,1,,TEXT,atm finder,below_threshold
+ATM Finder App,1,,TEXT,atm finder app,below_threshold
+ATM Hunter,1,,TEXT,atm hunter,below_threshold
+ATM Locator App,1,,TEXT,atm locator app,below_threshold
+ATM Near Me,1,,TEXT,atm near me,below_threshold
+ATM Địa điểm,1,,TEXT,atm đia điem,below_threshold
+Account Access,1,,TEXT,account access,below_threshold
+Account Dashboard,1,,TEXT,account dashboard,below_threshold
+Account Statements,1,,TEXT,account statement,below_threshold
+"Account""",1,,TEXT,account,below_threshold
+Accounts,1,,TEXT,accounts,below_threshold
+Activate Card International Usage,1,,TEXT,activate card international usage,below_threshold
+Activate Now,1,,TEXT,activate now,below_threshold
+Activation Card,1,,TEXT,activation card,below_threshold
+Add new card,1,,TEXT,add new card,below_threshold
+American Express Customer Service Number,1,AMERICAN_EXPRESS,TEXT,american express customer service number,below_threshold
+American Express Customer Support Number,1,AMERICAN_EXPRESS,TEXT,american express customer support number,below_threshold
+American Express Dịch vụ Khách hàng Số điện thoại,1,AMERICAN_EXPRESS,TEXT,american express dich vu khach hang so đien thoai,below_threshold
+American Express Dịch vụ Số,1,AMERICAN_EXPRESS,TEXT,american express dich vu so,below_threshold
+American Express Hỗ trợ Khách hàng Điện thoại số,1,AMERICAN_EXPRESS,TEXT,american express ho tro khach hang đien thoai so,below_threshold
+American Express Hỗ trợ khách hàng Điện thoại Số,1,AMERICAN_EXPRESS,TEXT,american express ho tro khach hang đien thoai so,below_threshold
+American Express International Customer Service Number,1,AMERICAN_EXPRESS,TEXT,american express international customer service number,below_threshold
+American Express Khách hàng Hỗ trợ Điện thoại Số,1,AMERICAN_EXPRESS,TEXT,american express khach hang ho tro đien thoai so,below_threshold
+American Express Support,1,AMERICAN_EXPRESS,TEXT,american express support,below_threshold
+Amount Transfer,1,,TEXT,amount transfer,below_threshold
+App,1,,TEXT,app,below_threshold
+App Store/Play Store,1,,TEXT,appstore playstore,below_threshold
+Apple App Store,1,,TEXT,apple appstore,below_threshold
+Authenticate Your Identity,1,,TEXT,authenticate your identity,below_threshold
+Bank A,1,,TEXT,bank a,below_threshold
+Bank Account Details,1,,TEXT,bank account details,below_threshold
+Bank B,1,,TEXT,bank b,below_threshold
+Bank Card Lock Helpline,1,,TEXT,bank card lock helpline,below_threshold
+Bank Customer Support Number,1,,TEXT,bank customer support number,below_threshold
+Bank Hỗ trợ Điện thoại Số điện thoại,1,,TEXT,bank ho tro đien thoai so đien thoai,below_threshold
+Bank Khách hàng Dịch vụ Số,1,,TEXT,bank khach hang dich vu so,below_threshold
+Bank Location,1,,TEXT,bank location,below_threshold
+Bank Transfer,1,,TEXT,bank transfer,below_threshold
+Bank Transfer Step 1,1,,TEXT,bank transfer step 1,below_threshold
+Bank Transfer Step 2,1,,TEXT,bank transfer step 2,below_threshold
+Bank Transfer Step 3,1,,TEXT,bank transfer step 3,below_threshold
+Bank Transfer Support Team,1,,TEXT,bank transfer support team,below_threshold
+Bank's Mobile App,1,,TEXT,bank s mobile app,below_threshold
+Bank/Branch Name,1,,TEXT,bank branch name,below_threshold
+Banker Malls,1,,TEXT,banker malls,below_threshold
+Banking App Name,1,,TEXT,banking app name,below_threshold
+Banking Customer Support,1,,TEXT,banking customer support,below_threshold
+Banks,1,,TEXT,banks,below_threshold
+"Bill""",1,,TEXT,bill,below_threshold
+Billing Cycle,1,,TEXT,billing cycle,below_threshold
+Billing Lịch sử,1,,TEXT,billing lich su,below_threshold
+Biometric Authentic,1,,TEXT,biometric authentic,below_threshold
+Biometric Authentication,1,,TEXT,biometric authentication,below_threshold
+Branch Locations.,1,,TEXT,branch locations.,below_threshold
+Branch Name,1,,TEXT,branch name,below_threshold
+Brief Description,1,,TEXT,brief description,below_threshold
+C/7,1,,TEXT,c 7,below_threshold
+CVC code,1,,TEXT,cvc code,below_threshold
+Cancel Profile,1,,TEXT,cancel profile,below_threshold
+Cancell Account,1,,TEXT,cancell account,below_threshold
+Cancell Loan,1,,TEXT,cancell loan,below_threshold
+Cancell Time,1,,TEXT,cancell time,below_threshold
+Cancellation Department,1,,TEXT,cancellation department,below_threshold
+Cancellation Form,1,,TEXT,cancellation form,below_threshold
+Cancellation Page,1,,TEXT,cancellation page,below_threshold
+Card,1,,TEXT,card,below_threshold
+Card Activation App,1,,TEXT,card activation app,below_threshold
+Card Annual Fees,1,,TEXT,card annual fee,below_threshold
+Card Balance,1,,TEXT,card balance,below_threshold
+Card Blocking,1,,TEXT,card blocking,below_threshold
+Card Cancellation,1,,TEXT,card cancellation,below_threshold
+Card Charges,1,,TEXT,card charges,below_threshold
+Card Customer Service Number,1,,TEXT,card customer service number,below_threshold
+Card Hỗ trợ khách hàng,1,,TEXT,card ho tro khach hang,below_threshold
+Card Issuer Dịch vụ Số khách hàng,1,,TEXT,card issuer dich vu so khach hang,below_threshold
+Card Issuer Điện thoại Số,1,,TEXT,card issuer đien thoai so,below_threshold
+Card Profile,1,,TEXT,card profile,below_threshold
+Card Summary,1,,TEXT,card summary,below_threshold
+Card Support Team,1,,TEXT,card support team,below_threshold
+Cardholder Portal,1,,TEXT,cardholder portal,below_threshold
+Cards Cancell,1,,TEXT,cards cancell,below_threshold
+Cards Cài đặt,1,,TEXT,cards cai đat,below_threshold
+Cards Lock,1,,TEXT,cards lock,below_threshold
+Cards Number,1,,TEXT,cards number,below_threshold
+Cards_7,1,,TEXT,cards 7,below_threshold
+Cart Activation,1,,TEXT,cart activation,below_threshold
+Carta Details,1,,TEXT,carta details,below_threshold
+Charges,1,,TEXT,charges,below_threshold
+Chat Hỗ trợ,1,,TEXT,chat ho tro,below_threshold
+Check Fees,1,,TEXT,check fee,below_threshold
+Check Loan Payments,1,,TEXT,check loan payments,below_threshold
+Checking Account,1,,TEXT,checking account,below_threshold
+Chiếc thẻ thứ ba,1,,TEXT,chiec card thu ba,below_threshold
+Chuyến dịch vụ hỗ trợ của chúng tôi!,1,,TEXT,chuyen dich vu ho tro cua chung toi!,below_threshold
+Chuyết minh/Service,1,,TEXT,chuyet minh service,below_threshold
+City Name,1,,TEXT,city name,below_threshold
+Client App,1,,TEXT,client app,below_threshold
+Client Card,1,,TEXT,client card,below_threshold
+Client Service Chat,1,,TEXT,client service chat,below_threshold
+Close Profile,1,,TEXT,close profile,below_threshold
+Company Name,1,,TEXT,company name,below_threshold
+Company name,1,,TEXT,company name,below_threshold
+Confirm,1,,TEXT,confirm,below_threshold
+Confirmation,1,,TEXT,confirmation,below_threshold
+Confirmation Method,1,,TEXT,confirmation method,below_threshold
+Conta Benefits,1,,TEXT,conta benefits,below_threshold
+Conta Details,1,,TEXT,conta details,below_threshold
+Conta and Charges,1,,TEXT,conta and charges,below_threshold
+Contact Amex Customer Support,1,AMEX,TEXT,contact amex customer support,below_threshold
+Contact Bank,1,,TEXT,contact bank,below_threshold
+Contact Bank's Customer Service,1,,TEXT,contact bank s customer service,below_threshold
+Contact Card Cancellation,1,,TEXT,contact card cancellation,below_threshold
+Contact Channel,1,,TEXT,contact channel,below_threshold
+Contact Deactivate,1,,TEXT,contact deactivate,below_threshold
+Contact Form,1,,TEXT,contact form,below_threshold
+Contact Hỗ trợ Khách hàng,1,,TEXT,contact ho tro khach hang,below_threshold
+Contact Management,1,,TEXT,contact management,below_threshold
+Contact Name,1,,TEXT,contact name,below_threshold
+Contact Option,1,,TEXT,contact option,below_threshold
+Contact Preference,1,,TEXT,contact preference,below_threshold
+Contact Summary,1,,TEXT,contact summary,below_threshold
+Contact Support Number,1,,TEXT,contact support number,below_threshold
+Contact Time,1,,TEXT,contact time,below_threshold
+Contact Visa Cancellation Procedure,1,VISA,TEXT,contact visa cancellation procedure,below_threshold
+Contact Visa Customer Support,1,VISA,TEXT,contact visa customer support,below_threshold
+Contact ngân hàng của bạn,1,,TEXT,contact ngan hang cua ban,below_threshold
+Continue,1,,TEXT,continue,below_threshold
+Conto Overview,1,,TEXT,conto overview,below_threshold
+Convenience Stores,1,,TEXT,convenience stores,below_threshold
+Cortgage Department,1,,TEXT,cortgage department,below_threshold
+Council tài chính,1,,TEXT,council tai chinh,below_threshold
+Create New Account,1,,TEXT,create new account,below_threshold
+Create Password,1,,TEXT,create password,below_threshold
+Create a New Password,1,,TEXT,create a new password,below_threshold
+Credit Assistance,1,,TEXT,credit assistance,below_threshold
+Credit Card Activate,1,,TEXT,credit card activate,below_threshold
+Credit Card Cancellation,1,,TEXT,credit card cancellation,below_threshold
+Credit Card Date,1,,TEXT,credit card date,below_threshold
+Credit Card Date of Birth,1,,TEXT,credit card date of birth,below_threshold
+Credit Card Issuer,1,,TEXT,credit card issuer,below_threshold
+Credit Card Overview,1,,TEXT,credit card overview,below_threshold
+Credit Card Sa,1,,TEXT,credit card sa,below_threshold
+Credit Card Support,1,,TEXT,credit card support,below_threshold
+Credit Card Số,1,,TEXT,credit card so,below_threshold
+Credit Card and Fees,1,,TEXT,credit card and fee,below_threshold
+Credit Card for international us,1,,TEXT,credit card for international us,below_threshold
+Credit Card for us,1,,TEXT,credit card for us,below_threshold
+Credit Card quốc tế,1,,TEXT,credit card quoc te,below_threshold
+Credit Card's vấn đề,1,,TEXT,credit card s van đe,below_threshold
+Credit Cards and Terms,1,,TEXT,credit cards and terms,below_threshold
+Credit Express Hỗ trợ Điện thoại Số,1,,TEXT,credit express ho tro đien thoai so,below_threshold
+Credit Fees,1,,TEXT,credit fee,below_threshold
+Credit Overview,1,,TEXT,credit overview,below_threshold
+Credit Portal,1,,TEXT,credit portal,below_threshold
+Credit Store Locations.,1,,TEXT,credit store locations.,below_threshold
+Credit Summary,1,,TEXT,credit summary,below_threshold
+Credit Team,1,,TEXT,credit team,below_threshold
+Credit Union A,1,,TEXT,credit union a,below_threshold
+Credit Union B,1,,TEXT,credit union b,below_threshold
+Credit/Debit,1,,TEXT,credit debit,below_threshold
+Cung cấp thông tin cần thiết khác,1,,TEXT,cung cap thong tin can thiet khac,below_threshold
+Currency,1,,TEXT,currency,below_threshold
+Current Balance,1,,TEXT,current balance,below_threshold
+Custom Dates,1,,TEXT,custom dates,below_threshold
+Custom Support Team,1,,TEXT,custom support team,below_threshold
+Customer Account Number or Name,1,,TEXT,customer account number or name,below_threshold
+Customer Activation Status,1,,TEXT,customer activation status,below_threshold
+Customer Banking Account,1,,TEXT,customer banking account,below_threshold
+Customer Branches,1,,TEXT,customer branch,below_threshold
+Customer Hỗ trợ Công việc giờ,1,,TEXT,customer ho tro cong viec gio,below_threshold
+Customer Hỗ trợ Số,1,,TEXT,customer ho tro so,below_threshold
+Customer Management,1,,TEXT,customer management,below_threshold
+Customer Security,1,,TEXT,customer security,below_threshold
+Customer Service Center,1,,TEXT,customer service center,below_threshold
+Customer Service Online,1,,TEXT,customer service online,below_threshold
+Customer Settings,1,,TEXT,customer settings,below_threshold
+Customer Suppor,1,,TEXT,customer suppor,below_threshold
+Customer Support Amount,1,,TEXT,customer support amount,below_threshold
+Customer Support Cards,1,,TEXT,customer support cards,below_threshold
+Customer Support Center,1,,TEXT,customer support center,below_threshold
+Customer Support Contact Method,1,,TEXT,customer support contact method,below_threshold
+Customer Support End Time,1,,TEXT,customer support end time,below_threshold
+Customer Support H,1,,TEXT,customer support h,below_threshold
+Customer Support Helpline,1,,TEXT,customer support helpline,below_threshold
+Customer Support Location,1,,TEXT,customer support location,below_threshold
+Customer Support Page,1,,TEXT,customer support page,below_threshold
+Customer Support Start Time,1,,TEXT,customer support start time,below_threshold
+"Customer Support Team, hoặc bất kỳ tài liệu liên quan khác",1,,TEXT,customer support team hoac bat ky tai lieu lien quan khac,below_threshold
+Customer Support ca,1,,TEXT,customer support ca,below_threshold
+Customer Support team,1,,TEXT,customer support team,below_threshold
+Customer Support tại,1,,TEXT,customer support tai,below_threshold
+Customer Support.,1,,TEXT,customer support.,below_threshold
+Customer Work Hours.,1,,TEXT,customer work hours.,below_threshold
+Customer hỗ trợ cho tôi!,1,,TEXT,customer ho tro cho toi!,below_threshold
+Customer hỗ trợ giúp bạn có thể hỗ trợ!,1,,TEXT,customer ho tro giup ban co card ho tro!,below_threshold
+"Customer hỗ trợ khách hàng, hoặc hỗ trợ khách hàng của chúng tôi.",1,,TEXT,customer ho tro khach hang hoac ho tro khach hang cua chung toi.,below_threshold
+Customer hỗ trợ!,1,,TEXT,customer ho tro!,below_threshold
+Customer support web,1,,TEXT,customer support web,below_threshold
+Customer's Account Details,1,,TEXT,customer s account details,below_threshold
+Cài đặt An toàn,1,,TEXT,cai đat an toan,below_threshold
+Cài đặt Card,1,,TEXT,cai đat card,below_threshold
+Cài đặt Hồ sơ,1,,TEXT,cai đat ho so,below_threshold
+Cài đặt Tài khoản Bảo mật,1,,TEXT,cai đat account security,below_threshold
+Cài đặt Tài khoản của tôi,1,,TEXT,cai đat account cua toi,below_threshold
+Cài đặt chi tiết,1,,TEXT,cai đat chi tiet,below_threshold
+Cài đặt mật khẩu & Quyền riêng tư,1,,TEXT,cai đat password & quyen rieng tu,below_threshold
+Các Hỗ trợ Chat,1,,TEXT,cac ho tro chat,below_threshold
+Các Hỗ trợ Kinh doanh,1,,TEXT,cac ho tro kinh doanh,below_threshold
+Các Hỗ trợ Điện thoại,1,,TEXT,cac ho tro đien thoai,below_threshold
+Các Hỗ trợ Điện thoại số,1,,TEXT,cac ho tro đien thoai so,below_threshold
+Các Hỗ trợ Điện thoại Điện thoại Điện thoại,1,,TEXT,cac ho tro đien thoai đien thoai đien thoai,below_threshold
+Các Số Điện thoại Hỗ trợ Khách hàng,1,,TEXT,cac so đien thoai ho tro khach hang,below_threshold
+Các Thẻ Hủy,1,,TEXT,cac card huy,below_threshold
+Các Tờ Quản lý,1,,TEXT,cac to quan ly,below_threshold
+Các cân bằng tài khoản,1,,TEXT,cac can bang account,below_threshold
+Các hỗ trợ khách hàng của chúng tôi.,1,,TEXT,cac ho tro khach hang cua chung toi.,below_threshold
+Các khoản chuyển khoản ngân hàng,1,,TEXT,cac khoan chuyen khoan ngan hang,below_threshold
+Các khoản hỗ trợ khách hàng Số điện thoại,1,,TEXT,cac khoan ho tro khach hang so đien thoai,below_threshold
+Các khoản ngân hàng,1,,TEXT,cac khoan ngan hang,below_threshold
+Các khoản số,1,,TEXT,cac khoan so,below_threshold
+Các khoản thẻ,1,,TEXT,cac khoan card,below_threshold
+Các khoản tổng quan,1,,TEXT,cac khoan tong quan,below_threshold
+Các loại thẻ,1,,TEXT,cac loai card,below_threshold
+Các số chuyển khoản ngân hàng,1,,TEXT,cac so chuyen khoan ngan hang,below_threshold
+Các số tài khoản,1,,TEXT,cac so account,below_threshold
+Các số điện thoại dịch vụ khách hàng,1,,TEXT,cac so đien thoai dich vu khach hang,below_threshold
+Các thẻ của bạn,1,,TEXT,cac card cua ban,below_threshold
+Các thẻ của tôi,1,,TEXT,cac card cua toi,below_threshold
+Các thẻ tín dụng số,1,,TEXT,cac card tin dung so,below_threshold
+Các định tài khoản,1,,TEXT,cac đinh account,below_threshold
+Câu chuyện Timeframe,1,,TEXT,cau chuyen timeframe,below_threshold
+Câu chuyện số,1,,TEXT,cau chuyen so,below_threshold
+Câu chuyện thời gian,1,,TEXT,cau chuyen thoi gian,below_threshold
+Câu mật,1,,TEXT,cau mat,below_threshold
+Câu mật khẩu,1,,TEXT,cau password,below_threshold
+Câu thuẫn Trung tâm,1,,TEXT,cau thuan trung tam,below_threshold
+Câu thuẫn khách hàng,1,,TEXT,cau thuan khach hang,below_threshold
+Câu trả lời tranh chấp,1,,TEXT,cau tra loi tranh chap,below_threshold
+Công cụ bảo mật,1,,TEXT,cong cu security,below_threshold
+Công cụ mật khẩu,1,,TEXT,cong cu password,below_threshold
+Công cụ xác thực,1,,TEXT,cong cu xac thuc,below_threshold
+Công khoản Số,1,,TEXT,cong khoan so,below_threshold
+Công khoản tổng hợp,1,,TEXT,cong khoan tong hop,below_threshold
+Công khoản và điều kiện của thẻ tín dụng,1,,TEXT,cong khoan va đieu kien cua card tin dung,below_threshold
+Công khoản và điều kiện thẻ tín dụng,1,,TEXT,cong khoan va đieu kien card tin dung,below_threshold
+Công nhận thông tin cần thiết thêm,1,,TEXT,cong nhan thong tin can thiet them,below_threshold
+Công phí và phí,1,,TEXT,cong fee va fee,below_threshold
+Công suất hàng năm của thẻ,1,,TEXT,cong suat hang nam cua card,below_threshold
+Công suất và Giá trị,1,,TEXT,cong suat va gia tri,below_threshold
+Công số Giao dịch Reference,1,,TEXT,cong so transaction reference,below_threshold
+Công số Tài khoản Người nhận,1,,TEXT,cong so account nguoi nhan,below_threshold
+Công số Tài khoản của người nhận,1,,TEXT,cong so account cua nguoi nhan,below_threshold
+Công số chuyển tiền,1,,TEXT,cong so chuyen tien,below_threshold
+Công số thông tin tài khoản của người nhận,1,,TEXT,cong so thong tin account cua nguoi nhan,below_threshold
+Công số Điện thoại Hỗ trợ Quốc tế,1,,TEXT,cong so đien thoai ho tro quoc te,below_threshold
+Công số điện thoại của công ty,1,,TEXT,cong so đien thoai cua cong ty,below_threshold
+Công thức liên lạc được yêu thích,1,,TEXT,cong thuc lien lac đuoc yeu thich,below_threshold
+Công tin,1,,TEXT,cong tin,below_threshold
+Công tin Tài khoản của người nhận,1,,TEXT,cong tin account cua nguoi nhan,below_threshold
+Công trình thời gian.,1,,TEXT,cong trinh thoi gian.,below_threshold
+Công ty Activation,1,,TEXT,cong ty activation,below_threshold
+Công ty App,1,,TEXT,cong ty app,below_threshold
+Công ty App Name,1,,TEXT,cong ty app name,below_threshold
+Công ty App Store,1,,TEXT,cong ty appstore,below_threshold
+Công ty App Store/Google Play Store,1,,TEXT,cong ty appstore playstore store,below_threshold
+Công ty Dịch vụ thuê nhà,1,,TEXT,cong ty dich vu thue nha,below_threshold
+Công ty Dịch vụ Điện thoại Số,1,,TEXT,cong ty dich vu đien thoai so,below_threshold
+Công ty Dịch vụ Điện thoại số.,1,,TEXT,cong ty dich vu đien thoai so.,below_threshold
+Công ty Hỗ trợ Công việc,1,,TEXT,cong ty ho tro cong viec,below_threshold
+Công ty Hỗ trợ Công việc Hành Trình,1,,TEXT,cong ty ho tro cong viec hanh trinh,below_threshold
+Công ty Hỗ trợ số,1,,TEXT,cong ty ho tro so,below_threshold
+Công ty Hỗ trợ thẻ,1,,TEXT,cong ty ho tro card,below_threshold
+Công ty Hỗ trợ Điện thoại Số.,1,,TEXT,cong ty ho tro đien thoai so.,below_threshold
+Công ty Mobile App Name,1,,TEXT,cong ty mobile app name,below_threshold
+Công ty Now,1,,TEXT,cong ty now,below_threshold
+Công ty Password,1,,TEXT,cong ty password,below_threshold
+Công ty Play Store,1,,TEXT,cong ty playstore,below_threshold
+Công ty Quyền riêng tư,1,,TEXT,cong ty quyen rieng tu,below_threshold
+Công ty Thiết lập,1,,TEXT,cong ty thiet lap,below_threshold
+Công ty Trang web,1,,TEXT,cong ty trang web,below_threshold
+Công ty Tài khoản,1,,TEXT,cong ty account,below_threshold
+Công ty chi tiết,1,,TEXT,cong ty chi tiet,below_threshold
+Công ty cân bằng,1,,TEXT,cong ty can bang,below_threshold
+Công ty dịch vụ tiền gửi,1,,TEXT,cong ty dich vu tien gui,below_threshold
+Công ty giải quyết,1,,TEXT,cong ty giai quyet,below_threshold
+Công ty hỗ trợ và phí,1,,TEXT,cong ty ho tro va fee,below_threshold
+Công ty hỗ trợ Điện thoại Số,1,,TEXT,cong ty ho tro đien thoai so,below_threshold
+Công ty hỗ trợ điện thoại,1,,TEXT,cong ty ho tro đien thoai,below_threshold
+Công ty hủy,1,,TEXT,cong ty huy,below_threshold
+Công ty hủy bỏ số điện thoại,1,,TEXT,cong ty huy bo so đien thoai,below_threshold
+Công ty hủy bỏ tiền điện thoại,1,,TEXT,cong ty huy bo tien đien thoai,below_threshold
+Công ty quản lý,1,,TEXT,cong ty quan ly,below_threshold
+Công ty số,1,,TEXT,cong ty so,below_threshold
+Công ty thông tin,1,,TEXT,cong ty thong tin,below_threshold
+Công ty thông tin kiểm tra,1,,TEXT,cong ty thong tin kiem tra,below_threshold
+Công ty tiền gửi,1,,TEXT,cong ty tien gui,below_threshold
+Công ty tiền gửi số,1,,TEXT,cong ty tien gui so,below_threshold
+Công ty tiền mặt,1,,TEXT,cong ty tien mat,below_threshold
+Công ty tranh chấp,1,,TEXT,cong ty tranh chap,below_threshold
+Công ty tài khoản,1,,TEXT,cong ty account,below_threshold
+Công ty tư vấn tài chính,1,,TEXT,cong ty tu van tai chinh,below_threshold
+Công ty tổng hợp,1,,TEXT,cong ty tong hop,below_threshold
+Công ty tổng quan,1,,TEXT,cong ty tong quan,below_threshold
+Công ty vay tiền số,1,,TEXT,cong ty vay tien so,below_threshold
+Công ty và phí,1,,TEXT,cong ty va fee,below_threshold
+Công ty và Điều kiện,1,,TEXT,cong ty va đieu kien,below_threshold
+Công ty Điện thoại,1,,TEXT,cong ty đien thoai,below_threshold
+Công ty Điện thoại kích hoạt,1,,TEXT,cong ty đien thoai activate,below_threshold
+Công ty đặt cọc số điện thoại,1,,TEXT,cong ty đat coc so đien thoai,below_threshold
+Công ty ảo số điện thoại,1,,TEXT,cong ty ao so đien thoai,below_threshold
+Công việc chi tiết,1,,TEXT,cong viec chi tiet,below_threshold
+Công việc cài đặt,1,,TEXT,cong viec cai đat,below_threshold
+Công việc dịch vụ thẻ,1,,TEXT,cong viec dich vu card,below_threshold
+Công việc giá thẻ,1,,TEXT,cong viec gia card,below_threshold
+Công việc quản lý tài khoản,1,,TEXT,cong viec quan ly account,below_threshold
+Công việc số,1,,TEXT,cong viec so,below_threshold
+Công việc thông tin,1,,TEXT,cong viec thong tin,below_threshold
+Công việc thẻ tín dụng,1,,TEXT,cong viec card tin dung,below_threshold
+Công việc thẻ tạm thời không khả thi,1,,TEXT,cong viec card tam thoi khong kha thi,below_threshold
+Công việc và phí,1,,TEXT,cong viec va fee,below_threshold
+Công ước và Điều kiện,1,,TEXT,cong uoc va đieu kien,below_threshold
+Cập nhật,1,,TEXT,cap nhat,below_threshold
+Cắt Hồ sơ,1,,TEXT,cat ho so,below_threshold
+Date and Time,1,,TEXT,date and time,below_threshold
+Days of the Week,1,,TEXT,days of card week,below_threshold
+Deactivate Account,1,,TEXT,deactivate account,below_threshold
+Deactivate Profile,1,,TEXT,deactivate profile,below_threshold
+Delete,1,,TEXT,delete,below_threshold
+Delete Transfer,1,,TEXT,delete transfer,below_threshold
+Delete Tài khoản,1,,TEXT,delete account,below_threshold
+Destination Account Number,1,,TEXT,destination account number,below_threshold
+Destined Username,1,,TEXT,destined username,below_threshold
+Disable Card,1,,TEXT,disable card,below_threshold
+Dispute,1,,TEXT,dispute,below_threshold
+Dispute Center,1,,TEXT,dispute center,below_threshold
+Dịch vụ khách hàng,1,,TEXT,dich vu khach hang,below_threshold
+Expansion Date,1,,TEXT,expansion date,below_threshold
+Expiry Date,1,,TEXT,expiry date,below_threshold
+Face ID,1,,TEXT,face id,below_threshold
+Fee Information,1,,TEXT,fee information,below_threshold
+Fee Range,1,,TEXT,fee range,below_threshold
+Financial Services Department,1,,TEXT,financial services department,below_threshold
+Find a ATM,1,,TEXT,find a atm,below_threshold
+Find a Branch,1,,TEXT,find a branch,below_threshold
+Find an ATM,1,,TEXT,find an atm,below_threshold
+Finish,1,,TEXT,finish,below_threshold
+First Name,1,,TEXT,first name,below_threshold
+Four Digits of Social Security Number,1,,TEXT,four digits of social security number,below_threshold
+Free Card,1,,TEXT,free card,below_threshold
+Freeze,1,,TEXT,freeze,below_threshold
+Full,1,,TEXT,full,below_threshold
+Gas Stations,1,,TEXT,gas stations,below_threshold
+Giờ hỗ trợ khách hàng,1,,TEXT,gio ho tro khach hang,below_threshold
+Help & Support,1,,TEXT,help & support,below_threshold
+Help Center,1,,TEXT,help center,below_threshold
+Hiển khoản của người nhận,1,,TEXT,hien khoan cua nguoi nhan,below_threshold
+Hiển khoản hướng dẫn,1,,TEXT,hien khoan huong dan,below_threshold
+Hiển khoản ngân hàng,1,,TEXT,hien khoan ngan hang,below_threshold
+Hiển khoản số,1,,TEXT,hien khoan so,below_threshold
+Hiện ID,1,,TEXT,hien id,below_threshold
+Hiện Số Tài khoản,1,,TEXT,hien so account,below_threshold
+Hiện dịch số,1,,TEXT,hien dich so,below_threshold
+Hiện dịch tài khoản,1,,TEXT,hien dich account,below_threshold
+Hiện hoạt thẻ,1,,TEXT,hien hoat card,below_threshold
+Hiện hoạt thẻ của bạn,1,,TEXT,hien hoat card cua ban,below_threshold
+Hiện hỗ trợ khách hàng,1,,TEXT,hien ho tro khach hang,below_threshold
+Hiện hỗ trợ khách hàng.,1,,TEXT,hien ho tro khach hang.,below_threshold
+Hiện khoản Dịch vụ khách hàng,1,,TEXT,hien khoan dich vu khach hang,below_threshold
+Hiện khoản Dịch vụ Điện thoại,1,,TEXT,hien khoan dich vu đien thoai,below_threshold
+Hiện khoản Hỗ trợ Điện thoại,1,,TEXT,hien khoan ho tro đien thoai,below_threshold
+Hiện khoản của bạn,1,,TEXT,hien khoan cua ban,below_threshold
+Hiện khoản hỗ trợ khách hàng Điện thoại,1,,TEXT,hien khoan ho tro khach hang đien thoai,below_threshold
+Hiện khoản hỗ trợ khách hàng.,1,,TEXT,hien khoan ho tro khach hang.,below_threshold
+Hiện khoản hỗ trợ Điện thoại.,1,,TEXT,hien khoan ho tro đien thoai.,below_threshold
+Hiện khoản hỗ trợ điện thoại của khách hàng,1,,TEXT,hien khoan ho tro đien thoai cua khach hang,below_threshold
+Hiện khoản hỗ trợ điện thoại khách hàng,1,,TEXT,hien khoan ho tro đien thoai khach hang,below_threshold
+Hiện khoản kiểm tra,1,,TEXT,hien khoan kiem tra,below_threshold
+Hiện khoản thẻ tín dụng,1,,TEXT,hien khoan card tin dung,below_threshold
+Hiện khoản tiết kiệm,1,,TEXT,hien khoan tiet kiem,below_threshold
+Hiện khoản Điện thoại.,1,,TEXT,hien khoan đien thoai.,below_threshold
+Hiện số,1,,TEXT,hien so,below_threshold
+Hiện số giao dịch,1,,TEXT,hien so transaction,below_threshold
+Hiện số tài khoản,1,,TEXT,hien so account,below_threshold
+Hiện số điện thoại hỗ trợ khách hàng,1,,TEXT,hien so đien thoai ho tro khach hang,below_threshold
+Hiện số điện thoại.,1,,TEXT,hien so đien thoai.,below_threshold
+Hiện ích Web của công ty,1,,TEXT,hien ich web cua cong ty,below_threshold
+Hiện ích khách hàng Điện thoại Số,1,,TEXT,hien ich khach hang đien thoai so,below_threshold
+Hiện ích tài chính Điện thoại Số,1,,TEXT,hien ich tai chinh đien thoai so,below_threshold
+Hiện ích điện thoại của khách hàng,1,,TEXT,hien ich đien thoai cua khach hang,below_threshold
+Home Loan Assistance Team,1,,TEXT,home loan assistance team,below_threshold
+Horh làm việc,1,,TEXT,horh lam viec,below_threshold
+Hành động hỗ trợ khách hàng,1,,TEXT,hanh đong ho tro khach hang,below_threshold
+Hành động hỗ trợ khách hàng Điện thoại số,1,,TEXT,hanh đong ho tro khach hang đien thoai so,below_threshold
+Hành động thuê nhà,1,,TEXT,hanh đong thue nha,below_threshold
+Hành động thẻ,1,,TEXT,hanh đong card,below_threshold
+Hành động thẻ tín dụng,1,,TEXT,hanh đong card tin dung,below_threshold
+Hình hỗ trợ khách hàng Điện thoại,1,,TEXT,hinh ho tro khach hang đien thoai,below_threshold
+Hôm giao dịch,1,,TEXT,hom transaction,below_threshold
+Hôm hỗ trợ khách hàng Điện thoại số,1,,TEXT,hom ho tro khach hang đien thoai so,below_threshold
+Hôm hỗ trợ kích hoạt quốc tế,1,,TEXT,hom ho tro activate quoc te,below_threshold
+Hôm hỗ trợ điện thoại kích hoạt quốc tế,1,,TEXT,hom ho tro đien thoai activate quoc te,below_threshold
+Hôm thanh toán,1,,TEXT,hom thanh toan,below_threshold
+Hệ vụ đặt cọc,1,,TEXT,he vu đat coc,below_threshold
+Học tiền hỗ trợ khách hàng,1,,TEXT,hoc tien ho tro khach hang,below_threshold
+Học tiền mặt,1,,TEXT,hoc tien mat,below_threshold
+Học toán số,1,,TEXT,hoc toan so,below_threshold
+Học vay số tài khoản,1,,TEXT,hoc vay so account,below_threshold
+Học vay số điện thoại,1,,TEXT,hoc vay so đien thoai,below_threshold
+Hỗ trợ khách hàng Điện thoại số,1,,TEXT,ho tro khach hang đien thoai so,below_threshold
+Hộp khoản Name,1,,TEXT,hop khoan name,below_threshold
+Hộp khoản PIN,1,,TEXT,hop khoan pin,below_threshold
+Hộp khoản chuyển khoản,1,,TEXT,hop khoan chuyen khoan,below_threshold
+Hộp số hướng dẫn,1,,TEXT,hop so huong dan,below_threshold
+Hộp tiền chuyển giao ngân hàng,1,,TEXT,hop tien chuyen giao ngan hang,below_threshold
+Hộp tiền mặt,1,,TEXT,hop tien mat,below_threshold
+Hộp tiền mặt Số tài khoản,1,,TEXT,hop tien mat so account,below_threshold
+Hộp tiền mặt trên tài khoản,1,,TEXT,hop tien mat tren account,below_threshold
+Hộp tiền tài khoản,1,,TEXT,hop tien account,below_threshold
+Hộp tiền tên,1,,TEXT,hop tien ten,below_threshold
+Hộp tiền định tuyến,1,,TEXT,hop tien đinh tuyen,below_threshold
+Hộp tiền định tuyến ngân hàng,1,,TEXT,hop tien đinh tuyen ngan hang,below_threshold
+Hộp tài khoản chủ tên,1,,TEXT,hop account chu ten,below_threshold
+Hộp điện thoại hỗ trợ khách hàng,1,,TEXT,hop đien thoai ho tro khach hang,below_threshold
+Hộp đơn cho vay Thời gian xử lý,1,,TEXT,hop đon cho vay thoi gian xu ly,below_threshold
+Hộp đơn dịch vụ điện thoại,1,,TEXT,hop đon dich vu đien thoai,below_threshold
+Hộp đơn hỗ trợ khách hàng,1,,TEXT,hop đon ho tro khach hang,below_threshold
+Hộp đơn tên,1,,TEXT,hop đon ten,below_threshold
+Hợp đồng vay,1,,TEXT,hop đong vay,below_threshold
+Hủy bỏ Trợ giúp,1,,TEXT,huy bo tro giup,below_threshold
+Hủy bỏ thông tin liên lạc,1,,TEXT,huy bo thong tin lien lac,below_threshold
+Hủy bỏ tài khoản,1,,TEXT,huy bo account,below_threshold
+Hủy chuyển khoản,1,,TEXT,huy chuyen khoan,below_threshold
+ID Người dùng,1,,TEXT,id nguoi dung,below_threshold
+ID hợp lệ,1,,TEXT,id hop le,below_threshold
+Identifying Information,1,,TEXT,identifying information,below_threshold
+Invoices,1,,TEXT,invoices,below_threshold
+Lan Lẻ,1,,TEXT,lan le,below_threshold
+Lan lẻ,1,,TEXT,lan le,below_threshold
+Landlord's Account Number,1,,TEXT,landlord s account number,below_threshold
+Landlord's Name,1,,TEXT,landlord s name,below_threshold
+Last Month,1,,TEXT,last month,below_threshold
+Lender Directions,1,,TEXT,lender directions,below_threshold
+LendingPlatform.com,1,,TEXT,lendingplatform.com,below_threshold
+Live Chat Hỗ trợ,1,,TEXT,live chat ho tro,below_threshold
+Live Chat support,1,,TEXT,live chat support,below_threshold
+Liên hệ với bộ phận dịch vụ khách hàng của ngân hàng của bạn,1,,TEXT,lien he voi bo phan dich vu khach hang cua ngan hang cua ban,below_threshold
+Liên hệ với bộ phận tiền ủng hộ của chúng tôi,1,,TEXT,lien he voi bo phan tien ung ho cua chung toi,below_threshold
+Liên hệ với chúng tôi,1,,TEXT,lien he voi chung toi,below_threshold
+Liên hệ với ngân hàng của bạn,1,,TEXT,lien he voi ngan hang cua ban,below_threshold
+Liên hệ với phát hành thẻ tín dụng của bạn,1,,TEXT,lien he voi phat hanh card tin dung cua ban,below_threshold
+Loan Application Page,1,,TEXT,loan application page,below_threshold
+Loan Assistance,1,,TEXT,loan assistance,below_threshold
+Loan Assistance Contact Information,1,,TEXT,loan assistance contact information,below_threshold
+Loan Assistance Department,1,,TEXT,loan assistance department,below_threshold
+Loan Bộ,1,,TEXT,loan bo,below_threshold
+Loan Bộ số điện thoại,1,,TEXT,loan bo so đien thoai,below_threshold
+Loan Center,1,,TEXT,loan center,below_threshold
+Loan Confirmation Number,1,,TEXT,loan confirmation number,below_threshold
+Loan Decision Timeframe,1,,TEXT,loan decision timeframe,below_threshold
+Loan Dịch vụ Bộ,1,,TEXT,loan dich vu bo,below_threshold
+Loan Dịch vụ Điện thoại số,1,,TEXT,loan dich vu đien thoai so,below_threshold
+Loan Hỗ trợ Khách hàng Bộ,1,,TEXT,loan ho tro khach hang bo,below_threshold
+Loan Hỗ trợ Số liên hệ,1,,TEXT,loan ho tro so lien he,below_threshold
+Loan Hỗ trợ Số điện thoại,1,,TEXT,loan ho tro so đien thoai,below_threshold
+Loan Hỗ trợ bộ,1,,TEXT,loan ho tro bo,below_threshold
+Loan Hỗ trợ khách hàng Điện thoại Số,1,,TEXT,loan ho tro khach hang đien thoai so,below_threshold
+Loan Hỗ trợ Điện thoại số,1,,TEXT,loan ho tro đien thoai so,below_threshold
+Loan Hợp đồng Số,1,,TEXT,loan hop đong so,below_threshold
+Loan Hủy bỏ bộ phận,1,,TEXT,loan huy bo bo phan,below_threshold
+Loan Hủy khoản vay,1,,TEXT,loan huy khoan vay,below_threshold
+Loan Hủy khoản vay Chính sách,1,,TEXT,loan huy khoan vay chinh sach,below_threshold
+Loan Hủy khoản vay số điện thoại,1,,TEXT,loan huy khoan vay so đien thoai,below_threshold
+Loan Hủy vay,1,,TEXT,loan huy vay,below_threshold
+Loan Hủy vay số,1,,TEXT,loan huy vay so,below_threshold
+Loan ID ứng dụng,1,,TEXT,loan id ung dung,below_threshold
+Loan Khả năng thanh toán,1,,TEXT,loan kha nang thanh toan,below_threshold
+Loan Management Account,1,,TEXT,loan management account,below_threshold
+Loan Nhóm Hỗ trợ Khách hàng,1,,TEXT,loan nhom ho tro khach hang,below_threshold
+Loan Nhóm Hỗ trợ Khách hàng Điện thoại Số,1,,TEXT,loan nhom ho tro khach hang đien thoai so,below_threshold
+Loan Officer Name,1,,TEXT,loan officer name,below_threshold
+Loan Officer's Name,1,,TEXT,loan officer s name,below_threshold
+Loan Payment History,1,,TEXT,loan payment history,below_threshold
+Loan Payment Portal,1,,TEXT,loan payment portal,below_threshold
+Loan Payment Support Contact,1,,TEXT,loan payment support contact,below_threshold
+Loan Quản lý Tài khoản,1,,TEXT,loan quan ly account,below_threshold
+Loan Section,1,,TEXT,loan section,below_threshold
+Loan Số Tài khoản,1,,TEXT,loan so account,below_threshold
+Loan Số đơn xin vay,1,,TEXT,loan so đon xin vay,below_threshold
+Loan Term,1,,TEXT,loan term,below_threshold
+Loan Thanh toán,1,,TEXT,loan thanh toan,below_threshold
+Loan Thanh toán trợ giúp Số,1,,TEXT,loan thanh toan tro giup so,below_threshold
+Loan Thông tin,1,,TEXT,loan thong tin,below_threshold
+Loan Thỏa thuận,1,,TEXT,loan thoa thuan,below_threshold
+Loan Time.,1,,TEXT,loan time.,below_threshold
+Loan bộ phận,1,,TEXT,loan bo phan,below_threshold
+Loan số,1,,TEXT,loan so,below_threshold
+Loan xử lý Thời gian,1,,TEXT,loan xu ly thoi gian,below_threshold
+Loan Ứng dụng,1,,TEXT,loan ung dung,below_threshold
+Loan Ứng dụng Số Reference,1,,TEXT,loan ung dung so reference,below_threshold
+Loan Ứng dụng Số tham khảo,1,,TEXT,loan ung dung so tham khao,below_threshold
+Loan ứng dụng Reference,1,,TEXT,loan ung dung reference,below_threshold
+Loan ứng dụng Số,1,,TEXT,loan ung dung so,below_threshold
+Loan ứng dụng tham chiếu,1,,TEXT,loan ung dung tham chieu,below_threshold
+Loan ứng dụng tham khảo,1,,TEXT,loan ung dung tham khao,below_threshold
+LoanCompany.com,1,,TEXT,loancompany.com,below_threshold
+LoanWebsite.com,1,,TEXT,loanwebsite.com,below_threshold
+Loan_,1,,TEXT,loan,below_threshold
+Loans,1,,TEXT,loans,below_threshold
+Local Branches,1,,TEXT,local branch,below_threshold
+Locations,1,,TEXT,locations,below_threshold
+Lock/Block,1,,TEXT,lock block,below_threshold
+Lock/Block Card,1,,TEXT,lock block card,below_threshold
+Login Credentials,1,,TEXT,login credentials,below_threshold
+MATM,1,,TEXT,matm,below_threshold
+Manage Account,1,,TEXT,manage account,below_threshold
+Manage Accounts,1,,TEXT,manage accounts,below_threshold
+Manage Card,1,,TEXT,manage card,below_threshold
+Manage Loan,1,,TEXT,manage loan,below_threshold
+Manage My Account,1,,TEXT,manage my account,below_threshold
+Manage My Accounts,1,,TEXT,manage my accounts,below_threshold
+Manage Payments,1,,TEXT,manage payments,below_threshold
+Manage Transfers,1,,TEXT,manage transfers,below_threshold
+Manage Your Account,1,,TEXT,manage your account,below_threshold
+Manage Your Cards,1,,TEXT,manage your cards,below_threshold
+Map App,1,,TEXT,map app,below_threshold
+Maps,1,,TEXT,maps,below_threshold
+Maps App,1,,TEXT,maps app,below_threshold
+Mobile Banking App Name,1,,TEXT,mobile banking app name,below_threshold
+Monthly Statements,1,,TEXT,monthly statement,below_threshold
+Mortgage Account Portal,1,,TEXT,mortgage account portal,below_threshold
+Mortgage Application,1,,TEXT,mortgage application,below_threshold
+Mortgage Application Form,1,,TEXT,mortgage application form,below_threshold
+Mortgage Bank,1,,TEXT,mortgage bank,below_threshold
+Mortgage Cancellation Điện thoại Số,1,,TEXT,mortgage cancellation đien thoai so,below_threshold
+Mortgage Company,1,,TEXT,mortgage company,below_threshold
+Mortgage Contact Number,1,,TEXT,mortgage contact number,below_threshold
+Mortgage Department Contact Number,1,,TEXT,mortgage department contact number,below_threshold
+Mortgage Dịch vụ Khách hàng,1,,TEXT,mortgage dich vu khach hang,below_threshold
+Mortgage Dịch vụ Điện thoại số,1,,TEXT,mortgage dich vu đien thoai so,below_threshold
+Mortgage Dịch vụ điện thoại,1,,TEXT,mortgage dich vu đien thoai,below_threshold
+Mortgage Helpdesk,1,,TEXT,mortgage helpdesk,below_threshold
+Mortgage Helpline,1,,TEXT,mortgage helpline,below_threshold
+Mortgage Hỗ trợ Điện thoại số,1,,TEXT,mortgage ho tro đien thoai so,below_threshold
+Mortgage Hủy bỏ Bộ phận,1,,TEXT,mortgage huy bo bo phan,below_threshold
+Mortgage Hủy bỏ số tài khoản,1,,TEXT,mortgage huy bo so account,below_threshold
+Mortgage Hủy bỏ số điện thoại của bộ phận,1,,TEXT,mortgage huy bo so đien thoai cua bo phan,below_threshold
+Mortgage Hủy bỏ tiền đặt cọc số điện thoại,1,,TEXT,mortgage huy bo tien đat coc so đien thoai,below_threshold
+Mortgage Information,1,,TEXT,mortgage information,below_threshold
+Mortgage Khách hàng Dịch vụ,1,,TEXT,mortgage khach hang dich vu,below_threshold
+Mortgage Lender Name,1,,TEXT,mortgage lender name,below_threshold
+Mortgage Loan Company,1,,TEXT,mortgage loan company,below_threshold
+Mortgage Nhà cung cấp dịch vụ,1,,TEXT,mortgage nha cung cap dich vu,below_threshold
+Mortgage Nhà cung cấp số điện thoại,1,,TEXT,mortgage nha cung cap so đien thoai,below_threshold
+Mortgage Number,1,,TEXT,mortgage number,below_threshold
+Mortgage Pay,1,,TEXT,mortgage pay,below_threshold
+Mortgage Provider Customer Support,1,,TEXT,mortgage provider customer support,below_threshold
+Mortgage Provider Name,1,,TEXT,mortgage provider name,below_threshold
+Mortgage Provider's,1,,TEXT,mortgage provider s,below_threshold
+Mortgage Providers,1,,TEXT,mortgage providers,below_threshold
+Mortgage Refinancing Department,1,,TEXT,mortgage refinancing department,below_threshold
+Mortgage Refinancing Program,1,,TEXT,mortgage refinancing program,below_threshold
+Mortgage Service Provider,1,,TEXT,mortgage service provider,below_threshold
+Mortgage Service Team,1,,TEXT,mortgage service team,below_threshold
+Mortgage Services Team,1,,TEXT,mortgage services team,below_threshold
+Mortgage So sánh Trang web,1,,TEXT,mortgage so sanh trang web,below_threshold
+Mortgage Specialist Team,1,,TEXT,mortgage specialist team,below_threshold
+Mortgage Specialists,1,,TEXT,mortgage specialists,below_threshold
+Mortgage Support,1,,TEXT,mortgage support,below_threshold
+Mortgage Thỏa thuận,1,,TEXT,mortgage thoa thuan,below_threshold
+Mortgage Tài khoản số,1,,TEXT,mortgage account so,below_threshold
+Mortgage amount,1,,TEXT,mortgage amount,below_threshold
+Mortgage date,1,,TEXT,mortgage date,below_threshold
+Mortgage Điện thoại số,1,,TEXT,mortgage đien thoai so,below_threshold
+My Amex Dịch vụ Điện thoại số,1,AMEX,TEXT,my amex dich vu đien thoai so,below_threshold
+My Mortgage Payments,1,,TEXT,my mortgage payments,below_threshold
+My Payments,1,,TEXT,my payments,below_threshold
+MyBank,1,,TEXT,mybank,below_threshold
+Mọi thông tin cụ thể hoặc yêu cầu liên quan đến hủy bỏ,1,,TEXT,moi thong tin cu card hoac yeu cau lien quan đen huy bo,below_threshold
+Name Bank,1,,TEXT,name bank,below_threshold
+Name User,1,,TEXT,name user,below_threshold
+Name của người nhận,1,,TEXT,name cua nguoi nhan,below_threshold
+Name người dùng,1,,TEXT,name nguoi dung,below_threshold
+Name on the Loan Account,1,,TEXT,name on card loan account,below_threshold
+Name trên Tài khoản bảo hiểm,1,,TEXT,name tren account bao hiem,below_threshold
+Name trên Tài khoản vay,1,,TEXT,name tren account vay,below_threshold
+Name tài khoản,1,,TEXT,name account,below_threshold
+Name user,1,,TEXT,name user,below_threshold
+"Name,Mortgage Account",1,,TEXT,name mortgage account,below_threshold
+NameBank file to a dispute,1,,TEXT,namebank file to a dispute,below_threshold
+NameBank's's customer's team,1,,TEXT,namebank s s customer s team,below_threshold
+Name_Bank,1,,TEXT,name bank,below_threshold
+Next,1,,TEXT,next,below_threshold
+Ngay khoản ngân hàng,1,,TEXT,ngay khoan ngan hang,below_threshold
+Ngày Sinh nhật,1,,TEXT,ngay sinh nhat,below_threshold
+Ngày cuối 4 của SSN,1,,TEXT,ngay cuoi 4 cua ssn,below_threshold
+Ngày làm việc Ngân hàng,1,,TEXT,ngay lam viec ngan hang,below_threshold
+Ngày sinh nhật,1,,TEXT,ngay sinh nhat,below_threshold
+Ngân hàng Dịch vụ giờ,1,,TEXT,ngan hang dich vu gio,below_threshold
+Ngân hàng Hỗ trợ Điện thoại số,1,,TEXT,ngan hang ho tro đien thoai so,below_threshold
+Ngân hàng Hỗ trợ Điện thoại.,1,,TEXT,ngan hang ho tro đien thoai.,below_threshold
+Ngân hàng Online Banking.,1,,TEXT,ngan hang online banking.,below_threshold
+Người vay trực tuyến,1,,TEXT,nguoi vay truc tuyen,below_threshold
+Người vay trực tuyến 1,1,,TEXT,nguoi vay truc tuyen 1,below_threshold
+Người vay trực tuyến 2,1,,TEXT,nguoi vay truc tuyen 2,below_threshold
+Nhà Người dùng,1,,TEXT,nha nguoi dung,below_threshold
+Nhà của người gửi,1,,TEXT,nha cua nguoi gui,below_threshold
+Nhà giao dịch,1,,TEXT,nha transaction,below_threshold
+Nhà hỗ trợ khách hàng số điện thoại,1,,TEXT,nha ho tro khach hang so đien thoai,below_threshold
+Nhà hỗ trợ khách hàng Điện thoại số,1,,TEXT,nha ho tro khach hang đien thoai so,below_threshold
+Nhà ngân hàng,1,,TEXT,nha ngan hang,below_threshold
+Nhà người dùng tài khoản,1,,TEXT,nha nguoi dung account,below_threshold
+Nhà nhận,1,,TEXT,nha nhan,below_threshold
+Nhà sản phẩm,1,,TEXT,nha san pham,below_threshold
+Nhà số tài khoản,1,,TEXT,nha so account,below_threshold
+Nhà sử,1,,TEXT,nha su,below_threshold
+Nhà địa điểm gần nhất của ngành,1,,TEXT,nha đia điem gan nhat cua nganh,below_threshold
+Nhà định,1,,TEXT,nha đinh,below_threshold
+Nhân số người dùng,1,,TEXT,nhan so nguoi dung,below_threshold
+Nhân viên,1,,TEXT,nhan vien,below_threshold
+Nhình số trợ giúp khẩn cấp,1,,TEXT,nhinh so tro giup khan cap,below_threshold
+Nhình yêu cầu,1,,TEXT,nhinh yeu cau,below_threshold
+Nhạc Amount,1,,TEXT,nhac amount,below_threshold
+Nhạc Công ty,1,,TEXT,nhac cong ty,below_threshold
+Nhạc Hỗ trợ Khách hàng,1,,TEXT,nhac ho tro khach hang,below_threshold
+Nhạc ID,1,,TEXT,nhac id,below_threshold
+Nhạc Liên minh tín dụng,1,,TEXT,nhac lien minh tin dung,below_threshold
+Nhạc Tài khoản người dùng,1,,TEXT,nhac account nguoi dung,below_threshold
+Nhạc dịch vụ khách hàng,1,,TEXT,nhac dich vu khach hang,below_threshold
+Nhạc giao dịch,1,,TEXT,nhac transaction,below_threshold
+Nhạc hỗ trợ khách hàng Điện thoại,1,,TEXT,nhac ho tro khach hang đien thoai,below_threshold
+Nhạc khách hàng,1,,TEXT,nhac khach hang,below_threshold
+Nhạc liên quan đến tài khoản,1,,TEXT,nhac lien quan đen account,below_threshold
+Nhạc máy ATM,1,,TEXT,nhac may atm,below_threshold
+Nhạc người nhận,1,,TEXT,nhac nguoi nhan,below_threshold
+Nhạc sử dụng,1,,TEXT,nhac su dung,below_threshold
+Nhạc thẻ,1,,TEXT,nhac card,below_threshold
+Nhạc thẻ người dùng,1,,TEXT,nhac card nguoi dung,below_threshold
+Nhạc tài khoản của bạn,1,,TEXT,nhac account cua ban,below_threshold
+Nhạc tài khoản ngân hàng,1,,TEXT,nhac account ngan hang,below_threshold
+Nhạc Điện thoại Hỗ trợ Khách hàng,1,,TEXT,nhac đien thoai ho tro khach hang,below_threshold
+Nhạc điện thoại,1,,TEXT,nhac đien thoai,below_threshold
+Nhạc điện tử,1,,TEXT,nhac đien tu,below_threshold
+Nhạc đơn,1,,TEXT,nhac đon,below_threshold
+Nhạc đơn hàng,1,,TEXT,nhac đon hang,below_threshold
+Nhạc ứng dụng,1,,TEXT,nhac ung dung,below_threshold
+Nhạc ứng dụng hỗ trợ,1,,TEXT,nhac ung dung ho tro,below_threshold
+Những người dùng,1,,TEXT,nhung nguoi dung,below_threshold
+Nome tài khoản,1,,TEXT,nome account,below_threshold
+Number Hướng dẫn,1,,TEXT,number huong dan,below_threshold
+Number Routing Bank,1,,TEXT,number routing bank,below_threshold
+Number tài khoản ngân hàng,1,,TEXT,number account ngan hang,below_threshold
+Nô số Tài khoản Ngân hàng,1,,TEXT,no so account ngan hang,below_threshold
+Nữ người dùng,1,,TEXT,nu nguoi dung,below_threshold
+One-Time Password (OTP),1,,TEXT,one time password (otp),below_threshold
+Online Card Services,1,,TEXT,online card services,below_threshold
+Online Chat Hỗ trợ,1,,TEXT,online chat ho tro,below_threshold
+Online Lender,1,,TEXT,online lender,below_threshold
+PIN,1,,TEXT,pin,below_threshold
+POT,1,,TEXT,pot,below_threshold
+Partnerks,1,,TEXT,partnerks,below_threshold
+Password Setup,1,,TEXT,password setup,below_threshold
+Payment & Billing,1,,TEXT,payment & billing,below_threshold
+Payment Records,1,,TEXT,payment records,below_threshold
+Payment Section,1,,TEXT,payment section,below_threshold
+Payment Summary,1,,TEXT,payment summary,below_threshold
+"Payment""",1,,TEXT,payment,below_threshold
+Peer-to-Peer-Peer Platforms,1,,TEXT,peer to peer peer platforms,below_threshold
+Personal Identification Information,1,,TEXT,personal identification information,below_threshold
+Personal Information,1,,TEXT,personal information,below_threshold
+Profil của tôi,1,,TEXT,profil cua toi,below_threshold
+Profile Management,1,,TEXT,profile management,below_threshold
+Profile Name,1,,TEXT,profile name,below_threshold
+Profile Settings,1,,TEXT,profile settings,below_threshold
+Profile Username,1,,TEXT,profile username,below_threshold
+Reason for Cancellation,1,,TEXT,reason for cancellation,below_threshold
+Recipient Name,1,,TEXT,recipient name,below_threshold
+Recipient's Name,1,,TEXT,recipient s name,below_threshold
+Refinancing bộ,1,,TEXT,refinancing bo,below_threshold
+Rent Amount,1,,TEXT,rent amount,below_threshold
+Report a Problem,1,,TEXT,report a problem,below_threshold
+Request Card Closure,1,,TEXT,request card closure,below_threshold
+Reset,1,,TEXT,reset,below_threshold
+Response Time.,1,,TEXT,response time.,below_threshold
+Reverse,1,,TEXT,reverse,below_threshold
+Revoke,1,,TEXT,revoke,below_threshold
+Save Changes,1,,TEXT,save changes,below_threshold
+Savings,1,,TEXT,savings,below_threshold
+Security Settings,1,,TEXT,security settings,below_threshold
+Sender's Information,1,,TEXT,sender s information,below_threshold
+Sender's Name,1,,TEXT,sender s name,below_threshold
+Set New Password,1,,TEXT,set new password,below_threshold
+Set Up Password,1,,TEXT,set up password,below_threshold
+Settings Account,1,,TEXT,settings account,below_threshold
+Settings Profile,1,,TEXT,settings profile,below_threshold
+Settings Security,1,,TEXT,settings security,below_threshold
+Social Media Platform.,1,,TEXT,social media platform.,below_threshold
+Social Media Profile Name,1,,TEXT,social media profile name,below_threshold
+Social Media Support,1,,TEXT,social media support,below_threshold
+Specific Inquiry,1,,TEXT,specific inquiry,below_threshold
+Specific Issue,1,,TEXT,specific issue,below_threshold
+Sport,1,,TEXT,sport,below_threshold
+Standard Response Time,1,,TEXT,standard response time,below_threshold
+Statements,1,,TEXT,statement,below_threshold
+Stop,1,,TEXT,stop,below_threshold
+Supdate,1,,TEXT,supdate,below_threshold
+Supmit,1,,TEXT,supmit,below_threshold
+Support Information.,1,,TEXT,support information.,below_threshold
+Supporting Hours.,1,,TEXT,supporting hours.,below_threshold
+Suspend Card,1,,TEXT,suspend card,below_threshold
+Sản khoản chuyển khoản,1,,TEXT,san khoan chuyen khoan,below_threshold
+Sản phần thanh toán,1,,TEXT,san phan thanh toan,below_threshold
+Số bảo mật xã hội,1,,TEXT,so security xa hoi,below_threshold
+Số điện thoại Ngân hàng,1,,TEXT,so đien thoai ngan hang,below_threshold
+TID khách hàng,1,,TEXT,tid khach hang,below_threshold
+Talk to a Agent,1,,TEXT,talk to a agent,below_threshold
+Talk to a Human,1,,TEXT,talk to a human,below_threshold
+Talk to an Agent,1,,TEXT,talk to an agent,below_threshold
+Tan tích các lựa chọn khác,1,,TEXT,tan tich cac lua chon khac,below_threshold
+Tan tích các điều khoản tiền ủng hộ của bạn,1,,TEXT,tan tich cac đieu khoan tien ung ho cua ban,below_threshold
+Tay ngày sinh,1,,TEXT,tay ngay sinh,below_threshold
+Temporally Disable Card,1,,TEXT,temporally disable card,below_threshold
+Temporary Freeze,1,,TEXT,temporary freeze,below_threshold
+Thanh giao dịch,1,,TEXT,thanh transaction,below_threshold
+Thanh giao dịch Date,1,,TEXT,thanh transaction date,below_threshold
+Thanh giao dịch ngày,1,,TEXT,thanh transaction ngay,below_threshold
+Thanh toán khoản vay,1,,TEXT,thanh toan khoan vay,below_threshold
+Thank ID,1,,TEXT,thank id,below_threshold
+Thanks Account,1,,TEXT,thanks account,below_threshold
+Thanks Recent,1,,TEXT,thanks recent,below_threshold
+Third-party Mapping App,1,,TEXT,third party mapping app,below_threshold
+Thiên thông tin cá nhân,1,,TEXT,thien thong tin ca nhan,below_threshold
+Thiết kế liên lạc,1,,TEXT,thiet ke lien lac,below_threshold
+Thiết minh về bản sắc,1,,TEXT,thiet minh ve ban sac,below_threshold
+Thiết minh về bản thân,1,,TEXT,thiet minh ve ban than,below_threshold
+Thiết minh về chỗ ở,1,,TEXT,thiet minh ve cho o,below_threshold
+Thiết tiết thanh toán,1,,TEXT,thiet tiet thanh toan,below_threshold
+Thiết tắt tài khoản,1,,TEXT,thiet tat account,below_threshold
+Thiết định dạng,1,,TEXT,thiet đinh dang,below_threshold
+Thiết định địa chỉ,1,,TEXT,thiet đinh đia chi,below_threshold
+Thiện hỗ trợ điện thoại khách hàng,1,,TEXT,thien ho tro đien thoai khach hang,below_threshold
+Thuyên định,1,,TEXT,thuyen đinh,below_threshold
+Thuyên định tài khoản,1,,TEXT,thuyen đinh account,below_threshold
+Thuyết dịch,1,,TEXT,thuyet dich,below_threshold
+Thuyết toán,1,,TEXT,thuyet toan,below_threshold
+Thuyết định,1,,TEXT,thuyet đinh,below_threshold
+Thuế Tài khoản hàng tháng,1,,TEXT,thue account hang thang,below_threshold
+Thuế Tăng,1,,TEXT,thue tang,below_threshold
+Thông tin Tài khoản của người nhận,1,,TEXT,thong tin account cua nguoi nhan,below_threshold
+Thông tin giao dịch,1,,TEXT,thong tin transaction,below_threshold
+Thông tin hỗ trợ khách hàng Điện thoại số,1,,TEXT,thong tin ho tro khach hang đien thoai so,below_threshold
+Thông việc ngày,1,,TEXT,thong viec ngay,below_threshold
+Thông việc số,1,,TEXT,thong viec so,below_threshold
+Thỏa thuận Ngày và Thời gian,1,,TEXT,thoa thuan ngay va thoi gian,below_threshold
+Thời gian thanh toán,1,,TEXT,thoi gian thanh toan,below_threshold
+Thời gian xử lý,1,,TEXT,thoi gian xu ly,below_threshold
+Tin tức dịch vụ khách hàng,1,,TEXT,tin tuc dich vu khach hang,below_threshold
+Tin tức thẻ tín dụng,1,,TEXT,tin tuc card tin dung,below_threshold
+Touch ID,1,,TEXT,touch id,below_threshold
+Trang Hỗ trợ Khách hàng,1,,TEXT,trang ho tro khach hang,below_threshold
+Trang Ngân hàng Trang web,1,,TEXT,trang ngan hang trang web,below_threshold
+Trang Ngân hàng trực tuyến,1,,TEXT,trang ngan hang truc tuyen,below_threshold
+Trang Ngân hàng trực tuyến của Ngân hàng,1,,TEXT,trang ngan hang truc tuyen cua ngan hang,below_threshold
+Trang Ngân hàng Điện thoại di động App,1,,TEXT,trang ngan hang đien thoai di đong app,below_threshold
+Trang Tài chính,1,,TEXT,trang tai chinh,below_threshold
+Trang Tài khoản,1,,TEXT,trang account,below_threshold
+Trang chủ Trang web,1,,TEXT,trang chu trang web,below_threshold
+Trang của tôi,1,,TEXT,trang cua toi,below_threshold
+Trang dịch,1,,TEXT,trang dich,below_threshold
+Trang dịch vụ Ngân hàng,1,,TEXT,trang dich vu ngan hang,below_threshold
+Trang dịch vụ bảo mật,1,,TEXT,trang dich vu security,below_threshold
+Trang dịch vụ chuyển khoản,1,,TEXT,trang dich vu chuyen khoan,below_threshold
+Trang dịch vụ chuyển khoản tiền.,1,,TEXT,trang dich vu chuyen khoan tien.,below_threshold
+Trang dịch vụ hỗ trợ,1,,TEXT,trang dich vu ho tro,below_threshold
+Trang dịch vụ khách hàng của Ngân hàng,1,,TEXT,trang dich vu khach hang cua ngan hang,below_threshold
+Trang dịch vụ một thời gian,1,,TEXT,trang dich vu mot thoi gian,below_threshold
+Trang dịch vụ quốc tế,1,,TEXT,trang dich vu quoc te,below_threshold
+Trang dịch vụ tiền,1,,TEXT,trang dich vu tien,below_threshold
+Trang dịch vụ tài chính,1,,TEXT,trang dich vu tai chinh,below_threshold
+Trang dịch vụ tài chính của người sở hữu tài khoản,1,,TEXT,trang dich vu tai chinh cua nguoi so huu account,below_threshold
+Trang dịch vụ Điện thoại số,1,,TEXT,trang dich vu đien thoai so,below_threshold
+Trang dịch vụ điện thoại số,1,,TEXT,trang dich vu đien thoai so,below_threshold
+Trang dịch vụ_,1,,TEXT,trang dich vu,below_threshold
+Trang hoặc Trang web,1,,TEXT,trang hoac trang web,below_threshold
+Trang hỗ trợ khách hàng,1,,TEXT,trang ho tro khach hang,below_threshold
+Trang hỗ trợ khách hàng Số điện thoại,1,,TEXT,trang ho tro khach hang so đien thoai,below_threshold
+Trang ngân hàng Tài khoản Số,1,,TEXT,trang ngan hang account so,below_threshold
+Trang tài khoản,1,,TEXT,trang account,below_threshold
+Trang tín dụng,1,,TEXT,trang tin dung,below_threshold
+Trang web của Google Play,1,,TEXT,trang web cua playstore,below_threshold
+Trang web hỗ trợ khách hàng,1,,TEXT,trang web ho tro khach hang,below_threshold
+Trang web hỗ trợ khách hàng số,1,,TEXT,trang web ho tro khach hang so,below_threshold
+Trang web hỗ trợ khách hàng Điện thoại số,1,,TEXT,trang web ho tro khach hang đien thoai so,below_threshold
+Trang địa phương 1,1,,TEXT,trang đia phuong 1,below_threshold
+Trang địa phương 2,1,,TEXT,trang đia phuong 2,below_threshold
+Trang địa phương 3,1,,TEXT,trang đia phuong 3,below_threshold
+Transaction Pin,1,,TEXT,transaction pin,below_threshold
+Transaction Records,1,,TEXT,transaction records,below_threshold
+Transaction Reference Number,1,,TEXT,transaction reference number,below_threshold
+Trung dịch vụ tài khoản,1,,TEXT,trung dich vu account,below_threshold
+Trung tâm Ngân hàng,1,,TEXT,trung tam ngan hang,below_threshold
+Trung web của công ty,1,,TEXT,trung web cua cong ty,below_threshold
+Truyện Tranh Mới,1,,TEXT,truyen tranh moi,below_threshold
+Tuyết của tuần,1,,TEXT,tuyet cua tuan,below_threshold
+Tuyền của tôi,1,,TEXT,tuyen cua toi,below_threshold
+Tuyền hỗ trợ khách hàng Số điện thoại,1,,TEXT,tuyen ho tro khach hang so đien thoai,below_threshold
+Tuyền tổng quát tài khoản,1,,TEXT,tuyen tong quat account,below_threshold
+Two-Factor Authentication.,1,,TEXT,two factor authentication.,below_threshold
+Type của khoản vay,1,,TEXT,type cua khoan vay,below_threshold
+Type giao dịch,1,,TEXT,type transaction,below_threshold
+Tài dịch vụ Khách hàng,1,,TEXT,tai dich vu khach hang,below_threshold
+Tài hoạt động,1,,TEXT,tai hoat đong,below_threshold
+Tài hỗ trợ khách hàng hoặc qua trang web chat trực tiếp,1,,TEXT,tai ho tro khach hang hoac qua trang web chat truc tiep,below_threshold
+Tài khoản Thông tin,1,,TEXT,account thong tin,below_threshold
+Tài khoản chuyển khoản ID/Tài khoản chuyển khoản,1,,TEXT,account chuyen khoan id account chuyen khoan,below_threshold
+Tài khoản chuyển khoản chi tiết,1,,TEXT,account chuyen khoan chi tiet,below_threshold
+Tài khoản hỗ trợ khách hàng hoặc qua trang web Live Chat,1,,TEXT,account ho tro khach hang hoac qua trang web live chat,below_threshold
+Tài khoản lịch sử,1,,TEXT,account lich su,below_threshold
+Tài khoản ngân hàng,1,,TEXT,account ngan hang,below_threshold
+Tài khoản thanh toán,1,,TEXT,account thanh toan,below_threshold
+Tài khoản thông tin,1,,TEXT,account thong tin,below_threshold
+Tài khoản thông tin ngân hàng,1,,TEXT,account thong tin ngan hang,below_threshold
+Tài khoản thẻ,1,,TEXT,account card,below_threshold
+Tài khoản tín dụng,1,,TEXT,account tin dung,below_threshold
+Tài liệu Quản lý,1,,TEXT,tai lieu quan ly,below_threshold
+Tài liệu Tài chính,1,,TEXT,tai lieu tai chinh,below_threshold
+Tài liệu hỗ trợ khách hàng,1,,TEXT,tai lieu ho tro khach hang,below_threshold
+Tài liệu sử dụng quốc tế,1,,TEXT,tai lieu su dung quoc te,below_threshold
+Tài liệu tài chính,1,,TEXT,tai lieu tai chinh,below_threshold
+Tài liệu tài khoản,1,,TEXT,tai lieu account,below_threshold
+Tài liệu và phí,1,,TEXT,tai lieu va fee,below_threshold
+Tài liệu đăng ký,1,,TEXT,tai lieu đang ky,below_threshold
+Tài làm việc hỗ trợ khách hàng,1,,TEXT,tai lam viec ho tro khach hang,below_threshold
+Tài số điện thoại của bộ ngoại giao,1,,TEXT,tai so đien thoai cua bo ngoai giao,below_threshold
+Tài điện thoại Hỗ trợ Khách hàng,1,,TEXT,tai đien thoai ho tro khach hang,below_threshold
+Tài điện thoại của bộ phận gian lận,1,,TEXT,tai đien thoai cua bo phan gian lan,below_threshold
+Tài điện thoại kích hoạt,1,,TEXT,tai đien thoai activate,below_threshold
+Tên Hỗ trợ Điện thoại.,1,,TEXT,ten ho tro đien thoai.,below_threshold
+Tên ID tài khoản,1,,TEXT,ten id account,below_threshold
+Tên Lịch sử thanh toán,1,,TEXT,ten lich su thanh toan,below_threshold
+Tên Tài khoản,1,,TEXT,ten account,below_threshold
+Tên Xem Thanh toán,1,,TEXT,ten xem thanh toan,below_threshold
+Tên chuyển giao Số chuyển giao,1,,TEXT,ten chuyen giao so chuyen giao,below_threshold
+Tên cuối,1,,TEXT,ten cuoi,below_threshold
+Tên của Người gửi,1,,TEXT,ten cua nguoi gui,below_threshold
+Tên của bạn,1,,TEXT,ten cua ban,below_threshold
+Tên của người gửi,1,,TEXT,ten cua nguoi gui,below_threshold
+Tên hết hạn,1,,TEXT,ten het han,below_threshold
+Tên hỗ trợ khách hàng Ngân hàng,1,,TEXT,ten ho tro khach hang ngan hang,below_threshold
+Tên hỗ trợ khách hàng Điện thoại số,1,,TEXT,ten ho tro khach hang đien thoai so,below_threshold
+Tên hỗ trợ điện thoại số,1,,TEXT,ten ho tro đien thoai so,below_threshold
+Tên ngân hàng App,1,,TEXT,ten ngan hang app,below_threshold
+Tên người dùng / ID Tài khoản,1,,TEXT,ten nguoi dung id account,below_threshold
+Tên số,1,,TEXT,ten so,below_threshold
+Tên số dịch vụ,1,,TEXT,ten so dich vu,below_threshold
+Tên số liên hệ,1,,TEXT,ten so lien he,below_threshold
+Tên số điện thoại,1,,TEXT,ten so đien thoai,below_threshold
+Tên số điện thoại hỗ trợ khách hàng,1,,TEXT,ten so đien thoai ho tro khach hang,below_threshold
+Tên sử dụng số điện thoại hỗ trợ khách hàng,1,,TEXT,ten su dung so đien thoai ho tro khach hang,below_threshold
+Tên thuê,1,,TEXT,ten thue,below_threshold
+Tên thẻ kích hoạt,1,,TEXT,ten card activate,below_threshold
+Tên tài khoản ngân hàng,1,,TEXT,ten account ngan hang,below_threshold
+Tên tài khoản và Thời gian của giao dịch,1,,TEXT,ten account va thoi gian cua transaction,below_threshold
+Tên đầy đủ của bạn,1,,TEXT,ten đay đu cua ban,below_threshold
+Tên định vị Ngân hàng,1,,TEXT,ten đinh vi ngan hang,below_threshold
+Tìm ATM số điện thoại khách hàng,1,,TEXT,tim atm so đien thoai khach hang,below_threshold
+Tìm hiểu tình hình,1,,TEXT,tim hieu tinh hinh,below_threshold
+Tìm kiếm số,1,,TEXT,tim kiem so,below_threshold
+Tìm một ATM,1,,TEXT,tim mot atm,below_threshold
+Tình lý hủy bỏ,1,,TEXT,tinh ly huy bo,below_threshold
+Tình sinh ngày,1,,TEXT,tinh sinh ngay,below_threshold
+Tín dụng thẻ #1,1,,TEXT,tin dung card #1,below_threshold
+Tín dụng thẻ #2,1,,TEXT,tin dung card #2,below_threshold
+Tín dụng thẻ #3,1,,TEXT,tin dung card #3,below_threshold
+Tín dụng tài khoản ID,1,,TEXT,tin dung account id,below_threshold
+Tín số ID,1,,TEXT,tin so id,below_threshold
+Tín số Reference Mortgage,1,,TEXT,tin so reference mortgage,below_threshold
+Tín số Tài khoản Ngân hàng,1,,TEXT,tin so account ngan hang,below_threshold
+Tín số Tài khoản vay tiền,1,,TEXT,tin so account vay tien,below_threshold
+Tín số Tài khoản ảo,1,,TEXT,tin so account ao,below_threshold
+Tín số chuyển ID,1,,TEXT,tin so chuyen id,below_threshold
+Tín số chuyển đổi,1,,TEXT,tin so chuyen đoi,below_threshold
+Tín số nhận dạng chuyển giao,1,,TEXT,tin so nhan dang chuyen giao,below_threshold
+Tín số tham khảo,1,,TEXT,tin so tham khao,below_threshold
+Tín số tài khoản vay,1,,TEXT,tin so account vay,below_threshold
+Tín số tài khoản vay tiền,1,,TEXT,tin so account vay tien,below_threshold
+Tính hệ số,1,,TEXT,tinh he so,below_threshold
+Tính khoản Hỗ trợ Khách hàng,1,,TEXT,tinh khoan ho tro khach hang,below_threshold
+Tính khoản Tài khoản Người dùng,1,,TEXT,tinh khoan account nguoi dung,below_threshold
+Tính khoản của tôi,1,,TEXT,tinh khoan cua toi,below_threshold
+Tính khoản hỗ trợ khách hàng,1,,TEXT,tinh khoan ho tro khach hang,below_threshold
+Tính khoản hỗ trợ khách hàng Điện thoại,1,,TEXT,tinh khoan ho tro khach hang đien thoai,below_threshold
+Tính năng liên lạc được yêu thích,1,,TEXT,tinh nang lien lac đuoc yeu thich,below_threshold
+Tính toán,1,,TEXT,tinh toan,below_threshold
+Tính toán của tôi,1,,TEXT,tinh toan cua toi,below_threshold
+Tính toán tài chính,1,,TEXT,tinh toan tai chinh,below_threshold
+Tóm tắt tài khoản,1,,TEXT,tom tat account,below_threshold
+Tăng ID,1,,TEXT,tang id,below_threshold
+Tăng cường điện thoại số điện thoại khách hàng,1,,TEXT,tang cuong đien thoai so đien thoai khach hang,below_threshold
+Tăng trợ dịch vụ khách hàng của chúng tôi đến bạn,1,,TEXT,tang tro dich vu khach hang cua chung toi đen ban,below_threshold
+Tăng trợ khách hàng số điện thoại,1,,TEXT,tang tro khach hang so đien thoai,below_threshold
+Tăng trợ khách hàng tại,1,,TEXT,tang tro khach hang tai,below_threshold
+Tất cả Tên,1,,TEXT,tat ca ten,below_threshold
+Tất cả các chi tiết thêm,1,,TEXT,tat ca cac chi tiet them,below_threshold
+Tất cả số tài khoản,1,,TEXT,tat ca so account,below_threshold
+Tập chi tiết tài khoản,1,,TEXT,tap chi tiet account,below_threshold
+Tập chuyển giao tổng hợp,1,,TEXT,tap chuyen giao tong hop,below_threshold
+Tập chuyển khoản,1,,TEXT,tap chuyen khoan,below_threshold
+Tập chuyển lịch,1,,TEXT,tap chuyen lich,below_threshold
+Tập dịch gần đây,1,,TEXT,tap dich gan đay,below_threshold
+Tập dịch lịch sử,1,,TEXT,tap dich lich su,below_threshold
+Tập dịch vụ cụ thể,1,,TEXT,tap dich vu cu card,below_threshold
+Tập hoạt động tài khoản,1,,TEXT,tap hoat đong account,below_threshold
+Tập khoản Tài khoản,1,,TEXT,tap khoan account,below_threshold
+Tập lịch chuyển khoản,1,,TEXT,tap lich chuyen khoan,below_threshold
+Tập lịch giao dịch mới,1,,TEXT,tap lich transaction moi,below_threshold
+Tập lịch sử chuyển khoản,1,,TEXT,tap lich su chuyen khoan,below_threshold
+Tập lịch sử giao dịch,1,,TEXT,tap lich su transaction,below_threshold
+Tập lịch sử hỗ trợ khách hàng,1,,TEXT,tap lich su ho tro khach hang,below_threshold
+Tập lịch tài khoản,1,,TEXT,tap lich account,below_threshold
+Tập lịch đơn,1,,TEXT,tap lich đon,below_threshold
+Tập nhật,1,,TEXT,tap nhat,below_threshold
+Tập nhật chuyển giao,1,,TEXT,tap nhat chuyen giao,below_threshold
+Tập nhật của Công ty,1,,TEXT,tap nhat cua cong ty,below_threshold
+Tập nhật của tôi,1,,TEXT,tap nhat cua toi,below_threshold
+Tập nhật giờ,1,,TEXT,tap nhat gio,below_threshold
+Tập nhật hỗ trợ khách hàng,1,,TEXT,tap nhat ho tro khach hang,below_threshold
+Tập nhật ngày,1,,TEXT,tap nhat ngay,below_threshold
+Tập nhật năm,1,,TEXT,tap nhat nam,below_threshold
+Tập nhật rút tiền,1,,TEXT,tap nhat rut tien,below_threshold
+Tập nhật sinh nhật,1,,TEXT,tap nhat sinh nhat,below_threshold
+Tập nhật thanh toán tiền mặt,1,,TEXT,tap nhat thanh toan tien mat,below_threshold
+Tập nhật thẻ,1,,TEXT,tap nhat card,below_threshold
+Tập nhật tài khoản của bạn,1,,TEXT,tap nhat account cua ban,below_threshold
+Tập toán của tôi,1,,TEXT,tap toan cua toi,below_threshold
+Tập toán hỗ trợ khách hàng số điện thoại,1,,TEXT,tap toan ho tro khach hang so đien thoai,below_threshold
+Tập toán tiền mặt,1,,TEXT,tap toan tien mat,below_threshold
+Tập toán tài khoản,1,,TEXT,tap toan account,below_threshold
+Tập việc,1,,TEXT,tap viec,below_threshold
+Tập xem thanh toán,1,,TEXT,tap xem thanh toan,below_threshold
+Tổng thông tin nhận dạng,1,,TEXT,tong thong tin nhan dang,below_threshold
+Từ ngày của tuần,1,,TEXT,tu ngay cua tuan,below_threshold
+Tỷ lệ,1,,TEXT,ty le,below_threshold
+Tỷ lệ giao dịch ID,1,,TEXT,ty le transaction id,below_threshold
+Tỷ lệ phí hàng năm,1,,TEXT,ty le fee hang nam,below_threshold
+Undo,1,,TEXT,undo,below_threshold
+Unique Username,1,,TEXT,unique username,below_threshold
+User ID,1,,TEXT,user id,below_threshold
+View Activity,1,,TEXT,view activity,below_threshold
+View Card Balance,1,,TEXT,view card balance,below_threshold
+View Current Balance,1,,TEXT,view current balance,below_threshold
+View Mortgage Payment,1,,TEXT,view mortgage payment,below_threshold
+View Mortgage Payment Summary,1,,TEXT,view mortgage payment summary,below_threshold
+View Thanh toán tiền mặt,1,,TEXT,view thanh toan tien mat,below_threshold
+View Tài khoản Fees,1,,TEXT,view account fee,below_threshold
+Visa Customer Support,1,VISA,TEXT,visa customer support,below_threshold
+Visa Dịch vụ Khách hàng,1,VISA,TEXT,visa dich vu khach hang,below_threshold
+Visa Dịch vụ Khách hàng Contact Number,1,VISA,TEXT,visa dich vu khach hang contact number,below_threshold
+Visa Số hỗ trợ khách hàng,1,VISA,TEXT,visa so ho tro khach hang,below_threshold
+Wire Transfer,1,,TEXT,wire transfer,below_threshold
+Withdrawal Amount,1,,TEXT,withdrawal amount,below_threshold
+Yelp,1,,TEXT,yelp,below_threshold
+Your Apartment Number hoặc bất kỳ thông báo nào khác được cung cấp bởi landlord,1,,TEXT,your apartment number hoac bat ky thong bao nao khac đuoc cung cap boi landlord,below_threshold
+ZIP Code,1,,TEXT,zip code,below_threshold
+amount,1,,TEXT,amount,below_threshold
+bank,1,,TEXT,bank,below_threshold
+bank account details,1,,TEXT,bank account details,below_threshold
+companywebsite.com,1,,TEXT,companywebsite.com,below_threshold
+custom_service_service,1,,TEXT,custom service service,below_threshold
+công khoản truyền thông xã hội,1,,TEXT,cong khoan truyen thong xa hoi,below_threshold
+công ty,1,,TEXT,cong ty,below_threshold
+công việc,1,,TEXT,cong viec,below_threshold
+date,1,,TEXT,date,below_threshold
+mount,1,,TEXT,mount,below_threshold
+routing,1,,TEXT,routing,below_threshold
+support@example.com,1,,TEXT,support@example.com,below_threshold
+số tài khoản,1,,TEXT,so account,below_threshold
+thiết định tài khoản,1,,TEXT,thiet đinh account,below_threshold
+thỏa thuận ngày,1,,TEXT,thoa thuan ngay,below_threshold
+thỏa thuận ngày/giờ,1,,TEXT,thoa thuan ngay gio,below_threshold
+thỏa thuận số,1,,TEXT,thoa thuan so,below_threshold
+thỏa thuận số tiền,1,,TEXT,thoa thuan so tien,below_threshold
+time,1,,TEXT,time,below_threshold
+trang web chính thức của Visa,1,VISA,TEXT,trang web chinh thuc cua visa,below_threshold
+transaction ID,1,,TEXT,transaction id,below_threshold
+transfer reference number,1,,TEXT,transfer reference number,below_threshold
+tài khoản ngân hàng,1,,TEXT,account ngan hang,below_threshold
+tên kết thúc ngày,1,,TEXT,ten ket thuc ngay,below_threshold
+tên ngân hàng,1,,TEXT,ten ngan hang,below_threshold
+tên thương mại,1,,TEXT,ten thuong mai,below_threshold
+tên thẻ,1,,TEXT,ten card,below_threshold
+tên tài khoản,1,,TEXT,ten account,below_threshold
+tên đường dẫn,1,,TEXT,ten đuong dan,below_threshold
+tình lý,1,,TEXT,tinh ly,below_threshold
+tín dụng 3 tháng cuối,1,,TEXT,tin dung 3 thang cuoi,below_threshold
+tín dụng ID,1,,TEXT,tin dung id,below_threshold
+tín dụng cá nhân hoặc thu hồi thuế,1,,TEXT,tin dung ca nhan hoac thu hoi thue,below_threshold
+tín số người dùng,1,,TEXT,tin so nguoi dung,below_threshold
+www.companywebsite.com,1,,TEXT,www.companywebsite.com,below_threshold
+www.example.com,1,,TEXT,www.example.com,below_threshold
+Đi số tài khoản,1,,TEXT,đi so account,below_threshold
+Điều An ninh Xã hội,1,,TEXT,đieu an ninh xa hoi,below_threshold
+Điều Dashboard tài khoản,1,,TEXT,đieu dashboard account,below_threshold
+Điều Dịch vụ,1,,TEXT,đieu dich vu,below_threshold
+Điều Giao dịch,1,,TEXT,đieu transaction,below_threshold
+Điều ID người dùng,1,,TEXT,đieu id nguoi dung,below_threshold
+Điều ID tài khoản,1,,TEXT,đieu id account,below_threshold
+Điều Người dùng,1,,TEXT,đieu nguoi dung,below_threshold
+Điều Pass-Time,1,,TEXT,đieu pass time,below_threshold
+Điều Số Bảo mật Xã hội,1,,TEXT,đieu so security xa hoi,below_threshold
+Điều Số Tài khoản,1,,TEXT,đieu so account,below_threshold
+Điều Số Tài khoản thuê nhà,1,,TEXT,đieu so account thue nha,below_threshold
+Điều Số thẻ tín dụng,1,,TEXT,đieu cardnumber tin dung,below_threshold
+Điều Tài chính,1,,TEXT,đieu tai chinh,below_threshold
+Điều Tài khoản Hủy bỏ,1,,TEXT,đieu account huy bo,below_threshold
+Điều Tài khoản của Người giữ,1,,TEXT,đieu account cua nguoi giu,below_threshold
+Điều Tài khoản của Người gửi,1,,TEXT,đieu account cua nguoi gui,below_threshold
+Điều Tài khoản vay,1,,TEXT,đieu account vay,below_threshold
+Điều Tài khoản vay đòi,1,,TEXT,đieu account vay đoi,below_threshold
+Điều Tài khoản ảo,1,,TEXT,đieu account ao,below_threshold
+Điều Tài khoản ủng hộ,1,,TEXT,đieu account ung ho,below_threshold
+Điều Tài sản,1,,TEXT,đieu tai san,below_threshold
+Điều Tên Người nhận,1,,TEXT,đieu ten nguoi nhan,below_threshold
+Điều User,1,,TEXT,đieu user,below_threshold
+Điều bảo mật xã hội,1,,TEXT,đieu security xa hoi,below_threshold
+Điều chi tiết nhận dạng cá nhân,1,,TEXT,đieu chi tiet nhan dang ca nhan,below_threshold
+Điều chuyển,1,,TEXT,đieu chuyen,below_threshold
+Điều chuyển ID hoặc Số tham chiếu,1,,TEXT,đieu chuyen id hoac so tham chieu,below_threshold
+Điều chuyển khoản ID,1,,TEXT,đieu chuyen khoan id,below_threshold
+Điều chuyển khoản Reference,1,,TEXT,đieu chuyen khoan reference,below_threshold
+Điều chuyển khoản có lợi,1,,TEXT,đieu chuyen khoan co loi,below_threshold
+Điều chuyển khoản của người nhận,1,,TEXT,đieu chuyen khoan cua nguoi nhan,below_threshold
+Điều chuyển khoản hoặc Điều chuyển khoản,1,,TEXT,đieu chuyen khoan hoac đieu chuyen khoan,below_threshold
+Điều chuyển khoản ngân hàng Reference Number,1,,TEXT,đieu chuyen khoan ngan hang reference number,below_threshold
+Điều chuyển nhượng Reference,1,,TEXT,đieu chuyen nhuong reference,below_threshold
+Điều chào mừng,1,,TEXT,đieu chao mung,below_threshold
+Điều của người nhận,1,,TEXT,đieu cua nguoi nhan,below_threshold
+Điều hướng dẫn,1,,TEXT,đieu huong dan,below_threshold
+Điều hỗ trợ Khách hàng Điện thoại,1,,TEXT,đieu ho tro khach hang đien thoai,below_threshold
+Điều hỗ trợ khách,1,,TEXT,đieu ho tro khach,below_threshold
+Điều hỗ trợ khách hàng của chúng tôi.,1,,TEXT,đieu ho tro khach hang cua chung toi.,below_threshold
+Điều hỗ trợ khách hàng Điện thoại số,1,,TEXT,đieu ho tro khach hang đien thoai so,below_threshold
+Điều hỗ trợ điện thoại,1,,TEXT,đieu ho tro đien thoai,below_threshold
+Điều hỗ trợ điện thoại của khách hàng.,1,,TEXT,đieu ho tro đien thoai cua khach hang.,below_threshold
+Điều hỗ trợ điện thoại khách hàng,1,,TEXT,đieu ho tro đien thoai khach hang,below_threshold
+Điều hỗ trợ điện thoại khách hàng.,1,,TEXT,đieu ho tro đien thoai khach hang.,below_threshold
+Điều hợp đồng thuê,1,,TEXT,đieu hop đong thue,below_threshold
+Điều khoản,1,,TEXT,đieu khoan,below_threshold
+Điều khoản Hỗ trợ Khách hàng Điện thoại,1,,TEXT,đieu khoan ho tro khach hang đien thoai,below_threshold
+Điều khoản hỗ trợ của chúng tôi,1,,TEXT,đieu khoan ho tro cua chung toi,below_threshold
+Điều khoản hỗ trợ khách hàng Điện thoại,1,,TEXT,đieu khoan ho tro khach hang đien thoai,below_threshold
+Điều khoản liên hệ,1,,TEXT,đieu khoan lien he,below_threshold
+Điều khoản vay của bạn,1,,TEXT,đieu khoan vay cua ban,below_threshold
+Điều khoản vay và số điện thoại hỗ trợ khách hàng,1,,TEXT,đieu khoan vay va so đien thoai ho tro khach hang,below_threshold
+Điều khoản điện thoại của bộ phận ôn,1,,TEXT,đieu khoan đien thoai cua bo phan on,below_threshold
+"Điều khoản,",1,,TEXT,đieu khoan,below_threshold
+Điều kiện,1,,TEXT,đieu kien,below_threshold
+Điều kiện của bạn và lý do của việc hủy bỏ tiền gửi của bạn,1,,TEXT,đieu kien cua ban va ly do cua viec huy bo tien gui cua ban,below_threshold
+Điều kiện hỗ trợ khách hàng Điện thoại,1,,TEXT,đieu kien ho tro khach hang đien thoai,below_threshold
+Điều kiện thẻ Lost/Stolen Card,1,,TEXT,đieu kien card lost stolen card,below_threshold
+Điều kiện thẻ tín dụng,1,,TEXT,đieu kien card tin dung,below_threshold
+Điều kích hoạt Điện thoại,1,,TEXT,đieu activate đien thoai,below_threshold
+Điều liên hệ,1,,TEXT,đieu lien he,below_threshold
+Điều liên hệ của bạn và địa chỉ điện thoại của bạn,1,,TEXT,đieu lien he cua ban va đia chi đien thoai cua ban,below_threshold
+Điều liên hệ trực tuyến,1,,TEXT,đieu lien he truc tuyen,below_threshold
+"Điều liên lạc, thông tin liên lạc và chi tiết tài khoản bảo hiểm",1,,TEXT,đieu lien lac thong tin lien lac va chi tiet account bao hiem,below_threshold
+Điều lịch sử thanh toán,1,,TEXT,đieu lich su thanh toan,below_threshold
+Điều mật mã,1,,TEXT,đieu mat ma,below_threshold
+Điều quản lý thẻ,1,,TEXT,đieu quan ly card,below_threshold
+Điều quản lý thẻ tín dụng,1,,TEXT,đieu quan ly card tin dung,below_threshold
+Điều số Bảo mật Xã hội Cuối cùng,1,,TEXT,đieu so security xa hoi cuoi cung,below_threshold
+Điều số Cuối cùng,1,,TEXT,đieu so cuoi cung,below_threshold
+Điều số Hỗ trợ Khách hàng Điện thoại,1,,TEXT,đieu so ho tro khach hang đien thoai,below_threshold
+Điều số Tài khoản Loan,1,,TEXT,đieu so account loan,below_threshold
+Điều số Tài khoản thuê nhà,1,,TEXT,đieu so account thue nha,below_threshold
+Điều số tài khoản hủy bỏ tài khoản,1,,TEXT,đieu so account huy bo account,below_threshold
+Điều số điện thoại của bộ phận hủy bỏ tài khoản,1,,TEXT,đieu so đien thoai cua bo phan huy bo account,below_threshold
+Điều số điện thoại dịch vụ khách hàng của bạn,1,,TEXT,đieu so đien thoai dich vu khach hang cua ban,below_threshold
+Điều tham chiếu vay,1,,TEXT,đieu tham chieu vay,below_threshold
+Điều tham khảo của Loan,1,,TEXT,đieu tham khao cua loan,below_threshold
+Điều thẻ tín dụng,1,,TEXT,đieu card tin dung,below_threshold
+Điều thời gian,1,,TEXT,đieu thoi gian,below_threshold
+Điều tiền gửi một thời gian,1,,TEXT,đieu tien gui mot thoi gian,below_threshold
+Điều tiền mặt,1,,TEXT,đieu tien mat,below_threshold
+Điều trên Tài khoản thuê nhà,1,,TEXT,đieu tren account thue nha,below_threshold
+Điều tài khoản của chủ sở hữu,1,,TEXT,đieu account cua chu so huu,below_threshold
+Điều tài khoản gửi,1,,TEXT,đieu account gui,below_threshold
+Điều tài khoản hủy bỏ,1,,TEXT,đieu account huy bo,below_threshold
+Điều tài khoản thuê nhà,1,,TEXT,đieu account thue nha,below_threshold
+Điều tài khoản tiền gửi của bạn,1,,TEXT,đieu account tien gui cua ban,below_threshold
+Điều tài khoản tài khoản tài khoản,1,,TEXT,đieu account account account,below_threshold
+Điều tài khoản vay,1,,TEXT,đieu account vay,below_threshold
+Điều tài khoản/IBAN,1,,TEXT,đieu account iban,below_threshold
+Điều tài liệu nhận dạng,1,,TEXT,đieu tai lieu nhan dang,below_threshold
+Điều tài liệu nhận dạng cá nhân,1,,TEXT,đieu tai lieu nhan dang ca nhan,below_threshold
+Điều tài sản chứng minh,1,,TEXT,đieu tai san chung minh,below_threshold
+Điều tên của người nhận,1,,TEXT,đieu ten cua nguoi nhan,below_threshold
+Điều tín dụng thẻ tín dụng,1,,TEXT,đieu tin dung card tin dung,below_threshold
+Điều web của bạn,1,,TEXT,đieu web cua ban,below_threshold
+Điều web của công ty,1,,TEXT,đieu web cua cong ty,below_threshold
+Điều xác thực sinh học,1,,TEXT,đieu xac thuc sinh hoc,below_threshold
+Điều Điện thoại Hỗ trợ khách hàng,1,,TEXT,đieu đien thoai ho tro khach hang,below_threshold
+Điều điện thoại của công ty,1,,TEXT,đieu đien thoai cua cong ty,below_threshold
+Điều điện thoại của đại diện hủy bỏ,1,,TEXT,đieu đien thoai cua đai dien huy bo,below_threshold
+Điều điện thoại hỗ trợ khách hàng của họ,1,,TEXT,đieu đien thoai ho tro khach hang cua ho,below_threshold
+Điều điện thoại hỗ trợ quốc tế,1,,TEXT,đieu đien thoai ho tro quoc te,below_threshold
+Điều điện thoại.,1,,TEXT,đieu đien thoai.,below_threshold
+Điều đăng ký của bạn,1,,TEXT,đieu đang ky cua ban,below_threshold
+Điều đơn yêu cầu hủy tiền,1,,TEXT,đieu đon yeu cau huy tien,below_threshold
+Điều đặt cọc,1,,TEXT,đieu đat coc,below_threshold
+Điều địa chỉ của sở hữu,1,,TEXT,đieu đia chi cua so huu,below_threshold
+Điều địa chỉ tài sản,1,,TEXT,đieu đia chi tai san,below_threshold
+Điều/Điều dịch vụ,1,,TEXT,đieu đieu dich vu,below_threshold
+Điểm Hỗ trợ Khách hàng,1,,TEXT,điem ho tro khach hang,below_threshold
+Điểm Thông tin cá nhân,1,,TEXT,điem thong tin ca nhan,below_threshold
+Điểm Tài khoản của bạn,1,,TEXT,điem account cua ban,below_threshold
+Điểm Tài khoản của tôi,1,,TEXT,điem account cua toi,below_threshold
+Điểm hỗ trợ Công ty vay,1,,TEXT,điem ho tro cong ty vay,below_threshold
+Điểm hỗ trợ khách hàng cho vay,1,,TEXT,điem ho tro khach hang cho vay,below_threshold
+Điểm hỗ trợ khách hàng Điện thoại,1,,TEXT,điem ho tro khach hang đien thoai,below_threshold
+Điểm hỗ trợ điện thoại khách hàng,1,,TEXT,điem ho tro đien thoai khach hang,below_threshold
+Điểm hủy bỏ khoản vay,1,,TEXT,điem huy bo khoan vay,below_threshold
+Điểm hủy bỏ khoản vay của bạn,1,,TEXT,điem huy bo khoan vay cua ban,below_threshold
+Điểm hủy bỏ tiền gửi,1,,TEXT,điem huy bo tien gui,below_threshold
+Điểm hủy bỏ điện thoại,1,,TEXT,điem huy bo đien thoai,below_threshold
+Điểm hủy vay,1,,TEXT,điem huy vay,below_threshold
+Điểm mật khẩu,1,,TEXT,điem password,below_threshold
+Điểm số Tài khoản vay của bạn,1,,TEXT,điem so account vay cua ban,below_threshold
+Điểm số tài khoản ảo,1,,TEXT,điem so account ao,below_threshold
+Điểm số đơn hàng,1,,TEXT,điem so đon hang,below_threshold
+Điểm toán,1,,TEXT,điem toan,below_threshold
+Điểm toán Lịch sử,1,,TEXT,điem toan lich su,below_threshold
+Điểm toán Platform,1,,TEXT,điem toan platform,below_threshold
+Điểm toán chi tiết,1,,TEXT,điem toan chi tiet,below_threshold
+Điểm toán hỗ trợ khách hàng,1,,TEXT,điem toan ho tro khach hang,below_threshold
+Điểm toán ngày,1,,TEXT,điem toan ngay,below_threshold
+Điểm tài khoản cho vay,1,,TEXT,điem account cho vay,below_threshold
+Điểm tài khoản của bạn,1,,TEXT,điem account cua ban,below_threshold
+Điểm Điện thoại Hỗ trợ Khách hàng,1,,TEXT,điem đien thoai ho tro khach hang,below_threshold
+Điểm điện thoại của bộ phận hủy bỏ tiền gửi,1,,TEXT,điem đien thoai cua bo phan huy bo tien gui,below_threshold
+Điểm điện thoại hỗ trợ khách hàng,1,,TEXT,điem đien thoai ho tro khach hang,below_threshold
+Điểm điện thoại hủy bỏ,1,,TEXT,điem đien thoai huy bo,below_threshold
+Điển khoản Chủ tên,1,,TEXT,đien khoan chu ten,below_threshold
+Điện Lịch sử Điện,1,,TEXT,đien lich su đien,below_threshold
+Điện Now,1,,TEXT,đien now,below_threshold
+Điện hỗ trợ điện thoại,1,,TEXT,đien ho tro đien thoai,below_threshold
+Điện số tài khoản,1,,TEXT,đien so account,below_threshold
+Điện tích Hỗ trợ Điện thoại,1,,TEXT,đien tich ho tro đien thoai,below_threshold
+Điện ích Trang web của Công ty,1,,TEXT,đien ich trang web cua cong ty,below_threshold
+Điện ích của công ty,1,,TEXT,đien ich cua cong ty,below_threshold
+Điện ích Điện thoại khách hàng,1,,TEXT,đien ich đien thoai khach hang,below_threshold
+Đánh giá chuyển giao,1,,TEXT,đanh gia chuyen giao,below_threshold
+Đăng ký,1,,TEXT,đang ky,below_threshold
+Đăng ký người dùng,1,,TEXT,đang ky nguoi dung,below_threshold
+Đăng ký tài khoản,1,,TEXT,đang ky account,below_threshold
+Đăng trợ điện thoại,1,,TEXT,đang tro đien thoai,below_threshold
+Đăng ứng hỗ trợ khách hàng Điện thoại số,1,,TEXT,đang ung ho tro khach hang đien thoai so,below_threshold
+Được 4 số thẻ tín dụng,1,,TEXT,đuoc 4 cardnumber tin dung,below_threshold
+Đại giao ảo,1,,TEXT,đai giao ao,below_threshold
+Đại giao ảo số điện thoại,1,,TEXT,đai giao ao so đien thoai,below_threshold
+Đại giao ảo tài chính,1,,TEXT,đai giao ao tai chinh,below_threshold
+Đại phòng hủy bỏ,1,,TEXT,đai phong huy bo,below_threshold
+Đại phòng hủy bỏ khoản vay,1,,TEXT,đai phong huy bo khoan vay,below_threshold
+Đại phòng hủy bỏ số điện thoại,1,,TEXT,đai phong huy bo so đien thoai,below_threshold
+Đặt hàng,1,,TEXT,đat hang,below_threshold
+Đặt hàng ID,1,,TEXT,đat hang id,below_threshold
+Đặt hàng số,1,,TEXT,đat hang so,below_threshold
+Đặt hàng tổng hợp,1,,TEXT,đat hang tong hop,below_threshold
+Đặt hủy dịch vụ,1,,TEXT,đat huy dich vu,below_threshold
+Đặt hủy dịch vụ số điện thoại,1,,TEXT,đat huy dich vu so đien thoai,below_threshold
+Đặt hủy tài khoản số,1,,TEXT,đat huy account so,below_threshold
+Đặt hủy tài liệu,1,,TEXT,đat huy tai lieu,below_threshold
+Đặt vé ID,1,,TEXT,đat ve id,below_threshold
+Đến đến Cài đặt Tài khoản của bạn,1,,TEXT,đen đen cai đat account cua ban,below_threshold
+Độ ID giao dịch,1,,TEXT,đo id transaction,below_threshold
+Độ ngày,1,,TEXT,đo ngay,below_threshold
+Độ số Tài khoản Ngân hàng của bạn,1,,TEXT,đo so account ngan hang cua ban,below_threshold
+Độ số chuyển khoản,1,,TEXT,đo so chuyen khoan,below_threshold
+Độ số tài khoản,1,,TEXT,đo so account,below_threshold
+Đội Hỗ trợ,1,,TEXT,đoi ho tro,below_threshold
+Đội Hỗ trợ Điện thoại,1,,TEXT,đoi ho tro đien thoai,below_threshold
+Đội giải quyết tranh chấp,1,,TEXT,đoi giai quyet tranh chap,below_threshold
+Đội hỗ trợ điện thoại khách hàng,1,,TEXT,đoi ho tro đien thoai khach hang,below_threshold
+Độm Card,1,,TEXT,đom card,below_threshold
+Độm Tài khoản,1,,TEXT,đom account,below_threshold
+địa chỉ tài sản,1,,TEXT,đia chi tai san,below_threshold
+độ số bảo hiểm xã hội của bạn,1,,TEXT,đo so bao hiem xa hoi cua ban,below_threshold
+độ số tài khoản thuê nhà,1,,TEXT,đo so account thue nha,below_threshold
+độ số tài khoản vay,1,,TEXT,đo so account vay,below_threshold
+độ thẻ chủ,1,,TEXT,đo card chu,below_threshold
+độ thẻ tín dụng của bạn,1,,TEXT,đo card tin dung cua ban,below_threshold
+Công ty Website URL,1906,,URL,cong ty url url,below_threshold
+Customer Website URL,1449,,URL,customer url url,below_threshold
+URL Trang web của công ty,385,,URL,url trang web cua cong ty,below_threshold
+Company Website URL,247,,URL,company url url,below_threshold
+Credit Website URL,109,,URL,credit url url,below_threshold
+Bank Website URL,47,,URL,bank url url,below_threshold
+Website,36,,URL,url,below_threshold
+Website URL,32,,URL,url url,below_threshold
+Banking Website,30,,URL,banking url,below_threshold
+Trang web Ngân hàng URL,28,,URL,trang web ngan hang url,below_threshold
+Company URL,25,,URL,company url,below_threshold
+Điều URL Trang web của Công ty,21,,URL,đieu url trang web cua cong ty,below_threshold
+American Express Website URL,17,AMERICAN_EXPRESS,URL,american express url url,below_threshold
+Bank Website,17,,URL,bank url,below_threshold
+URL Trang web của Công ty,17,,URL,url trang web cua cong ty,below_threshold
+Credit Card Website URL,15,,URL,credit card url url,below_threshold
+Công ty Website,14,,URL,cong ty url,below_threshold
+Công ty Trang web URL,11,,URL,cong ty trang web url,below_threshold
+Công ty URL,11,,URL,cong ty url,below_threshold
+Trang web của công ty URL,11,,URL,trang web cua cong ty url,below_threshold
+Điều URL Trang Web của Công ty,11,,URL,đieu url trang web cua cong ty,below_threshold
+Điều URL Trang web của công ty,11,,URL,đieu url trang web cua cong ty,below_threshold
+Banker Website URL,9,,URL,banker url url,below_threshold
+Website Ngân hàng URL,9,,URL,url ngan hang url,below_threshold
+Banking Website URL,8,,URL,banking url url,below_threshold
+Customer Website,8,,URL,customer url,below_threshold
+Loan Website URL,7,,URL,loan url url,below_threshold
+Comp Website URL,6,,URL,comp url url,below_threshold
+Customer URL,6,,URL,customer url,below_threshold
+URL trang web,6,,URL,url trang web,below_threshold
+AMEX Website URL,5,AMEX,URL,amex url url,below_threshold
+Banque Website URL,5,,URL,banque url url,below_threshold
+Credit Card URL,5,,URL,credit card url,below_threshold
+Điều URL của Công ty,5,,URL,đieu url cua cong ty,below_threshold
+Điều URL của trang web của công ty,5,,URL,đieu url cua trang web cua cong ty,below_threshold
+Customer Website URL.,4,,URL,customer url url.,below_threshold
+Trang web URL,4,,URL,trang web url,below_threshold
+Website Ngân hàng,4,,URL,url ngan hang,below_threshold
+Điều URL của bạn,4,,URL,đieu url cua ban,below_threshold
+AMEX Trang web URL,3,AMEX,URL,amex trang web url,below_threshold
+Customer Service Website URL,3,,URL,customer service url url,below_threshold
+Visa Website URL,3,VISA,URL,visa url url,below_threshold
+công ty Website URL,3,,URL,cong ty url url,below_threshold
+website,3,,URL,url,below_threshold
+Điều điện thoại của công ty URL,3,,URL,đieu đien thoai cua cong ty url,below_threshold
+Điện URL Trang web của công ty,3,,URL,đien url trang web cua cong ty,below_threshold
+ATM Finder Website,2,,URL,atm finder url,below_threshold
+App Store URL,2,,URL,appstore url,below_threshold
+Ban Website URL,2,,URL,ban url url,below_threshold
+Branch Website URL,2,,URL,branch url url,below_threshold
+Comp Website URL.,2,,URL,comp url url.,below_threshold
+Credit Website,2,,URL,credit url,below_threshold
+Loan Provider Website URL,2,,URL,loan provider url url,below_threshold
+Loan Trang web URL,2,,URL,loan trang web url,below_threshold
+Mortgage Lender Website URL,2,,URL,mortgage lender url url,below_threshold
+Tên Công ty URL,2,,URL,ten cong ty url,below_threshold
+URL Công ty,2,,URL,url cong ty,below_threshold
+URL Trang Web của Công ty,2,,URL,url trang web cua cong ty,below_threshold
+URL Website.,2,,URL,url url.,below_threshold
+Website Homepage,2,,URL,url homepage,below_threshold
+Website của Ngân hàng URL,2,,URL,url cua ngan hang url,below_threshold
+Điều URL trang web của công ty,2,,URL,đieu url trang web cua cong ty,below_threshold
+Điểm URL của trang web của công ty,2,,URL,điem url cua trang web cua cong ty,below_threshold
+Điện URL Trang Web của Công ty,2,,URL,đien url trang web cua cong ty,below_threshold
+Điện URL của Công ty,2,,URL,đien url cua cong ty,below_threshold
+Điện ích của Công ty URL,2,,URL,đien ich cua cong ty url,below_threshold
+ATM Website URL,1,,URL,atm url url,below_threshold
+ATM tìm kiếm Website,1,,URL,atm tim kiem url,below_threshold
+App Store hoặc Google Link Play,1,,URL,appstore hoac google url play,below_threshold
+Bank's Website,1,,URL,bank s url,below_threshold
+City Website URL,1,,URL,city url url,below_threshold
+Company Website,1,,URL,company url,below_threshold
+Company Website và URL để duyệt thẻ tín dụng,1,,URL,company url va url đe duyet card tin dung,below_threshold
+Contact Website URL,1,,URL,contact url url,below_threshold
+Credit Card Provider Website URL,1,,URL,credit card provider url url,below_threshold
+Credit Website URL.,1,,URL,credit url url.,below_threshold
+Customer Support Page URL,1,,URL,customer support page url,below_threshold
+Customer Support Website Number,1,,URL,customer support url number,below_threshold
+Customer Website Support Number,1,,URL,customer url support number,below_threshold
+Các khoản Web URL,1,,URL,cac khoan web url,below_threshold
+Công ty Website URL.,1,,URL,cong ty url url.,below_threshold
+Công việc URL của công ty.,1,,URL,cong viec url cua cong ty.,below_threshold
+Google Play Store URL,1,,URL,playstore store url,below_threshold
+Hiện URL của công ty.,1,,URL,hien url cua cong ty.,below_threshold
+Hiện khoản Website của Công ty URL,1,,URL,hien khoan url cua cong ty url,below_threshold
+Hiện ích của công ty URL,1,,URL,hien ich cua cong ty url,below_threshold
+Hôm làm việc URL của công ty,1,,URL,hom lam viec url cua cong ty,below_threshold
+Hộp đơn dịch vụ của công ty URL,1,,URL,hop đon dich vu cua cong ty url,below_threshold
+Lender's Website URL,1,,URL,lender s url url,below_threshold
+Loan Application URL,1,,URL,loan application url,below_threshold
+Loan Department Website URL,1,,URL,loan department url url,below_threshold
+Loan Loan Website,1,,URL,loan loan url,below_threshold
+Loan Support Website,1,,URL,loan support url,below_threshold
+MAT Finder Website,1,,URL,mat finder url,below_threshold
+Map Website,1,,URL,map url,below_threshold
+Maps Website,1,,URL,maps url,below_threshold
+Maps Website URL,1,,URL,maps url url,below_threshold
+Mortgage Assistance Website URL,1,,URL,mortgage assistance url url,below_threshold
+Mortgage Provider Website,1,,URL,mortgage provider url,below_threshold
+Mortgage Support Website URL,1,,URL,mortgage support url url,below_threshold
+Mortgage Website URL,1,,URL,mortgage url url,below_threshold
+Ngân hàng Website URL,1,,URL,ngan hang url url,below_threshold
+Nhà công ty URL,1,,URL,nha cong ty url,below_threshold
+Thuyết minh Website của công ty URL,1,,URL,thuyet minh url cua cong ty url,below_threshold
+Thuyền Web của công ty URL,1,,URL,thuyen web cua cong ty url,below_threshold
+Thuyền hỗ trợ khách hàng URL,1,,URL,thuyen ho tro khach hang url,below_threshold
+Thông tin hỗ trợ khách hàng URL,1,,URL,thong tin ho tro khach hang url,below_threshold
+Thị trí Trang web của Công ty URL,1,,URL,thi tri trang web cua cong ty url,below_threshold
+Trang dịch vụ URL,1,,URL,trang dich vu url,below_threshold
+Trang web công ty URL,1,,URL,trang web cong ty url,below_threshold
+Trang web ngân hàng URL,1,,URL,trang web ngan hang url,below_threshold
+Trung web của công ty URL,1,,URL,trung web cua cong ty url,below_threshold
+Trò chuyện trực tiếp URL của công ty,1,,URL,tro chuyen truc tiep url cua cong ty,below_threshold
+Trực tuyến URL,1,,URL,truc tuyen url,below_threshold
+Tuyền hỗ trợ khách hàng URL,1,,URL,tuyen ho tro khach hang url,below_threshold
+Tài URL của Công ty,1,,URL,tai url cua cong ty,below_threshold
+Tài khoản URL của trang web của công ty,1,,URL,account url cua trang web cua cong ty,below_threshold
+Tài web công ty URL,1,,URL,tai web cong ty url,below_threshold
+Tài web của công ty URL,1,,URL,tai web cua cong ty url,below_threshold
+Tài điện thoại của Công ty URL,1,,URL,tai đien thoai cua cong ty url,below_threshold
+Tên Công ty URL trang web,1,,URL,ten cong ty url trang web,below_threshold
+Tên Công ty Website URL,1,,URL,ten cong ty url url,below_threshold
+Tên sử dụng URL của công ty,1,,URL,ten su dung url cua cong ty,below_threshold
+Tên sử dụng URL của trang web của công ty,1,,URL,ten su dung url cua trang web cua cong ty,below_threshold
+Tính khoản URL của Công ty,1,,URL,tinh khoan url cua cong ty,below_threshold
+Tính khoản URL của công ty,1,,URL,tinh khoan url cua cong ty,below_threshold
+Tập nhật của Công ty URL,1,,URL,tap nhat cua cong ty url,below_threshold
+URL Trang web của Ngân hàng,1,,URL,url trang web cua ngan hang,below_threshold
+URL Website,1,,URL,url url,below_threshold
+URL Website của công ty,1,,URL,url url cua cong ty,below_threshold
+URL của Công ty.,1,,URL,url cua cong ty.,below_threshold
+URL của công ty,1,,URL,url cua cong ty,below_threshold
+URL trang web của bạn,1,,URL,url trang web cua ban,below_threshold
+Website Chat,1,,URL,url chat,below_threshold
+website URL,1,,URL,url url,below_threshold
+Điều URL Trang web AMEX,1,AMEX,URL,đieu url trang web amex,below_threshold
+Điều URL Trang web Công ty,1,,URL,đieu url trang web cong ty,below_threshold
+Điều URL của Người dùng,1,,URL,đieu url cua nguoi dung,below_threshold
+Điều URL của Trang web của Công ty,1,,URL,đieu url cua trang web cua cong ty,below_threshold
+Điều URL của công ty,1,,URL,đieu url cua cong ty,below_threshold
+Điều URL trang web,1,,URL,đieu url trang web,below_threshold
+Điều hỗ trợ khách hàng Website,1,,URL,đieu ho tro khach hang url,below_threshold
+Điều hỗ trợ khách hàng của chúng tôi URL,1,,URL,đieu ho tro khach hang cua chung toi url,below_threshold
+Điều khoản Hỗ trợ Khách hàng Website,1,,URL,đieu khoan ho tro khach hang url,below_threshold
+Điểm URL Trang web của Công ty,1,,URL,điem url trang web cua cong ty,below_threshold
+Điểm URL của Công ty,1,,URL,điem url cua cong ty,below_threshold
+Điện URL Website của Công ty,1,,URL,đien url url cua cong ty,below_threshold
+Điện tích Website của công ty,1,,URL,đien tich url cua cong ty,below_threshold
+Điện web của công ty URL,1,,URL,đien web cua cong ty url,below_threshold
+Điện ích Website của Công ty,1,,URL,đien ich url cua cong ty,below_threshold
+Điện ích Website của công ty URL,1,,URL,đien ich url cua cong ty url,below_threshold
+Điệp web của công ty URL,1,,URL,điep web cua cong ty url,below_threshold
+Đăng ký Website của Công ty URL,1,,URL,đang ky url cua cong ty url,below_threshold
