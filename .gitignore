@@ -9,7 +9,6 @@ venv/
 .venv/
 
 # Data files
-*.csv
 *.doc
 *.docx
 *.pdf
