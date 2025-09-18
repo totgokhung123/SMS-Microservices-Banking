@@ -1,0 +1,9 @@
+{
+  "total_samples": 25544,
+  "avg_instruction_length": 60.644808957093645,
+  "avg_response_length": 751.8644691512684,
+  "max_instruction_length": 2044,
+  "max_response_length": 3481,
+  "min_instruction_length": 7,
+  "min_response_length": 76
+}
