@@ -1,0 +1,175 @@
+HDBANK_TKTT_TRUC_TUYEN_QNA (Điều 1–14)
+
+Q1: HDBank là gì?
+A1: Là Ngân hàng TMCP Phát triển TP. Hồ Chí Minh.
+
+Q2: ĐVKD/Điểm giao dịch của HDBank là gì?
+A2: Là các đơn vị kinh doanh như Chi nhánh, Phòng giao dịch và đơn vị khác có chức năng kinh doanh theo từng thời kỳ của HDBank.
+
+Q3: TKTT trực tuyến là gì?
+A3: Là tài khoản thanh toán mở bằng phương tiện điện tử, áp dụng định danh trực tuyến (eKYC); khách hàng không cần đến điểm giao dịch.
+
+Q4: Ai là Chủ tài khoản/Khách hàng?
+A4: Cá nhân đáp ứng điều kiện đăng ký và đứng tên mở TKTT trực tuyến tại HDBank.
+
+Q5: 'Điều khoản và Điều kiện' được hiểu như thế nào?
+A5: Là bộ điều khoản mở, sử dụng TKTT trực tuyến và nội dung được HDBank cập nhật, bổ sung theo từng thời kỳ, công bố công khai hoặc thông báo cho khách hàng.
+
+Q6: 'Thỏa thuận' mở, sử dụng TKTT trực tuyến bao gồm những gì?
+A6: Gồm Điều khoản và Điều kiện cùng Giấy đề nghị kiêm hợp đồng mở, sử dụng TKTT trực tuyến/ sản phẩm dịch vụ tương đương, được xác nhận phù hợp pháp luật giao dịch điện tử.
+
+Q7: Ngày làm việc là gì?
+A7: Từ thứ Hai đến thứ Sáu, không bao gồm ngày nghỉ/lễ theo quy định của HDBank.
+
+Q8: Mobile Banking là gì?
+A8: Ứng dụng của HDBank trên thiết bị di động/tablet có internet để truy vấn và giao dịch điện tử.
+
+Q9: Internet Banking là gì?
+A9: Dịch vụ ngân hàng điện tử qua máy tính hoặc thiết bị có internet để truy vấn và giao dịch.
+
+Q10: Kênh ngân hàng trực tuyến gồm những kênh nào?
+A10: Internet Banking, Mobile Banking, ATM/POS/Kiosk và phương thức điện tử khác theo quy định từng thời kỳ.
+
+Q11: eKYC là gì?
+A11: Phương thức định danh khách hàng bằng điện tử (không gặp mặt), HDBank sử dụng công nghệ thu thập, kiểm tra và đối chiếu dữ liệu nhận biết và sinh trắc học.
+
+Q12: Dữ liệu sinh trắc học là gì?
+A12: Các đặc điểm sinh học khó làm giả như vân tay, khuôn mặt, mống mắt, giọng nói…
+
+Q13: Phạm vi điều chỉnh của Điều khoản này là gì?
+A13: Điều chỉnh quan hệ giữa KH và HDBank khi KH mở, sử dụng tài khoản/dịch vụ qua Mobile Banking.
+
+Q14: Các văn kiện cấu thành thỏa thuận mở TKTT trực tuyến gồm gì?
+A14: Điều khoản và Điều kiện + Đề nghị kiêm Hợp đồng, sau khi KH xác nhận đồng ý.
+
+Q15: HDBank có quyền sửa đổi Điều khoản và Điều kiện không?
+A15: Có. HDBank có quyền đơn phương sửa đổi, bổ sung phù hợp pháp luật và niêm yết công khai; KH tiếp tục sử dụng được hiểu là chấp thuận.
+
+Q16: Điều kiện mở TKTT trực tuyến (độ tuổi, cư trú, năng lực) là gì?
+A16: Cá nhân từ đủ 18 tuổi, cư trú tại Việt Nam, có năng lực hành vi dân sự đầy đủ.
+
+Q17: Khách hàng có thuộc FATCA được mở TKTT trực tuyến không?
+A17: Không. KH không được thuộc đối tượng FATCA.
+
+Q18: Những đối tượng không được mở TKTT trực tuyến theo chính sách PEP là ai?
+A18: Cá nhân có ảnh hưởng chính trị và người thân/đồng sở hữu/chủ sở hữu hưởng lợi liên quan đến PEP.
+
+Q19: Quy định về phòng chống rửa tiền áp dụng thế nào?
+A19: KH không thuộc đối tượng bị cấm/hạn chế theo quy định Phòng chống rửa tiền.
+
+Q20: Ai là chủ sở hữu hưởng lợi TK?
+A20: KH phải là chủ sở hữu hưởng lợi cuối cùng và duy nhất của TK được mở.
+
+Q21: Đồng ý xử lý dữ liệu cá nhân có bắt buộc không?
+A21: Bắt buộc. KH cần xác nhận đồng ý để HDBank xử lý dữ liệu trước khi cung cấp thông tin.
+
+Q22: KH phải xác nhận cảnh báo hành vi cấm khi mở TK không?
+A22: Có. KH xác nhận đã đọc, hiểu các cảnh báo về hành vi cấm tại Điều 9.
+
+Q23: TKTT trực tuyến dùng để làm gì?
+A23: Nộp/rút tiền, yêu cầu HDBank cung ứng dịch vụ thanh toán trong hạn mức HDBank quy định.
+
+Q24: Hạn mức giao dịch ghi nợ cho TK mở trước 01/10/2024 là bao nhiêu?
+A24: Tối đa 100.000.000 đồng/tháng nếu chưa video call/định danh tại quầy/chưa thu thập & đối chiếu sinh trắc học theo quy định HDBank.
+
+Q25: Những giao dịch nào không áp dụng hạn mức 100 triệu/tháng nói trên?
+A25: (i) Chuyển tiền để gửi tiết kiệm/ký hạn điện tử cho chính chủ tại HDBank; (ii) Ghi nợ chủ động của HDBank khi pháp luật cho phép.
+
+Q26: Khi nào HDBank được dừng giao dịch hoặc không cho phép ghi nợ TKTT trực tuyến?
+A26: Khi KH chưa xác thực sinh trắc học khớp đúng theo CCCD chip/tài khoản định danh điện tử hoặc dữ liệu sinh trắc đã thu thập theo quy định.
+
+Q27: Hạn mức ghi nợ TKTT trực tuyến mở từ 01/10/2024?
+A27: Theo hạn mức của kênh giao dịch và/hoặc sản phẩm/dịch vụ HDBank quy định từng thời kỳ.
+
+Q28: Có thể nâng hạn mức giao dịch eBanking không?
+A28: Có. KH đăng ký nâng hạn mức theo hướng dẫn trên Mobile Banking hoặc tại điểm giao dịch.
+
+Q29: TKTT trực tuyến có hạn mức ghi có không?
+A29: Không giới hạn đối với ghi có vào tài khoản.
+
+Q30: Số dư tối thiểu là gì và thông báo ra sao?
+A30: Số tiền tối thiểu phải duy trì mọi thời điểm. HDBank có quyền điều chỉnh và thông báo qua quầy, website, hoặc kênh liên lạc đã đăng ký.
+
+Q31: Phí giao dịch tài khoản áp dụng thế nào?
+A31: Theo biểu phí HDBank ban hành từng thời kỳ; phí có thể được trích thu hàng tháng (phí quản lý nếu có). Nếu TK thiếu số dư, sẽ truy thu khi có tiền.
+
+Q32: HDBank cung cấp thông tin TK cho KH bằng cách nào?
+A32: Qua các kênh liên lạc KH đã đăng ký (email, địa chỉ, số điện thoại) về số TK, tên TK, hạn mức, ngày hoạt động, số dư, giao dịch, phong tỏa, hết hạn GTTT…
+
+Q33: KH thay đổi thông tin nhận thông báo cần làm gì?
+A33: Phải đăng ký cập nhật lại với HDBank.
+
+Q34: HDBank xử lý số dư khi TK có dấu hiệu gian lận, giả mạo, lừa đảo như thế nào?
+A34: HDBank có quyền tạm dừng, phong tỏa và chuyển/hoàn trả cho tổ chức/cá nhân chuyển tiền đến; KH đồng ý vô điều kiện và HDBank được miễn trừ trách nhiệm khi xử lý theo thỏa thuận.
+
+Q35: Thời hạn khiếu nại/tra soát giao dịch là bao lâu?
+A35: Tối đa 70 ngày kể từ ngày phát sinh giao dịch.
+
+Q36: Kênh tiếp nhận tra soát, khiếu nại?
+A36: Tại ĐVKD hoặc hotline 1900 6060; sau đó hoàn thiện văn bản đề nghị theo hướng dẫn.
+
+Q37: Thời hạn xử lý tra soát?
+A37: Tối đa 30 ngày làm việc từ ngày tiếp nhận đề nghị.
+
+Q38: Nếu hết thời hạn trên chưa xác định nguyên nhân thì sao?
+A38: Trong 15 ngày làm việc tiếp theo, HDBank thông báo phương án xử lý để cùng thống nhất.
+
+Q39: Vụ việc có dấu hiệu tội phạm xử lý thế nào?
+A39: HDBank thông báo cơ quan chức năng, báo cáo NHNN, đồng thời thông báo tình trạng cho KH. Kết quả thuộc thẩm quyền cơ quan Nhà nước. Nếu kết luận không có yếu tố tội phạm, HDBank sẽ thỏa thuận xử lý với KH trong 15 ngày làm việc kể từ ngày có kết luận.
+
+Q40: Nếu các bên không thống nhất phương án tra soát?
+A40: Giải quyết tranh chấp theo pháp luật Việt Nam.
+
+Q41: Khi nào HDBank có thể từ chối/tạm dừng giao dịch TKTT trực tuyến?
+A41: Theo Điều 5.1 và các trường hợp tại Điều 11(e.g., nghi ngờ rửa tiền/khủng bố, giấy tờ sai lệch, trong danh sách đen, yêu cầu của cơ quan có thẩm quyền…).
+
+Q42: Khi nào HDBank phải xác minh lại thông tin KH?
+A42: Khi có dấu hiệu rửa tiền, hồ sơ nghi ngờ hợp pháp/hợp lệ, KH trong danh sách đen/nghi ngờ gian lận, dữ liệu cơ quan có thẩm quyền sai lệch, hoặc theo quy định khác.
+
+Q43: Những trường hợp phong tỏa tài khoản phổ biến?
+A43: Theo yêu cầu của chủ TK/thỏa thuận; yêu cầu cơ quan có thẩm quyền; ghi có nhầm/sai sót; nghi ngờ liên quan danh sách đen/khủng bố; KH không bổ sung thông tin PCLR; phát hiện sai lệch/bất thường; nghi ngờ gian lận; không cập nhật GTTT hết hạn; …
+
+Q44: Thông báo phong tỏa được thực hiện thế nào?
+A44: HDBank thông báo bằng văn bản hoặc theo hình thức đã thỏa thuận, trừ trường hợp văn bản cơ quan có thẩm quyền yêu cầu bảo mật; phần không phong tỏa vẫn dùng bình thường.
+
+Q45: Khi nào chấm dứt phong tỏa?
+A45: Theo yêu cầu hợp lệ của chủ TK; hết thời hạn; yêu cầu cơ quan có thẩm quyền; xử lý xong sai sót; không còn rủi ro/ dấu hiệu bất thường; không còn nghi ngờ liên quan danh sách đen; KH đã cập nhật GTTT; các trường hợp khác theo quy định.
+
+Q46: Khi nào HDBank có thể đóng tài khoản?
+A46: Khi có yêu cầu và chủ TK đã hoàn tất nghĩa vụ; chủ TK chết/bị tuyên bố chết/mất tích; mất năng lực hành vi (theo yêu cầu người đại diện); nặc danh/mạo danh/mua bán/thuê/mượn TK; dùng TK để đánh bạc, gian lận, vi phạm pháp luật; vi phạm thỏa thuận/pháp luật/FATCA; số dư dưới tối thiểu và không hoạt động 12 tháng; TK liên quan gian lận/lừa đảo và KH không phản hồi; không bổ sung thông tin sau 30 ngày phong tỏa; dùng giấy tờ giả; các trường hợp khác theo quy định.
+
+Q47: Thông báo sau khi đóng tài khoản ra sao?
+A47: HDBank thông báo cho chủ TK/người đại diện/người giám hộ/người thừa kế hợp pháp.
+
+Q48: Xử lý số dư sau khi đóng tài khoản?
+A48: (i) Chi trả theo yêu cầu/thỏa thuận; (ii) Theo quyết định tòa án; (iii) Ghi thu nhập ĐVKD nếu đóng do số dư dưới tối thiểu & không hoạt động 12 tháng; (iv) Kết chuyển tài khoản treo, không trả lãi nếu đóng do vi phạm/thanh tra yêu cầu nhưng không nêu rõ xử lý tiền, hoặc người thụ hưởng không đến nhận sau khi đã thông báo.
+
+Q49: Muốn sử dụng lại TK đã đóng thì sao?
+A49: Chỉ áp dụng các TK đã đóng theo yêu cầu hoặc do số dư dưới tối thiểu và không hoạt động 12 tháng; KH phải làm lại hồ sơ, thủ tục mở TK theo quy định.
+
+Q50: Ủy quyền trong sử dụng TKTT trực tuyến được quy định thế nào?
+A50: KH được ủy quyền sau khi hoàn thiện nhận biết, xác minh tại điểm giao dịch hoặc ủy quyền cho HDBank thực hiện nghiệp vụ quản lý TK, thanh toán sản phẩm/dịch vụ theo quy định.
+
+Q51: Những hành vi KH bị cấm khi mở/sử dụng TKTT trực tuyến?
+A51: Cung cấp thông tin gian lận/không chính xác; giả mạo GTTT/eKYC; cho thuê/cho mượn TK; nặc danh/mạo danh/mua bán/thuê cho thuê/mượn TK; trộm cắp/mua bán thông tin TK; sử dụng tiền bất hợp pháp; rửa tiền/tài trợ khủng bố/lừa đảo; dùng TK để đánh bạc/gian lận/kinh doanh trái luật; tiết lộ trái phép thông tin số TK/số dư; xâm nhập/đánh cắp dữ liệu/lợi dụng lỗi hệ thống; khai báo sai về việc có TK tại TCTD khác…
+
+Q52: Quyền của Chủ tài khoản là gì?
+A52: Sử dụng tiền qua lệnh hợp lệ; lựa chọn dịch vụ thanh toán; yêu cầu thực hiện lệnh trong phạm vi số dư/hạn mức; yêu cầu phong tỏa/đóng TK sau khi hoàn tất KYC tại quầy; hưởng lãi theo quy định; ủy quyền theo luật; yêu cầu hướng dẫn & xử lý khiếu nại; các quyền khác theo thỏa thuận & pháp luật.
+
+Q53: Nghĩa vụ của Chủ tài khoản?
+A53: Sử dụng TK đúng mục đích; tuân thủ Điều khoản; cung cấp thông tin trung thực & khớp đúng (kể cả sinh trắc học); chủ động cập nhật Điều khoản; đảm bảo đủ số dư; chấp hành quy định; thông báo sai sót; hoàn trả khoản ghi có nhầm; cung cấp, cập nhật thông tin hồ sơ; duy trì số dư tối thiểu; chịu trách nhiệm thiệt hại do lỗi của mình; tuân thủ PCLR/chống khủng bố; đồng ý cung cấp thông tin cho bên thứ ba theo chính sách; cập nhật định danh trong 12 tháng; đồng ý để HDBank xử lý số dư khi có dấu hiệu gian lận; không thực hiện hành vi cấm.
+
+Q54: Quyền của HDBank?
+A54: Chỉ định nhà cung cấp dịch vụ để nhận biết/xác minh KH; phong tỏa/đóng TK, yêu cầu KH cung cấp định danh trực tiếp khi nghi ngờ danh sách đen/giấy tờ hết hạn/quá 12 tháng chưa cập nhật/PEP-Hoa Kỳ…; chủ động trích nợ để thu nợ/chi phí/điều chỉnh sai sót/chi trả định kỳ; từ chối lệnh khi không hợp lệ, thiếu số dư, vượt hạn mức, rủi ro/gian lận, theo yêu cầu cơ quan chức năng; quy định số dư tối thiểu/hạn mức; áp dụng biện pháp an toàn; cung cấp thông tin theo luật/thỏa thuận; các quyền khác theo pháp luật.
+
+Q55: Nghĩa vụ của HDBank?
+A55: Hướng dẫn, thông báo quy trình; thực hiện lệnh hợp lệ; lưu giữ mẫu chữ ký (nếu có) & thông tin định danh; ghi có kịp thời/hoàn trả sai sót; cung cấp thông tin số dư/giao dịch/phong tỏa; cập nhật thông tin KH; bảo mật dữ liệu; chịu trách nhiệm thiệt hại do lỗi của HDBank; tuân thủ PCLR; hướng dẫn sử dụng an toàn; giải đáp khiếu nại; các nghĩa vụ khác theo luật.
+
+Q56: Quy định về bảo vệ, xử lý dữ liệu cá nhân (Điều 12)?
+A56: HDBank bảo vệ dữ liệu theo chính sách và pháp luật; xử lý dữ liệu để mở TK, cung cấp dịch vụ và/hoặc mục đích khác theo Thông báo xử lý dữ liệu/điều khoản dữ liệu; có thể cung cấp thông tin cho bên thứ ba để triển khai dịch vụ, xử lý gian lận, theo luật hoặc yêu cầu cơ quan có thẩm quyền.
+
+Q57: Trường hợp miễn trừ trách nhiệm của HDBank (Điều 13)?
+A57: (1) Do KH: không nhận/tiếp cận thông báo, không cập nhật Điều khoản/đổi thông tin không báo; không bảo mật thiết bị/thông tin; thay đổi số nhận OTP không báo; bị giả mạo thiết bị; không đủ số dư; nhầm lẫn do ngôn ngữ… (2) Do HDBank: từ chối giao dịch rủi ro; nâng cấp/bảo trì gây gián đoạn có thông báo; sự cố ngoài kiểm soát hợp lý; đã thực hiện đúng lệnh hợp lệ của KH. (3) Bất khả kháng: chiến tranh, thiên tai, dịch bệnh, đình công, thay đổi pháp luật… (4) Các trường hợp miễn trừ khác theo luật/thỏa thuận.
+
+Q58: Hiệu lực và điều khoản thi hành (Điều 14)?
+A58: Có hiệu lực khi KH xác nhận đồng ý Thỏa thuận/ĐKĐK eBanking; nếu HDBank sửa đổi thì tự động cập nhật nội dung đã xác nhận; KH xác nhận đã đọc, hiểu, chấp nhận ràng buộc; tranh chấp ưu tiên thương lượng/hòa giải, không thành thì đưa Tòa án có thẩm quyền VN giải quyết.

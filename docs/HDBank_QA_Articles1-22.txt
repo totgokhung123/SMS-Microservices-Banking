@@ -1,0 +1,117 @@
+HDBANK DEBIT CARD TERMS — Q&A (Articles 1–22)
+(Bản Hỏi & Đáp Điều khoản Thẻ ghi nợ HDBank — Song ngữ Việt/Anh)
+
+───────────────────────────────────────────────
+
+Q1 (VN): Điều 1 định nghĩa những thuật ngữ nào?
+A1 (VN): Điều 1 định nghĩa các thuật ngữ chính như HDBank, Thẻ ghi nợ, Chủ thẻ, Tài khoản thanh toán, eKYC, OTP, PIN, giao dịch đáng ngờ, giao dịch gian lận, hạn mức, phí dịch vụ...
+Q1 (EN): What does Article 1 define?
+A1 (EN): Defines key terms like HDBank, Debit Card, Cardholder, Current Account, eKYC, OTP, PIN, suspicious transactions, fraudulent transactions, limits, fees, etc.
+
+Q2 (VN): Đồng tiền sử dụng trong giao dịch thẻ là gì?
+A2 (VN): Trong nước: VNĐ (có thể kèm ngoại tệ khi pháp luật cho phép). Ngoài nước: thanh toán bằng VNĐ theo tỷ giá quy định.
+Q2 (EN): What currency applies?
+A2 (EN): Domestic: VND (with FX only when permitted). Abroad: settlement in VND per applicable FX rate.
+
+Q3 (VN): Hạn mức giao dịch thẻ được quy định thế nào?
+A3 (VN): Theo quy định HDBank từng thời kỳ; nếu chỉ eKYC cơ bản thì tối đa 100 triệu VNĐ/tháng và không được giao dịch quốc tế.
+Q3 (EN): What are transaction limits?
+A3 (EN): As per HDBank policy; basic eKYC limited to 100 million VND/month, no international transactions allowed.
+
+Q4 (VN): Thẻ phi vật lý Vikki được phát hành ra sao?
+A4 (VN): Được phát hành dạng điện tử, tự động kích hoạt qua ứng dụng Vikki, không có bản vật lý.
+Q4 (EN): How is the Vikki virtual card issued?
+A4 (EN): Issued electronically, auto-activated via Vikki app, no physical version.
+
+Q5 (VN): Phạm vi sử dụng và thời hạn thẻ?
+A5 (VN): Thanh toán trực tuyến hàng hóa/dịch vụ, thời hạn theo quy định HDBank.
+Q5 (EN): Usage scope & validity?
+A5 (EN): Online payments for goods/services; validity as defined by HDBank.
+
+Q6 (VN): Đồng tiền giao dịch và phí dịch vụ?
+A6 (VN): Đồng tiền chính là VNĐ, phí theo biểu phí công bố, HDBank có quyền ghi nợ tài khoản.
+Q6 (EN): Transaction currency & fees?
+A6 (EN): Main currency is VND, fees per published fee schedule, auto-debited by HDBank.
+
+Q7 (VN): Khi nào thẻ bị từ chối thanh toán?
+A7 (VN): Khi thẻ hết hạn, khóa, vượt hạn mức, số dư không đủ, nghi ngờ gian lận, rửa tiền...
+Q7 (EN): When is a card declined?
+A7 (EN): If expired, locked, over limit, insufficient funds, suspicious/fraudulent use, etc.
+
+Q8 (VN): Tra soát, khiếu nại tranh chấp thế nào?
+A8 (VN): Chủ thẻ khiếu nại trong 60 ngày, HDBank xử lý tối đa 180 ngày, hoàn trả nếu không do lỗi chủ thẻ.
+Q8 (EN): How are disputes handled?
+A8 (EN): File within 60 days, HDBank resolves within 180 days, refunds if not cardholder’s fault.
+
+Q9 (VN): Chủ thẻ có trách nhiệm gì với thẻ, PIN, OTP?
+A9 (VN): Giữ bí mật, thông báo khi mất/lộ, chịu trách nhiệm mọi giao dịch trước khi báo khóa.
+Q9 (EN): Cardholder’s responsibilities for card, PIN, OTP?
+A9 (EN): Keep secure, notify loss/compromise, liable for all transactions before reporting lock.
+
+Q10 (VN): Hoàn trả tiền khi thẻ chấm dứt?
+A10 (VN): Số dư TKTT được hoàn trả theo quy định về mở và sử dụng TKTT.
+Q10 (EN): Refund upon card termination?
+A10 (EN): Balance refunded per Current Account rules.
+
+Q11 (VN): Thay thế, gia hạn, chấm dứt thẻ?
+A11 (VN): Có thể thay/gia hạn, HDBank có quyền khóa/chấm dứt nếu vi phạm hoặc theo yêu cầu cơ quan.
+Q11 (EN): Replacement, renewal, termination?
+A11 (EN): Replacement/renewal possible; HDBank may terminate if breach or authority request.
+
+Q12 (VN): Quyền của chủ thẻ?
+A12 (VN): Sử dụng thẻ, hưởng ưu đãi, khiếu nại, yêu cầu gia hạn, nhận thông tin, đóng thẻ...
+Q12 (EN): Cardholder rights?
+A12 (EN): Use card, enjoy benefits, dispute, request renewal, access info, terminate, etc.
+
+Q13 (VN): Nghĩa vụ của chủ thẻ?
+A13 (VN): Tuân thủ quy định, bảo mật, thanh toán đầy đủ, không cho mượn/chuyển nhượng thẻ.
+Q13 (EN): Cardholder duties?
+A13 (EN): Comply with rules, secure data, pay obligations, not lend/transfer card.
+
+Q14 (VN): Quyền của HDBank?
+A14 (VN): Ghi nợ phí, từ chối giao dịch nghi ngờ, khóa thẻ, cung cấp thông tin theo luật.
+Q14 (EN): HDBank’s rights?
+A14 (EN): Debit fees, decline suspicious transactions, lock cards, share data per law.
+
+Q15 (VN): Hành vi nào bị cấm?
+A15 (VN): Gian lận, giả mạo, rửa tiền, cho thuê/mua bán thẻ, tiết lộ thông tin trái phép.
+Q15 (EN): Prohibited actions?
+A15 (EN): Fraud, forgery, laundering, trading/lending cards, unauthorized disclosure.
+
+Q16 (VN): Trường hợp bất khả kháng?
+A16 (VN): Thiên tai, sự cố kỹ thuật, chiến tranh, dịch bệnh… HDBank không chịu trách nhiệm.
+Q16 (EN): Force majeure?
+A16 (EN): Natural disasters, technical failures, war, epidemics… HDBank not liable.
+
+Q17 (VN): Sửa đổi, bổ sung, thông báo?
+A17 (VN): HDBank công bố trên website/điểm giao dịch, khách hàng tiếp tục dùng nghĩa là chấp thuận.
+Q17 (EN): Amendments & notifications?
+A17 (EN): Published at branches/website; continued use means acceptance.
+
+Q18 (VN): Ngôn ngữ áp dụng?
+A18 (VN): Tiếng Việt là chính, bản ngoại ngữ chỉ tham khảo, khi mâu thuẫn thì tiếng Việt ưu tiên.
+Q18 (EN): Governing language?
+A18 (EN): Vietnamese prevails; foreign versions for reference only.
+
+Q19 (VN): Hành vi bị cấm trong phát hành và sử dụng?
+A19 (VN): Làm thẻ giả, giao dịch gian lận, giả mạo giấy tờ, tiết lộ thông tin trái phép...
+Q19 (EN): Prohibited acts in issuance/use?
+A19 (EN): Counterfeiting, fraudulent use, forged IDs, unauthorized disclosure, etc.
+
+Q20 (VN): Quy định bảo vệ dữ liệu cá nhân?
+A20 (VN): HDBank bảo vệ và xử lý dữ liệu theo chính sách và pháp luật, có thể chia sẻ bên thứ ba khi cần.
+Q20 (EN): Personal data rules?
+A20 (EN): HDBank protects & processes per policy/law, may share with third parties if needed.
+
+Q21 (VN): Luật áp dụng và giải quyết tranh chấp?
+A21 (VN): Theo luật Việt Nam; ưu tiên hòa giải, nếu không được thì ra Tòa án có thẩm quyền.
+Q21 (EN): Governing law & dispute resolution?
+A21 (EN): Governed by Vietnamese law; mediation first, then competent Court.
+
+Q22 (VN): Hiệu lực và cam kết?
+A22 (VN): Chủ thẻ cam kết tuân thủ, Điều khoản có hiệu lực từ khi ký/xác nhận Giấy đề nghị.
+Q22 (EN): Effective date & commitments?
+A22 (EN): Terms bind cardholder from date of signing/confirmation of Application Form.
+
+───────────────────────────────────────────────
+End of Q&A

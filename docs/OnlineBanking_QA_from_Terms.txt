@@ -1,0 +1,72 @@
+Q1: Ai được phép đăng ký và sử dụng Tài khoản Online Banking?
+A1: Khách hàng (KH) phải tự đăng ký và không được ủy quyền/cho phép người khác sử dụng Tài khoản Online Banking dưới bất kỳ hình thức nào.
+
+Q2: TKTT chung đăng ký Online Banking như thế nào?
+A2: Các đồng chủ sở hữu phải thỏa thuận ủy quyền một người đại diện thực hiện đăng ký; sau khi đăng ký chỉ người được ủy quyền mới được sử dụng Tài khoản Online Banking.
+
+Q3: Điều kiện về số điện thoại khi đăng ký là gì?
+A3: Tại thời điểm đăng ký, số điện thoại phải đang hoạt động, là số KH đã đăng ký dịch vụ tại HDBank và chưa từng đăng ký cho bất kỳ KH nào khác trong hệ thống HDBank.
+
+Q4: Sau khi hoàn tất đăng ký, tôi có thể làm gì trên Online Banking?
+A4: Có thể truy cập dịch vụ, nhận thông báo OTT, xem hướng dẫn đăng ký và hướng dẫn sử dụng Dịch vụ Online Banking.
+
+Q5: Có những hình thức đăng ký Online Banking nào?
+A5: Bốn hình thức chính: (i) đăng ký tại Điểm giao dịch HDBank; (ii) đăng ký ngoài Điểm giao dịch (nhân viên HDBank gặp trực tiếp, thực hiện KYC, thu hồ sơ); (iii) đăng ký trực tuyến khi mở TKTT (eKYC); (iv) các hình thức khác theo quy định từng thời kỳ.
+
+Q6: Muốn sử dụng sản phẩm/dịch vụ điện tử, tôi cần gì?
+A6: KH cần có Tài khoản thanh toán (TKTT) được liên kết với Tài khoản Online Banking.
+
+Q7: Số điện thoại nhận mã xác thực có yêu cầu gì?
+A7: KH phải đăng ký hình thức xác nhận để nhận mã xác thực; số điện thoại nhận mã xác thực cũng là số đăng ký dịch vụ SMS Banking.
+
+Q8: Yêu cầu số dư khi giao dịch thế nào?
+A8: TKTT dùng để ghi nợ phải có đủ số dư để thanh toán số tiền giao dịch, phí, thuế (nếu có) và phải đảm bảo duy trì số dư tối thiểu theo quy định.
+
+Q9: Thời gian hoạt động của Dịch vụ Online Banking ra sao?
+A9: Dịch vụ hoạt động 24/7; mỗi lần gián đoạn không quá 04 giờ, tổng thời gian gián đoạn trong một năm không quá 12 giờ (không tính bất khả kháng/bảo trì/nâng cấp).
+
+Q10: HDBank thông báo bảo trì, nâng cấp ở đâu?
+A10: Thời gian bảo trì, nâng cấp được thông báo chính thức trên website www.hdbank.com.vn.
+
+Q11: Khi phát sinh lỗi/sự cố, tôi liên hệ qua kênh nào?
+A11: Liên hệ Điểm giao dịch HDBank; đường dây nóng 1900 6060/1900 6608 (áp dụng cho Ứng dụng Vikki); website www.hdbank.com.vn (Ứng dụng HDBank Mobile Banking) hoặc https://vikki.vn (Ứng dụng Vikki), cùng các kênh khác do HDBank quy định.
+
+Q12: Hạn mức giao dịch gồm những loại nào?
+A12: Gồm: Hạn mức giao dịch/lần; Hạn mức giao dịch/ngày; Hạn mức số lần giao dịch/ngày; Hạn mức ghi nợ/tháng (tổng số tiền tối đa KH được rút/thanh toán/chuyển khoản trong tháng, bao gồm phí).
+
+Q13: Tôi xem hạn mức giao dịch ở đâu?
+A13: HDBank công bố theo từng thời kỳ tại Chi nhánh/Phòng giao dịch và trên website www.hdbank.com.vn.
+
+Q14: Phí Dịch vụ Online Banking được áp dụng thế nào?
+A14: Phí được HDBank công bố theo từng thời kỳ tại CN/PGD và website; có thể thu trước, sau hoặc ngay khi phát sinh giao dịch; khi thay đổi loại/mức phí, HDBank sẽ thông báo trên website hoặc hình thức phù hợp khác.
+
+Q15: Khách hàng có những quyền gì khi sử dụng Online Banking?
+A15: Quyền sử dụng dịch vụ theo thỏa thuận; thay đổi yêu cầu sử dụng/thông tin theo quy định tại Điểm giao dịch; gửi tra soát về giao dịch; gửi khiếu nại qua 1900 6060, Điểm giao dịch hoặc Hộp thư trên website; chấm dứt dịch vụ bằng văn bản theo mẫu và được chấp thuận; cùng các quyền khác theo quy định của HDBank và pháp luật.
+
+Q16: Khách hàng có nghĩa vụ gì về bảo mật và sử dụng dịch vụ?
+A16: Sử dụng đúng quy định/hướng dẫn; tuân thủ đổi mã khóa bí mật/PIN; thông báo kịp thời khi thay đổi số điện thoại/email; đồng ý nhận thông báo/tin nhắn/liên kết từ HDBank; bảo vệ bí mật mã khóa, PIN, OTP; không dùng máy/mạng công cộng; đăng xuất sau khi dùng; cài phần mềm bảo vệ; không sử dụng thiết bị đã phá khóa; tuân thủ cảnh báo rủi ro; thông báo ngay khi nghi ngờ gian lận; và các nghĩa vụ khác theo quy định.
+
+Q17: HDBank có quyền trích tiền/thu phí như thế nào?
+A17: KH đồng ý để HDBank trích tiền từ tài khoản để thanh toán phí giao dịch, phí xử lý tra soát/khiếu nại, các khoản thừa/nhầm, hoặc nghĩa vụ phải thanh toán theo quyết định của cơ quan tài phán; HDBank có thể phong tỏa/ghi nợ TKTT để thu phí theo quy định.
+
+Q18: Khách hàng chịu trách nhiệm ra sao với các giao dịch?
+A18: KH chấp nhận và chịu trách nhiệm với các giao dịch thực hiện qua Tài khoản Online Banking và hình thức xác thực đã đăng ký, kể cả khi tạm ngưng/chấm dứt sử dụng dịch vụ, trừ trường hợp thỏa điều kiện xem xét tại Điều 10.1 và được HDBank chấp thuận.
+
+Q19: Thời gian xử lý giao dịch như thế nào?
+A19: Giao dịch nội bộ (tài khoản trong HDBank) và thanh toán hóa đơn: xử lý ngay khi hệ thống nhận thông tin; chuyển khoản ngoài hệ thống: chuyển vào hệ thống thanh toán để đến ngân hàng thụ hưởng sớm nhất, tối đa không quá 02 ngày làm việc (không tính ngày nghỉ) kể từ thời điểm phát sinh giao dịch.
+
+Q20: Giao dịch trên Online Banking có hủy được không?
+A20: Về nguyên tắc là không hủy. HDBank chỉ xem xét hủy nếu: (a) KH gửi yêu cầu ngay sau khi thực hiện; (b) HDBank chưa ghi nhận/xử lý trên hệ thống; (c) Việc hủy không ảnh hưởng lợi ích của HDBank và bên thứ ba, và phải được HDBank chấp thuận.
+
+Q21: HDBank bảo vệ và xử lý dữ liệu cá nhân như thế nào?
+A21: HDBank áp dụng biện pháp bảo vệ dữ liệu cá nhân theo chính sách/quy định và pháp luật; xử lý dữ liệu nhằm cấp Tài khoản Online Banking, cung cấp sản phẩm/dịch vụ và các mục đích theo thông báo chính sách; có thể cung cấp thông tin cho bên thứ ba để triển khai dịch vụ, xử lý gian lận, hoặc theo yêu cầu cơ quan có thẩm quyền.
+
+Q22: Trường hợp bất khả kháng được hiểu và xử lý ra sao?
+A22: Bất khả kháng là sự kiện khách quan, không lường trước và không khắc phục được (thiên tai, chiến tranh, khủng bố, sự cố điện/viễn thông, thay đổi chính sách pháp luật, v.v.). Khi xảy ra, HDBank có thể tạm ngưng dịch vụ và thông báo theo kênh quy định; HDBank không chịu trách nhiệm bồi thường và bất khả kháng không miễn trừ trách nhiệm của KH.
+
+Q23: Chứng từ và bằng chứng giao dịch được xác lập thế nào?
+A23: Tài liệu, chứng từ và số liệu do HDBank ghi nhận, lưu giữ là bằng chứng hợp pháp về giao dịch giữa KH và HDBank; nếu phát sinh giao dịch thu phí và KH cần hóa đơn, KH đến Điểm giao dịch nơi mở TKTT để yêu cầu xuất hóa đơn.
+
+Q24: Điều khoản có hiệu lực và thay đổi như thế nào?
+A24: Điều khoản có hiệu lực từ khi KH đăng ký sử dụng đến khi chấm dứt dịch vụ; HDBank có quyền điều chỉnh/sửa đổi/bổ sung theo pháp luật và sẽ thông báo/cập nhật cho KH; khi KH xác nhận đăng ký, các sửa đổi bổ sung sau này đương nhiên áp dụng; tranh chấp (nếu có) được giải quyết theo Thỏa Thuận Mở, Sử Dụng TKTT/Sản phẩm – Dịch vụ.
+

@@ -1,0 +1,96 @@
+Q1: Thẻ tín dụng Muadee by HDBank là gì?
+A1: Là thẻ tín dụng phi vật lý phát hành trên Ứng dụng Muadee by HDBank; cho phép chia nhỏ số tiền thanh toán tối đa 4 lần và chi trả trong 90–120 ngày, không áp dụng lãi suất (các thông số có thể được HDBank điều chỉnh theo từng thời kỳ).
+
+Q2: Ứng dụng Muadee by HDBank dùng để làm gì?
+A2: Là ứng dụng di động cho phép khách hàng đăng ký phát hành thẻ tín dụng phi vật lý Muadee và sử dụng để thực hiện giao dịch mua hàng hóa, dịch vụ ngay trên ứng dụng.
+
+Q3: Thẻ phi vật lý là gì?
+A3: Là thẻ không hiện hữu dưới dạng vật chất nhưng vẫn chứa đầy đủ thông tin thẻ để giao dịch qua Internet/ứng dụng di động. Theo yêu cầu, tổ chức phát hành có thể in thành thẻ vật lý.
+
+Q4: Hợp đồng phát hành và sử dụng Thẻ gồm những gì?
+A4: Gồm ‘Các Điều Khoản Và Điều Kiện’ kèm ‘Giấy Đề Nghị’. Khi chủ thẻ xác nhận đồng ý/sử dụng tức là chấp nhận bị ràng buộc bởi hợp đồng.
+
+Q5: Tôi có thể thanh toán bằng QR với thẻ Muadee không?
+A5: Có. Dịch vụ HDBank QR Code cho phép thanh toán tại ĐVCNT qua mã QR sau khi kích hoạt thẻ.
+
+Q6: Ngày sao kê và ngày đến hạn thanh toán là khi nào?
+A6: Ngày sao kê: ngày 26 hằng tháng. Ngày đến hạn: ngày thứ 4 kể từ ngày sao kê (trước 16:50).
+
+Q7: Đồng tiền giao dịch và thanh toán là gì?
+A7: Trong lãnh thổ Việt Nam: đồng tiền giao dịch và thanh toán là VND (trừ trường hợp pháp luật cho phép dùng ngoại hối). Ngoài lãnh thổ Việt Nam: thanh toán cho HDBank bằng VND theo tỷ giá do HDBank/TCTQT quy định.
+
+Q8: Tỷ giá quy đổi áp dụng khi nào?
+A8: Áp dụng cho mọi giao dịch thẻ quy đổi từ ngoại tệ sang VND tại thời điểm giao dịch được ghi nợ/có vào tài khoản thẻ, do HDBank hoặc TCTQT quy định.
+
+Q9: Mất OTP/thông tin thẻ thì tôi phải làm gì?
+A9: Gọi ngay 1900 6060 để báo và đến Chi nhánh/PGD gần nhất xác nhận bằng văn bản; cung cấp các thông tin giao dịch cuối cùng, thông tin liên quan theo yêu cầu HDBank.
+
+Q10: Ai chịu trách nhiệm khi thẻ/OTP bị lộ trước khi HDBank khóa thẻ?
+A10: Chủ thẻ chịu trách nhiệm về mọi giao dịch, thiệt hại phát sinh trước thời điểm HDBank xác nhận xử lý khóa/thông báo mất và trong trường hợp chủ thẻ bất cẩn/gian lận.
+
+Q11: HDBank có thể chấm dứt hiệu lực thẻ khi nào?
+A11: Bất kỳ lúc nào theo yêu cầu cơ quan có thẩm quyền, yêu cầu chuyên môn kỹ thuật, khi có rủi ro/gian lận/vi phạm quy định… Hết hiệu lực cần làm thủ tục phát hành thẻ mới nếu muốn dùng lại.
+
+Q12: Quản lý mật khẩu Ứng dụng Muadee thế nào?
+A12: Khi đăng ký tài khoản phải tạo mật khẩu để đăng nhập; nếu quên có thể dùng tính năng ‘Quên mật khẩu’ để tạo lại mật khẩu mới.
+
+Q13: Giới hạn tổng hạn mức sử dụng khi chưa xác minh nâng cao là gì?
+A13: Tổng hạn mức giao dịch một tháng tối đa 100 triệu VND và không được thực hiện giao dịch thanh toán quốc tế.
+
+Q14: Các biện pháp nhận biết, xác minh nâng cao gồm gì?
+A14: Đối chiếu sinh trắc học với CSDL CCCD; video call định danh; gặp mặt trực tiếp; hoặc biện pháp khác theo quy định từng thời kỳ.
+
+Q15: Những hành vi nào bị cấm khi mở và sử dụng thẻ điện tử?
+A15: Làm/sử dụng/chuyển nhượng thẻ giả; gian lận, giao dịch khống; cung cấp thông tin sai; giả mạo giấy tờ; đánh cắp/tiết lộ thông tin thẻ; xâm nhập hệ thống; dùng thẻ cho mục đích rửa tiền/khủng bố…
+
+Q16: Hạn mức tín dụng (HMTD) được quyết định thế nào?
+A16: Do HDBank quyết định, có thể cho phép chi vượt HMTD hoặc điều chỉnh tăng/giảm mà không cần thông báo trước; chủ thẻ có thể đề nghị điều chỉnh HMTD.
+
+Q17: Mục đích sử dụng HMTD và thời hạn cấp hạn mức?
+A17: Mục đích: tiêu dùng; thẻ dùng để thanh toán hàng hóa/dịch vụ theo quy định pháp luật. Thời hạn cấp hạn mức: 5 năm; định kỳ 12 tháng có thể yêu cầu bổ sung hồ sơ thu nhập nếu lịch sử thanh toán không tốt.
+
+Q18: Phạt chậm thanh toán được tính ra sao?
+A18: Phạt từ ngày đến hạn đến hết ngày liền kề trước ngày thanh toán đủ: Số tiền phạt = Số tiền chậm × 0,5%/ngày (tối thiểu 5.000 VND) × Số ngày chậm.
+
+Q19: Thẻ có áp dụng lãi suất không?
+A19: Không áp dụng lãi suất, ngoại trừ phạt chậm thanh toán. Nếu áp dụng lãi suất đối với dư nợ, HDBank sẽ thông báo trước theo quy định từng thời kỳ.
+
+Q20: Chủ thẻ có những quyền gì?
+A20: Được sử dụng thẻ theo quy định; đề nghị tra soát/khiếu nại; nhận sao kê hằng tháng; chọn nhận/không nhận thông tin truyền thông từ HDBank (tự chịu rủi ro nếu từ chối).
+
+Q21: Chủ thẻ có trách nhiệm gì?
+A21: Thanh toán mọi giao dịch phát sinh; chịu trách nhiệm với giao dịch 3D Secured và các giao dịch hợp lệ khác; cập nhật thông tin liên hệ; hợp tác điều tra; tuân thủ AML; lưu bằng chứng hủy các dịch vụ định kỳ; thanh toán đúng hạn số tiền đến hạn.
+
+Q22: HDBank có những quyền gì liên quan đến thẻ?
+A22: Tự động ghi nợ tài khoản để thu nợ/thu phí; kiểm tra giấy tờ tùy thân; khóa/tạm ngưng/từ chối giao dịch khi có rủi ro/vi phạm; phong tỏa số tiền khi có giao dịch đáng ngờ; không chịu trách nhiệm trong các trường hợp ngoài khả năng kiểm soát hoặc lỗi bên thứ ba, v.v.
+
+Q23: HDBank có trách nhiệm gì?
+A23: Khóa thẻ khi nhận thông báo hợp lệ; tư vấn/hỗ trợ trong trường hợp khẩn cấp trong phạm vi khả năng; thực hiện các nghĩa vụ theo quy định.
+
+Q24: Sao kê thẻ được gửi như thế nào?
+A24: Hằng tháng gửi qua email đã đăng ký và thông báo trên Ứng dụng Muadee; có thể đăng ký nhận bản giấy (tính phí). Sau 3 ngày nếu không phản hồi, xem như đã nhận và đồng ý nội dung sao kê.
+
+Q25: Tôi có thể thanh toán dư nợ theo những cách nào?
+A25: Tại quầy HDBank; chuyển khoản vào tài khoản thẻ; hoặc đăng ký ‘Thanh toán tự động thẻ tín dụng’ trích từ thẻ/tài khoản liên kết với Ứng dụng Muadee. Phải đảm bảo đủ số dư để HDBank ghi nợ vào ngày đến hạn.
+
+Q26: Khiếu nại/tra soát giao dịch thực hiện ra sao và thời hạn?
+A26: Gọi 1900 6060, email Operation.muadee@hdbank.com.vn, hoặc đến Điểm giao dịch. Thời hiệu tra soát/khiếu nại: 60 ngày từ ngày phát sinh giao dịch; thời hạn xử lý tùy loại giao dịch và mạng lưới, có thể đến 60–180 ngày làm việc trong một số trường hợp.
+
+Q27: Khi nào bị chuyển nợ quá hạn và HDBank thu hồi nợ thế nào?
+A27: Không thanh toán đủ vào ngày đến hạn sẽ bị chuyển nợ quá hạn; HDBank có thể thu hồi trước hạn, chấm dứt sử dụng thẻ, và xử lý tài sản tại HDBank (tiền gửi, ký quỹ…) để thu nợ theo quy định.
+
+Q28: Điều kiện cấp lại thẻ, gia hạn thẻ, chấm dứt sử dụng?
+A28: Cấp lại khi hết hiệu lực và đã thanh toán đủ số đến hạn (có thể thu phí). HDBank có thể gia hạn tự động và thông báo; chủ thẻ có thể chấm dứt bất kỳ lúc nào bằng văn bản trước 3 ngày và phải tất toán toàn bộ dư nợ.
+
+Q29: HDBank thay đổi điều khoản/biểu phí thì sao?
+A29: HDBank thông báo trước (ví dụ về phí: tối thiểu 7 ngày) qua website/email/SMS… Tiếp tục sử dụng sau thời điểm hiệu lực được hiểu là đã chấp thuận.
+
+Q30: Ngôn ngữ áp dụng của tài liệu là gì?
+A30: Tiếng Việt là ngôn ngữ chính; nếu có bản ngữ khác thì khi mâu thuẫn, bản tiếng Việt có giá trị.
+
+Q31: HDBank được phép chia sẻ thông tin của tôi cho ai?
+A31: Có thể cung cấp cho đơn vị trực thuộc, đối tác, công ty thông tin tín dụng (như PCB) và các bên thứ ba phục vụ thu hồi/mua bán/xử lý nợ… theo quy định của HDBank và pháp luật; khách hàng đồng ý tiếp nhận liên lạc liên quan đến dịch vụ.
+
+Q32: Các điều khoản có hiệu lực từ khi nào?
+A32: Khi khách hàng xác nhận/ký/ký số/đồng ý Giấy Đề Nghị và Các Điều Khoản Và Điều Kiện; các văn bản liên quan (biểu phí, thông báo…) là bộ phận không tách rời của điều kiện này.
+

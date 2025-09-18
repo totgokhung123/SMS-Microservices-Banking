@@ -1,0 +1,107 @@
+DOC/PDF/HTML: HDBANK
+1. store file vào thư mục 
+2. tách text từ file
+- PDF: dùng PyMuPDF (fitz) hoặc pdftotext.
+- DOCX: python-docx để extract text.
+- HTML: BeautifulSoup lấy innerText.
+** Nếu có hình ảnh trong file thì lưu nguyên bản để nguyên (không detect text) 
+** Nếu là hình ảnh có bảng thì dùng thư viện Tabula để trích xuất bảng xong convert sang csv và đặt thêm metadata dạng JSON  "source": [nguồn của bảng tương ứng với file đang trích xuất].
+3. Phân đoạn (Chunking) dữ liệu.
+- 1 Chunking tối đa 400 tokens
+4. Gỡ PII (thông tin nhận dạng cá nhân) có trong tài liệu
+- Vì thông tin cá nhân là nhạy cảm là bảo mật và nếu dữ liệu nội bộ có thì gán bằng nhãn dữ liệu (nhãn như: nếu là phone = 0942617888 thì gán = [PHONE],...)
+- Các PII để xử lý và nhãn dữ liệu tương ứng:
+	CCCD/CMND (9/12 số) => thay = [ID_IDENTIFICATION]
+	Stk bank => [BANK_ACC]
+	Số thẻ (16 chữ số) => [ID_CARD]
+	SĐT => [PHONE]
+	Email => [EMAIL]
+	Địa chỉ => [ADDRESS]
+	Ngày sinh => [DoB]
+Mẫu code :
+
+# email
+email_re = re.compile(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}')
+text = email_re.sub("[EMAIL]", text)
+
+5. Metadata cho file dữ liệu 
+
+1 Mẫu: (1 file chính sách HDBANK)
+định dạng cho 1 file 
+{
+  "doc_id": "doc123"
+  "source": "HDBank_internal" (e.g., HDBank_internal, website, faq_pdf)
+  "filename": "lấy tiêu đề tài liệu để làm file name"
+  "file_type": (pdf, docx, html)
+  "language": vi
+  "pii_removed": true/fasle (false thì chưa gỡ PII, true thì gỡ rồi hoặc ko có PII)
+  "sensitivity": public
+  "doc_category": (FAQ, product, fee_schedule, contract, manual)	
+}
+
+4. lưu trữ phân đoạn dữ liệu (JSON)
+
+mẫu:
+
+{
+  "chunk_id":"doc123_chunk_0001", (id = doc_id + lần chunk cho file đấy)
+  "doc_id":"doc123",
+  "chunk_text":"Khi nhận thẻ, hãy gọi tổng đài [PHONE] để kích hoạt.", 
+  "source_type":"text", (text/table)
+  "pii_types_removed":[PHONE],
+  "category":"card_activation",
+  "pii_removed":true
+}
+
+5. Embedding chunk vừa mới xử lý phân đoạn xong
+Chọn model embedding: ưu tiên multilingual / VN-friendly (ví dụ sentence-transformers tiếng Việt hoặc all-mpnet-base-v2 / paraphrase-multilingual-mpnet-base-v2).
+lấy toàn bộ chunk_text cho vào embedding model -> thu được vector lưu vào vector DB (FAISS)
+Xong gán embedding_id vào chunk đang dùng để embedding
+
+embedding_id = "vec_" + chunk_id → "vec_doc123_chunk_0001"
+
+{
+  "chunk_id":"doc123_chunk_0001", (id = doc_id + lần chunk cho file đấy)
+  "doc_id":"doc123",
+  "chunk_text":"Khi nhận thẻ, hãy gọi tổng đài [PHONE] để kích hoạt.", 
+  "page_number":1,
+  "source_type":"pdf_text", (pdf_text/table)
+  "pii_types_removed":[PHONE],
+  "category":"card_activation",
+  "embedding_id": "vec_doc123_chunk_0001",
+  "pii_removed":true
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+Q1: HDBank là gì?
+A1: HDBank là Ngân hàng TMCP Phát triển TP. HCM, tổ chức phát hành và/hoặc thanh toán thẻ.
+
+Q2: Thẻ đa tính năng là gì?
+A2: Thẻ đa tính năng do HDBank phát hành, tích hợp từ 2 tính năng trở lên như thẻ tín dụng, thẻ ghi nợ và/hoặc thẻ trả trước định danh.
+
+Q3: Chủ thẻ là ai?
+A3: Chủ thẻ là cá nhân ký hợp đồng với HDBank để phát hành và sử dụng thẻ, đồng thời là Chủ tài khoản/khách hàng.
+
+Q4: Thẻ tín dụng là gì?
+A4: Thẻ tín dụng cho phép Chủ thẻ thực hiện giao dịch trong phạm vi hạn mức tín dụng đã được HDBank cấp.
+
+Q5: Thẻ ghi nợ là gì?
+A5: Thẻ ghi nợ cho phép Chủ thẻ giao dịch trong phạm vi số dư tài khoản thanh toán tại HDBank và hạn mức thấu chi (nếu có).
+
+Q6: Thẻ trả trước định danh là gì?
+A6: Thẻ trả trước định danh cho phép giao dịch trong phạm vi số tiền đã nạp vào thẻ tương ứng với số tiền trả trước cho HDBank.
+
+Q7: Thẻ nội địa và thẻ quốc tế khác nhau như thế nào?
+A7: Thẻ nội địa chỉ sử dụng tại Việt Nam, trong khi thẻ quốc tế có thể sử dụng trong và ngoài lãnh thổ Việt Nam.
+
+Q8: Thẻ vật lý và thẻ phi vật lý khác nhau thế nào?
+A8: Thẻ vật lý là thẻ nhựa có chip, còn thẻ phi vật lý tồn tại dưới dạng điện tử và có thể in thành thẻ vật lý nếu thỏa thuận.
+
+Q9: Hạn mức tín dụng thẻ (HMTD) là gì?
+A9: HMTD là số tiền tối đa mà Chủ thẻ được HDBank cho phép sử dụng tại một thời điểm nhất định.
+
+Q10: Sao kê thẻ tín dụng là gì?
+A10: Sao kê là thông báo hàng tháng của HDBank liệt kê chi tiết giao dịch, phí, lãi, dư nợ, số tiền thanh toán tối thiểu và ngày đến hạn.
+
+Q11: Hạn mức rút tiền mặt ngoại tệ tại nước ngoài là bao nhiêu?
+A11: Tối đa tương đương 30.000.000 VND/ngày hoặc theo quy định của NHNN.
+
+Q12: Chủ thẻ cần làm gì khi bị mất thẻ?
+A12: Thông báo ngay cho HDBank qua tổng đài và xác nhận bằng văn bản; cung cấp thông tin chi tiết về sự cố.
+
+Q13: HDBank có thể thu hồi thẻ trong trường hợp nào?
+A13: Khi thẻ dùng vào mục đích gian lận, rửa tiền, vi phạm pháp luật, theo yêu cầu điều tra hoặc khi chủ thẻ vi phạm hợp đồng.
+
+Q14: Các hành vi bị cấm trong sử dụng thẻ là gì?
+A14: Làm giả thẻ, mua bán/thuê mượn thẻ, sử dụng trái phép, gian lận, giao dịch khống, tiết lộ thông tin thẻ, xâm nhập trái phép hệ thống.
+
+Q15: Chủ thẻ có thể khiếu nại giao dịch trong thời hạn bao lâu?
+A15: Trong vòng 70 ngày kể từ ngày phát sinh giao dịch.
+
+Q16: Thời hạn hiệu lực của thẻ là bao lâu?
+A16: 3 năm hoặc theo quy định của HDBank từng thời kỳ.
+
+Q17: HDBank xử lý dữ liệu cá nhân của chủ thẻ như thế nào?
+A17: HDBank bảo vệ và xử lý dữ liệu cá nhân theo chính sách riêng và quy định pháp luật, có thể cung cấp thông tin cho bên thứ ba khi cần.
+
+Q18: Lãi suất thẻ tín dụng được áp dụng ra sao?
+A18: Theo biểu lãi suất HDBank ban hành từng thời kỳ, công bố trên website hoặc tại điểm giao dịch. Chủ thẻ phải thanh toán theo quy định.
+
+Q19: Mục đích sử dụng hạn mức tín dụng là gì?
+A19: Dùng cho tiêu dùng, thanh toán hàng hóa dịch vụ, nạp và rút tiền mặt theo thỏa thuận với HDBank.
+
+Q20: Nếu có tranh chấp với HDBank, giải quyết thế nào?
+A20: Ban đầu thương lượng/hòa giải, nếu không thành công sẽ giải quyết tại Tòa án hoặc Trung tâm Trọng tài thương mại theo quy định.
+
+Q21: Chủ thẻ có trách nhiệm gì về bảo mật?
+A21: Quản lý thẻ, bảo mật PIN, OTP, không tiết lộ thông tin, không chuyển nhượng thẻ và chịu trách nhiệm với các giao dịch phát sinh.
+
+Q22: Điều kiện để HDBank từ chối giao dịch thẻ?
+A22: Khi thẻ giả, thẻ bị mất, hết hạn, vượt hạn mức, vi phạm pháp luật hoặc chủ thẻ không thanh toán đúng hạn.

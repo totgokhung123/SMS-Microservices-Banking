@@ -1,0 +1,158 @@
+Q1. Điều khoản này áp dụng cho sản phẩm nào?
+A1. Điều khoản và Điều kiện phát hành, sử dụng Thẻ tín dụng Vikki của HDBank; cùng với Giấy đề nghị/kiêm hợp đồng tạo thành Hợp đồng ràng buộc giữa Chủ thẻ và HDBank.
+
+Q2. HDBank trong văn bản này là ai?
+A2. Ngân hàng TMCP Phát triển TP.HCM (HDBank) – tổ chức phát hành và thanh toán thẻ theo quy định NHNN và tổ chức thẻ.
+
+Q3. Thẻ tín dụng Vikki là gì?
+A3. Là thẻ tín dụng quốc tế do HDBank phát hành, có thể là thẻ vật lý hoặc thẻ phi vật lý; được sử dụng trong hạn mức tín dụng được cấp, thời hạn hiệu lực in trên thẻ.
+
+Q4. Khác nhau giữa thẻ tín dụng nội địa và quốc tế?
+A4. Thẻ nội địa chỉ giao dịch trong lãnh thổ Việt Nam; thẻ quốc tế giao dịch trong và ngoài lãnh thổ Việt Nam.
+
+Q5. Thẻ vật lý và thẻ phi vật lý khác gì nhau?
+A5. Thẻ vật lý là thẻ nhựa gắn chip (EMV/VSSC). Thẻ phi vật lý tồn tại điện tử; có thể in ra thẻ vật lý theo thỏa thuận; Chủ thẻ có nghĩa vụ bảo mật khi sử dụng.
+
+Q6. TKTT trực tuyến Vikki là gì?
+A6. Tài khoản thanh toán mở bằng phương thức điện tử (eKYC) trên ứng dụng Vikki; dùng để trích nợ tự động thanh toán thẻ.
+
+Q7. Ai là Chủ thẻ theo định nghĩa?
+A7. Cá nhân đề nghị cấp thẻ và đứng tên Hợp đồng phát hành và sử dụng thẻ tín dụng Vikki trên ứng dụng Vikki; tên được in trên thẻ.
+
+Q8. Sao kê, Kỳ sao kê và Ngày sao kê là gì?
+A8. Sao kê: thông báo hàng tháng liệt kê giao dịch, phí, lãi, số tiền tối thiểu, ngày đến hạn... Kỳ sao kê: khoảng giữa 2 lần sao kê. Ngày sao kê: ngày HDBank lập sao kê.
+
+Q9. Ngày sao kê mặc định là khi nào?
+A9. Ngày 15 hàng tháng và/hoặc theo quy định HDBank từng thời kỳ.
+
+Q10. Hạn mức tín dụng (HMTD) do ai quyết định?
+A10. Do HDBank quyết định/điều chỉnh theo từng thời kỳ; có thể tăng/giảm tự động và thông báo cho Chủ thẻ; Chủ thẻ cũng có thể đề nghị điều chỉnh.
+
+Q11. HDBank có thể điều chỉnh HMTD khi nào?
+A11. Bất kỳ lúc nào dựa trên đánh giá rủi ro, tình hình tài chính, thông tin sử dụng thẻ; có thể giảm mà không cần báo trước.
+
+Q12. Mục đích sử dụng HMTD là gì?
+A12. Tiêu dùng; Chủ thẻ không được sử dụng cho mục đích trái pháp luật hoặc trái quy định HDBank.
+
+Q13. Thời hạn cấp HMTD?
+A13. Tối đa 5 năm hoặc theo thời gian sử dụng thẻ do HDBank quy định từng thời kỳ.
+
+Q14. Thời hạn trả nợ được thông báo như thế nào?
+A14. Theo từng kỳ sao kê; Chủ thẻ trả nợ vào ngày đến hạn ghi trên sao kê.
+
+Q15. Đồng tiền giao dịch và thanh toán là gì?
+A15. Trên lãnh thổ VN: giao dịch rút tiền bằng VND; giao dịch khác bằng VND (có thể hiện ngoại tệ theo quy định). Ngoài lãnh thổ VN: thanh toán cho HDBank bằng VND theo tỷ giá HDBank/TCTQT.
+
+Q16. Tỷ giá quy đổi áp dụng khi nào?
+A16. Khi cần quy đổi ngoại tệ ra VND tại thời điểm hạch toán/ghi nợ, theo tỷ giá do HDBank hoặc TCTQT quy định.
+
+Q17. Lãi suất áp dụng ra sao?
+A17. Theo Biểu lãi suất thẻ của HDBank từng thời kỳ, niêm yết công khai.
+
+Q18. Cách tính lãi cơ bản?
+A18. HDBank tính lãi từ ngày phát sinh dư nợ đến hết ngày liền kề trước ngày Chủ thẻ thanh toán hết dư nợ: Lãi = Số dư nợ gốc tính lãi × Lãi suất (%/năm) × Số ngày tính lãi / 365.
+
+Q19. Khi nào được miễn lãi giao dịch mua hàng?
+A19. Nếu không có dư nợ đầu kỳ và đến hạn thanh toán, Chủ thẻ thanh toán TOÀN BỘ dư nợ cuối kỳ thì được ưu đãi miễn lãi toàn bộ giao dịch phát sinh trong kỳ.
+
+Q20. Lãi giao dịch rút tiền mặt tính từ khi nào?
+A20. Từ ngày phát sinh giao dịch rút tiền đến hết ngày liền kề trước ngày thanh toán; không phụ thuộc ngày sao kê/ngày đến hạn.
+
+Q21. Nếu chỉ trả tối thiểu hoặc không trả đủ dư nợ cuối kỳ thì sao?
+A21. HDBank tính lãi trên TẤT CẢ giao dịch từ ngày hạch toán đến hết ngày liền kề trước ngày thanh toán; phần còn lại tiếp tục bị tính lãi qua các kỳ sau.
+
+Q22. Lãi quá hạn là gì?
+A22. Khi khoản nợ bị chuyển quá hạn, lãi suất áp dụng bằng 150% lãi suất cấp tín dụng qua thẻ; tính từ thời điểm chuyển nợ quá hạn.
+
+Q23. Lãi chậm trả lãi là gì?
+A23. Lãi áp dụng cho khoản lãi bị chậm trả: 10%/năm tính trên khoản lãi chậm trả, hoặc theo quy định HDBank từng thời kỳ phù hợp NHNN.
+
+Q24. Phí dịch vụ được quy định ở đâu?
+A24. Theo Biểu phí dịch vụ thẻ do HDBank ban hành từng thời điểm (HDBank thông báo tối thiểu 07 ngày trước khi áp dụng thay đổi).
+
+Q25. Nếu Chủ thẻ không đồng ý thay đổi lãi/phí?
+A25. Phải liên hệ HDBank để yêu cầu chấm dứt sử dụng thẻ và tất toán theo quy định.
+
+Q26. Quyền cơ bản của Chủ thẻ?
+A26. Được sử dụng thẻ; nhận sao kê; tra soát/ khiếu nại trong 60 ngày; yêu cầu cấp PIN mới/cấp lại thẻ; nhận lại số dư có sau khi hoàn thành nghĩa vụ; và các quyền khác theo quy định.
+
+Q27. Nghĩa vụ thanh toán của Chủ thẻ?
+A27. Thanh toán tất cả giao dịch/ phí/ lãi cho HDBank đúng hạn; mặc định trước 16:30 ngày đến hạn; thanh toán sau thời điểm này được coi là quá hạn.
+
+Q28. Chủ thẻ có ủy quyền trích nợ tự động không?
+A28. Có. Chủ thẻ đồng ý để HDBank trích nợ tự động số tiền thanh toán tối thiểu từ TKTT trực tuyến Vikki; nếu không đủ, HDBank có thể trích từ các tài khoản/nguồn tiền khác tại HDBank.
+
+Q29. Trách nhiệm khi mất thẻ/lộ PIN/OTP?
+A29. Phải thông báo ngay cho HDBank theo kênh quy định. Chủ thẻ chịu trách nhiệm với mọi giao dịch trước khi HDBank xác nhận xử lý theo thông báo.
+
+Q30. Chủ thẻ phải làm gì khi nhận thẻ mới?
+A30. Ký vào ô chữ ký mặt sau thẻ vật lý; BẮT BUỘC đổi PIN do HDBank cấp trước khi giao dịch dùng PIN; bảo mật thẻ, PIN, OTP.
+
+Q31. Khi nào HDBank có thể tạm khóa/khóa thẻ?
+A31. Khi nghi ngờ/giao dịch gian lận; không tuân thủ quy định; quá hạn; vượt hạn mức; thẻ bị lộ thông tin; thẻ hết hiệu lực; theo yêu cầu cơ quan chức năng; hoặc để ngăn ngừa thiệt hại...
+
+Q32. Chủ thẻ có phải chịu rủi ro giao dịch contactless/3D Secured?
+A32. Có. Chủ thẻ chịu trách nhiệm đối với giao dịch có chữ ký/PIN, giao dịch qua chip/contactless, giao dịch trực tuyến có 3D Secured, và các giao dịch HDBank chứng minh thẻ đã được sử dụng.
+
+Q33. Kênh tiếp nhận tra soát/khiếu nại là gì?
+A33. Tổng đài Vikki 19006808 (24/7, có ghi âm) và các điểm giao dịch HDBank.
+
+Q34. Thời hiệu đề nghị tra soát là bao lâu?
+A34. Trong vòng 70 ngày kể từ ngày phát sinh giao dịch đối với lần khiếu nại đầu tiên; HDBank có khung thời gian phản hồi theo loại giao dịch/mạng lưới.
+
+Q35. Nếu vụ việc có dấu hiệu tội phạm?
+A35. HDBank thông báo cơ quan có thẩm quyền và NHNN; thời hạn xử lý phụ thuộc kết quả cơ quan chức năng.
+
+Q36. Tỷ giá áp dụng khi xử lý tài sản bảo đảm ngoại tệ?
+A36. HDBank có thể giảm HMTD, yêu cầu bổ sung TSBĐ, hoặc chấm dứt sử dụng thẻ khi biến động tỷ giá/lượng giá trị bảo đảm.
+
+Q37. Nhận và quản lý thẻ/PIN như thế nào?
+A37. HDBank chuyển giao theo cách thức deemed an toàn; Chủ thẻ coi như đã nhận khi giao đúng địa chỉ đã đăng ký và ký xác nhận/hoặc theo quy định PIN điện tử.
+
+Q38. Nếu không nhận thẻ/PIN trong 30 ngày?
+A38. HDBank xử lý theo quy trình thẻ/PIN tồn; nếu cấp lại, Chủ thẻ chịu phí theo quy định.
+
+Q39. Sao kê được gửi bằng cách nào?
+A39. Qua kênh điện tử/SMS/Email đã đăng ký; nếu yêu cầu bản giấy qua bưu điện sẽ thu phí. Không nhận sao kê vẫn phải thanh toán đúng hạn.
+
+Q40. Phương thức thanh toán dư nợ?
+A40. Tự động trích nợ tối thiểu từ TKTT trực tuyến Vikki; hoặc Chủ thẻ chủ động thanh toán qua ứng dụng/Internet Banking/các kênh khác do HDBank quy định.
+
+Q41. Thời điểm HDBank trích nợ tự động?
+A41. Trước 2 ngày so với ngày đến hạn và tiếp tục hàng ngày cho đến trước kỳ sao kê mới hoặc đến khi thu đủ số tiền tối thiểu.
+
+Q42. Thứ tự ưu tiên khi hạch toán thanh toán?
+A42. Nợ trong hạn: lãi, phí, gốc; sau đó nợ quá hạn: gốc, lãi, phí; rồi các nghĩa vụ khác. HDBank có thể thay đổi/áp dụng thứ tự theo thời gian hoặc phù hợp pháp luật.
+
+Q43. Khi vượt hạn mức thì sao?
+A43. Có thể bị tính phí vượt hạn mức theo biểu phí.
+
+Q44. Khi nào HDBank chuyển nợ quá hạn?
+A44. Khi không thanh toán đủ số tiền tối thiểu vào ngày đến hạn; toàn bộ dư nợ gốc có thể bị chuyển nợ quá hạn.
+
+Q45. Mốc tạm ngưng và chấm dứt thẻ do chậm trả?
+A45. Sau 60 ngày từ ngày đến hạn chưa trả đủ tối thiểu: tạm ngưng quyền sử dụng thẻ. Sau 90 ngày: chấm dứt/thu hồi thẻ và tiến hành thu hồi nợ/XLTSBĐ.
+
+Q46. Các hành vi bị cấm khi mở/sử dụng thẻ?
+A46. Làm/sử dụng/lưu hành thẻ giả; giao dịch gian lận/khống; cung cấp thông tin gian lận; giả mạo eKYC; lấy cắp/thông đồng lấy cắp thông tin thẻ; xâm nhập hệ thống; dùng thẻ cho rửa tiền/khủng bố; mua bán/cho thuê/cho mượn thẻ; vi phạm hạn mức/phạm vi sử dụng...
+
+Q47. Sự kiện bất khả kháng xử lý thế nào?
+A47. HDBank tạm ngưng thực hiện và thông báo; không phát sinh trách nhiệm bồi thường; không miễn trừ nghĩa vụ của Chủ thẻ trừ khi HDBank đồng ý.
+
+Q48. Kênh thông báo/sửa đổi điều khoản từ HDBank?
+A48. Niêm yết tại điểm giao dịch/hệ thống; website; phương tiện thông tin đại chúng; SMS/Email/ứng dụng; hoặc hình thức khác theo quy định.
+
+Q49. Luật áp dụng và giải quyết tranh chấp?
+A49. Theo pháp luật Việt Nam; tranh chấp ưu tiên thương lượng/hòa giải; nếu không được thì tại Tòa án có thẩm quyền hoặc Trung tâm Trọng tài Thương mại Phía Nam (STAC) theo lựa chọn của HDBank.
+
+Q50. Thỏa thuận cung cấp thông tin tín dụng?
+A50. Chủ thẻ đồng ý không hủy ngang cho HDBank xử lý, cung cấp, trao đổi thông tin tín dụng với bên thứ ba/công ty thông tin tín dụng (PCB và đơn vị khác) để thu hồi nợ, mua bán nợ, xử lý nợ...
+
+Q51. Dữ liệu cá nhân được bảo vệ/ xử lý ra sao?
+A51. HDBank áp dụng biện pháp bảo vệ; xử lý dữ liệu nhằm phát hành thẻ/cung cấp dịch vụ và cho các mục đích theo thông báo/điều khoản đã được Chủ thẻ đồng ý; có thể cung cấp cho bên thứ ba theo quy định.
+
+Q52. Ngôn ngữ áp dụng?
+A52. Tiếng Việt là ngôn ngữ chính; nếu có bản tiếng nước ngoài thì bản tiếng Việt có giá trị sử dụng khi mâu thuẫn nội dung.
+
+Q53. Khi nào điều khoản có hiệu lực với Chủ thẻ?
+A53. Kể từ ngày Chủ thẻ xác nhận/ký/ký số/đồng ý Giấy Đề nghị và Điều khoản & Điều kiện này.

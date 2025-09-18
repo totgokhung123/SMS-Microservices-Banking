@@ -1,0 +1,24 @@
+Q1: Khi nào HDBank ngừng hoạt động đối với dịch vụ Mobile Banking của Khách hàng cá nhân?
+A1: Từ ngày 27/09/2024.
+
+Q2: Phạm vi triển khai việc ngừng dịch vụ Mobile Banking là ở đâu?
+A2: Trên toàn hệ thống HDBank.
+
+Q3: Đối tượng nào sẽ bị ngừng hoạt động Mobile Banking?
+A3: 
+- Từ 27/09/2024 – 30/12/2024: Khách hàng cá nhân không đăng nhập Mobile Banking trong 12 tháng gần nhất. 
+- Từ 31/12/2024 trở đi: Khách hàng cá nhân không đăng nhập Mobile Banking trong 06 tháng gần nhất.
+
+Q4: Khách hàng muốn kích hoạt lại Mobile Banking thì làm thế nào?
+A4: 
+- Bước 1: Đăng nhập Mobile Banking bằng User & Password eBanking còn hiệu lực. 
+- Bước 2: Xác nhận đồng ý Điều khoản và Điều kiện đăng ký sử dụng dịch vụ. 
+- Bước 3: Nhập mã OTP (qua SMS hoặc Soft Token). 
+- Bước 4: HDBank kiểm tra thông tin (User, Password, OTP). 
+- Bước 5: Nếu hợp lệ, HDBank mở lại dịch vụ Mobile Banking.
+
+Q5: Việc ngừng hoạt động dịch vụ Mobile Banking có ảnh hưởng đến Internet Banking không?
+A5: Không, dịch vụ Internet Banking vẫn hoạt động bình thường.
+
+Q6: Khách hàng cần hỗ trợ thì liên hệ ở đâu?
+A6: Gọi Tổng đài HDBank 19006060 hoặc (+84) 28 3936 5555 để được hỗ trợ và giải đáp.

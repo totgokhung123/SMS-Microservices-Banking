@@ -1,0 +1,128 @@
+Q: Văn bản này là gì?
+A: Điều khoản và Điều kiện phát hành, sử dụng Thẻ trả trước HDBank, đính kèm Quy định sản phẩm số …/2024/QĐ-TGĐ ngày …/…/2024. (Mã hiệu: 18.QĐSP/TTT; Lần ban hành: 03)
+
+Q: HDBank trong văn bản là ai?
+A: Ngân hàng TMCP Phát triển TP.HCM (HDBank) – tổ chức phát hành và thanh toán thẻ trả trước theo quy định NHNN và tổ chức thẻ.
+
+Q: Thẻ trả trước là gì? Có những loại nào?
+A: Thẻ do HDBank phát hành, giao dịch trong phạm vi số tiền đã nạp. Gồm: (i) Thẻ vô danh (nội địa/quốc tế), (ii) Thẻ định danh (nội địa/quốc tế), và các sản phẩm thẻ trả trước khác do HDBank quy định từng thời kỳ.
+
+Q: Thẻ vật lý và thẻ phi vật lý khác nhau thế nào?
+A: Thẻ vật lý là thẻ hiện hữu (thường bằng nhựa, có chip). Thẻ phi vật lý tồn tại dưới dạng điện tử để giao dịch online/app; có thể chuyển sang thẻ vật lý theo yêu cầu.
+
+Q: Ai là Chủ thẻ?
+A: Cá nhân được HDBank cung cấp thẻ để sử dụng. Với thẻ định danh: có Chủ thẻ chính (ký hợp đồng) và Chủ thẻ phụ (được cấp theo đề nghị của chủ thẻ chính).
+
+Q: Đơn vị kinh doanh (ĐVKD) là gì?
+A: Là các điểm giao dịch HDBank (chi nhánh, phòng giao dịch, đơn vị kinh doanh khác).
+
+Q: Hợp đồng phát hành và sử dụng thẻ là gì?
+A: Thỏa thuận giữa HDBank và khách hàng về phát hành, sử dụng thẻ trả trước, gồm Điều khoản & Điều kiện và Giấy đề nghị kiêm hợp đồng (ký trực tiếp hoặc ký số).
+
+Q: ĐVCNT/ĐVCNTT là gì?
+A: ĐVCNT: đơn vị chấp nhận thanh toán bằng thẻ. ĐVCNTT: tổ chức/cá nhân cung cấp hàng hóa dịch vụ chấp nhận thanh toán bằng phương tiện thanh toán thẻ theo hợp đồng với đơn vị cung ứng dịch vụ thanh toán/trung gian.
+
+Q: Thẻ Chip/Thẻ phi tiếp xúc HDBank là gì?
+A: Thẻ Chip theo chuẩn EMV/VSSC có tính bảo mật cao. Thẻ HDBank contactless giao tiếp “tiếp xúc” hoặc “phi tiếp xúc”; chỉ cần chạm/thẻ gần POS NFC để thanh toán.
+
+Q: Giao dịch Easy Payment là gì?
+A: Giao dịch contactless qua POS trong hạn mức nhỏ theo ngưỡng do TCTQT quy định, không cần ký hóa đơn.
+
+Q: Tổng đài hỗ trợ là gì?
+A: 1900 60 60 (hoạt động 24/7; số có thể thay đổi theo thông báo HDBank).
+
+Q: Tài khoản Thẻ trả trước là gì?
+A: Tài khoản quản lý giao dịch liên quan đến thẻ trên hệ thống thẻ; mỗi thẻ có một tài khoản thẻ; không phải tài khoản tiền gửi thanh toán.
+
+Q: Thẻ trả trước dùng để làm gì?
+A: Gửi/rút tiền mặt (nếu được phép), thanh toán hàng hóa dịch vụ, chuyển khoản và sử dụng các dịch vụ khác do HDBank/TCTTT cung ứng.
+
+Q: Mục đích sử dụng thẻ có giới hạn gì?
+A: Phải tuân thủ quy định HDBank và pháp luật; không dùng cho mục đích trái pháp luật.
+
+Q: Hạn mức/số dư thẻ định danh là bao nhiêu?
+A: Tổng hạn mức giao dịch (rút, chuyển khoản, thanh toán, ecom,…) không vượt quá 100 triệu VND/tháng. Rút tiền mặt ở nước ngoài tối đa tương đương 30 triệu VND/ngày (hoặc theo NHNN) và không vượt hạn mức rút của thẻ.
+
+Q: Hạn mức/số dư thẻ vô danh là bao nhiêu?
+A: Số dư không vượt quá 5 triệu VND tại mọi thời điểm.
+
+Q: Phạm vi sử dụng thẻ?
+A: Trong lãnh thổ VN: thẻ vô danh/định danh nội địa & quốc tế. Ngoài lãnh thổ VN: chỉ thẻ quốc tế. Thời hạn hiệu lực thẻ: 03 năm (hoặc theo HDBank).
+
+Q: Thẻ vô danh bị giới hạn gì?
+A: Có thể mua/bán/thuê/cho thuê/mở hộ; không được thay thế/phát hành lại khi mất/hỏng; chỉ thanh toán tại điểm bán trong lãnh thổ VN; không dùng giao dịch điện tử (internet/app), không rút tiền mặt; nạp tiền sao cho số dư luôn ≤ 5 triệu VND.
+
+Q: Thẻ định danh được làm gì?
+A: Không được mua bán/chuyển nhượng; được thay thế/gia hạn/cấp lại khi mất/hết hạn/hỏng; thanh toán tại POS/mPOS/EDC, trực tuyến (web/app), nạp/rút tại máy giao dịch tự động theo quy định; chủ động ấn định giá trị mỗi lần nạp; được giao dịch điện tử sau khi hoàn tất định danh/đối chiếu thông tin & sinh trắc học; thẻ phụ dưới 15 tuổi không được rút tiền mặt.
+
+Q: Đồng tiền giao dịch/thanh toán trên lãnh thổ VN?
+A: Rút tiền mặt bằng VND. Giao dịch khác: đồng tiền giao dịch là VND (có thể hiển thị cả ngoại tệ nếu được phép); đồng tiền thanh toán là VND. Quy đổi từ ngoại tệ sang VND theo tỷ giá HDBank hoặc TCTQT.
+
+Q: Giao dịch ngoài lãnh thổ VN dùng đồng tiền nào?
+A: Thanh toán bằng VND theo tỷ giá quy đổi từ ngoại tệ sang VND theo thỏa thuận/phù hợp quy định HDBank & NHNN.
+
+Q: Số dư tài khoản thẻ có tính lãi không?
+A: Không. (Lãi suất = 0)
+
+Q: Phí dịch vụ thẻ được thông báo thế nào?
+A: Theo Biểu phí do HDBank ban hành/cập nhật (niêm yết tại ĐVKD, website, email/SMS…). Thời gian thông báo tối thiểu trước áp dụng: 07 ngày. Tiếp tục sử dụng = chấp nhận thay đổi.
+
+Q: Xử lý khiếu nại/tra soát như thế nào?
+A: Gửi đề nghị trong vòng 70 ngày từ ngày phát sinh giao dịch (trễ hạn HDBank không xử lý). Kênh: điểm giao dịch, tổng đài 1900 60 60, hoặc kênh khác HDBank triển khai. Cần cung cấp thông tin xác thực, giấy đề nghị, hóa đơn/chứng từ liên quan; có thể bị khóa thẻ để hạn chế rủi ro.
+
+Q: Khiếu nại giá trị nhỏ có bị từ chối không?
+A: HDBank có quyền từ chối khiếu nại với giao dịch < 10 USD (hoặc tương đương); riêng du lịch/giải trí: ngưỡng < 25 USD có thể bị từ chối (theo quy định TCTQT).
+
+Q: Thời hạn xử lý tra soát là bao lâu?
+A: Phụ thuộc loại thẻ và loại giao dịch; tối đa theo pháp luật. Ví dụ: ATM nội mạng tối đa 5–10 ngày làm việc; POS/ECOM nội mạng 7–12 ngày; ngoại mạng tối đa 60 ngày (nội địa) và có thể tới 180 ngày với một số trường hợp thẻ quốc tế. Có cơ chế khiếu nại lần 2 trong 5 ngày tiếp theo và phản hồi theo khung quy định.
+
+Q: Khi nào HDBank bồi hoàn?
+A: Với tổn thất không do lỗi Chủ thẻ/không thuộc bất khả kháng, bồi hoàn trong tối đa 05 ngày làm việc kể từ khi thông báo kết quả tra soát.
+
+Q: Trường hợp nào Chủ thẻ tự chịu trách nhiệm?
+A: Giao dịch có PIN/OTP/chữ ký/không chữ ký; thẻ bị lợi dụng do lỗi chủ thẻ; giao dịch do chủ thẻ nhầm lẫn; giao dịch contactless ngoài ý muốn khi không tuân thủ biện pháp an toàn; giao dịch không cần PIN/OTP khi HDBank có bằng chứng; đặt cọc dịch vụ rồi không hủy đúng hạn; tranh chấp thẻ chip bị cho là giả mạo; cho người khác thuê/mượn thẻ; thẻ vô danh: tự chịu hoàn toàn, không tra soát.
+
+Q: Quyền của Chủ thẻ nổi bật?
+A: Sử dụng thẻ trong hạn mức; hưởng ưu đãi; yêu cầu phát hành/định danh/cấp lại PIN/gia hạn/khóa/đóng tất toán; nhận thông tin thẻ; tra soát (thẻ định danh); yêu cầu chấm dứt; được hoàn trả số dư còn lại khi tất toán (sau khi trừ nghĩa vụ).
+
+Q: Nghĩa vụ chính của Chủ thẻ?
+A: Đăng ký eBanking để quản lý giao dịch (định danh); bảo mật thẻ/PIN/OTP; dùng đúng mục đích; thông báo ngay khi mất/lộ thông tin; cung cấp thông tin trung thực; lưu chứng từ hủy giao dịch định kỳ; thanh toán phí; chịu trách nhiệm với giao dịch trước khi báo mất/khóa; hoàn trả khoản ghi có nhầm; tự giải quyết chất lượng hàng hóa với ĐVCNT; tuân thủ phòng chống rửa tiền/khủng bố; tuân thủ an toàn contactless (không để thẻ gần POS NFC, luôn kiểm soát).
+
+Q: Quyền của HDBank?
+A: Yêu cầu cung cấp thông tin; từ chối cấp phép/thay thế/gia hạn/ngưng sử dụng khi có căn cứ; tự động ghi nợ/ghi có điều chỉnh; phong tỏa/tạm hoãn ghi có khi nghi ngờ; không chịu trách nhiệm về giao/nhận hàng hóa dịch vụ; không cung cấp hóa đơn cho Easy Payment; ghi âm cuộc gọi làm chứng từ; khóa/hủy/thu hồi thẻ để bảo mật; chuyển đổi công nghệ thẻ; đăng ký 3D Secure tự động; gửi thẻ/PIN theo yêu cầu; từ chối yêu cầu dịch vụ không phù hợp; xử lý dữ liệu cá nhân theo thỏa thuận; áp dụng biện pháp KYC/AML bổ sung khi nghi ngờ; từ chối tra soát thẻ vô danh; các quyền khác theo pháp luật.
+
+Q: Nghĩa vụ của HDBank?
+A: Tuân thủ quy định NHNN; cung cấp thông tin thẻ/số dư/lịch sử theo đề nghị; theo dõi và nhắc hết hạn GTTT; phát hành lại/cấp PIN theo yêu cầu hợp pháp; quản lý rủi ro; tiếp nhận tra soát; hỗ trợ khẩn cấp trong phạm vi khả năng; công bố biểu phí; khóa thẻ ngay khi nhận yêu cầu; hoàn trả số dư còn lại khi tất toán (sau khi trừ nghĩa vụ).
+
+Q: HDBank có thể áp dụng biện pháp bảo mật gì?
+A: Có thể tạm khóa/từ chối giao dịch/thu hồi/hủy hiệu lực thẻ khi nghi ngờ gian lận, vi phạm điều kiện, hết hạn, yêu cầu cơ quan nhà nước, mục tiêu AML/CFT, lỗi bảo quản thẻ, không cập nhật giấy tờ, v.v.
+
+Q: Khi mất thẻ/lộ thông tin, cần làm gì?
+A: Gọi ngay 1900 60 60 để khóa, sau đó đến ĐVKD xác nhận bằng văn bản; cung cấp thời gian/địa điểm mất, thông tin lộ, giao dịch cuối cùng… Thẻ định danh có thể đề nghị cấp lại; thẻ vô danh không được cấp lại và chủ thẻ tự chịu mọi rủi ro/tổn thất.
+
+Q: Trường hợp nào thẻ bị từ chối thanh toán?
+A: Giao dịch bị cấm; thẻ báo mất/hết hiệu lực/bị khóa; số dư không đủ/hết hạn mức ngày; tài khoản bị phong tỏa theo yêu cầu; thẻ giả/liên quan giả mạo; các trường hợp khác theo quy định.
+
+Q: Khi nào tạm dừng giao dịch?
+A: Khi giấy tờ tùy thân (và với người nước ngoài: giấy tờ cư trú tại VN) hết hiệu lực, hoặc các trường hợp khác do HDBank/quy định pháp luật.
+
+Q: Quy tắc quản lý thẻ/PIN/OTP?
+A: HDBank có thể giao thẻ/PIN theo cách an toàn; chủ thẻ phải đổi PIN tại ATM HDBank trước khi giao dịch; bảo mật thẻ/PIN/OTP; thông báo ngay khi mất/bị lộ; chịu trách nhiệm với giao dịch phát sinh trước khi HDBank xác nhận đã xử lý khóa theo thông báo.
+
+Q: Thẻ bị giữ tại ATM/ĐVCNT khác thì sao?
+A: Chủ thẻ phải làm thủ tục thay thẻ và số PIN. Khi tái cấp trước ngày hết hạn, có thể dùng thẻ cũ cho tới khi nhận thẻ mới. Khi đổi/tái cấp/chuyển đổi thẻ, HDBank không thu hồi thẻ vật lý cũ – chủ thẻ phải tự hủy thẻ cũ.
+
+Q: Những hành vi bị cấm?
+A: Làm giả/thao túng thẻ; cung cấp thông tin sai; giả mạo GTTT để định danh; xâm nhập/phá hoại hệ thống; tiết lộ thông tin trái phép; thuê/cho thuê/mua-bán/mở hộ thẻ (trừ vô danh); dùng thẻ cho đánh bạc, gian lận, kinh doanh trái phép; không tuân thủ hạn mức/phạm vi khi phát hành điện tử; các hành vi bị cấm khác theo pháp luật/HDBank.
+
+Q: Quy định về dữ liệu cá nhân?
+A: HDBank bảo vệ và xử lý dữ liệu cá nhân nhằm phát hành/cung cấp sản phẩm dịch vụ, phòng chống gian lận và theo yêu cầu pháp luật; có thể chia sẻ với bên thứ ba phục vụ mục đích nêu trên theo thông báo/điều khoản đã đồng ý.
+
+Q: Bất khả kháng là gì? Hệ quả?
+A: Sự kiện khách quan không thể lường trước/khắc phục (chiến tranh, thiên tai, dịch bệnh, sự cố hệ thống, thay đổi chính sách, v.v.). Khi xảy ra, HDBank tạm ngưng thực hiện hợp đồng và không phải bồi thường; không miễn trừ nghĩa vụ của chủ thẻ.
+
+Q: Thay đổi điều khoản, thông báo ra sao?
+A: HDBank có quyền thay đổi và sẽ thông báo trước (niêm yết tại ĐVKD/hệ thống/website/TTĐC/kênh khác). Chủ thẻ có nghĩa vụ cập nhật; tiếp tục sử dụng = chấp nhận thay đổi. HDBank cũng có thể nhắc trước 30 ngày khi GTTT sắp hết hạn để yêu cầu cập nhật.
+
+Q: Hiệu lực áp dụng đối với Chủ thẻ?
+A: Có hiệu lực từ ngày Chủ thẻ ký/xác nhận/đồng ý Giấy đề nghị kiêm hợp đồng phát hành & sử dụng thẻ trả trước.

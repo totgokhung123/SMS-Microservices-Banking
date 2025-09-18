@@ -1,0 +1,39 @@
+Q1: Dịch vụ eBanking của HDBank gồm những kênh nào?
+A1: Gồm 3 kênh: (1) iBanking (web) để truy vấn tài khoản, chuyển khoản, đặt lệnh định kỳ/ngày tương lai, thanh toán hóa đơn, phát hành tiền gửi có kỳ hạn Online; (2) mBanking (ứng dụng di động) thực hiện giao dịch điện tử trên điện thoại; (3) SMSBanking để truy vấn/nhận thông tin và thực hiện giao dịch cơ bản qua SMS.
+
+Q2: iBanking cho phép thực hiện những giao dịch cụ thể nào?
+A2: Chuyển khoản trong/ngoài hệ thống; đặt lệnh thanh toán định kỳ; chuyển tiền ngày tương lai; thanh toán hóa đơn tới nhà cung cấp liên kết; phát hành tiền gửi có kỳ hạn Online; và các dịch vụ khác theo quy định của HDBank.
+
+Q3: mBanking được sử dụng trong phạm vi nào?
+A3: Khách hàng có thể sử dụng mBanking để thực hiện các giao dịch ngân hàng điện tử qua điện thoại di động của mình trong phạm vi lãnh thổ Việt Nam.
+
+Q4: Với SMSBanking, tên đăng nhập là gì và kích hoạt như thế nào?
+A4: Tên đăng nhập chính là số điện thoại của khách hàng. Để kích hoạt, khách hàng nhắn tin thiết lập mật khẩu tới tổng đài 8149 theo hướng dẫn.
+
+Q5: Tên đăng nhập eBanking bị khóa trong trường hợp nào liên quan đến lần đăng nhập đầu tiên?
+A5: Nếu sau 45 ngày kể từ khi được cấp Tên đăng nhập và Mật khẩu mà khách hàng chưa đăng nhập lần đầu thành công, hệ thống sẽ tự động khóa Tên đăng nhập; muốn sử dụng lại cần đến điểm giao dịch HDBank để kích hoạt lại.
+
+Q6: Làm sao để ngừng sử dụng mBanking?
+A6: Khách hàng có thể chủ động thực hiện ngay trong ứng dụng bằng tính năng “Ngừng sử dụng dịch vụ” của Ứng dụng Mobile.
+
+Q7: Tôi có thể thay đổi gói dịch vụ eBanking ở đâu?
+A7: Khách hàng thực hiện thay đổi nội dung Gói dịch vụ hoặc thông tin khác theo quy định tại các điểm giao dịch của HDBank.
+
+Q8: Kênh hỗ trợ khiếu nại/tra soát dành riêng cho eBanking là gì?
+A8: Gọi số 1800 6868, hoặc đến điểm giao dịch HDBank, hoặc gửi yêu cầu qua tính năng Hộp thư trên website www.hdbank.com.vn.
+
+Q9: HDBank có chịu trách nhiệm nếu một người vừa tạo vừa duyệt giao dịch trong doanh nghiệp không?
+A9: HDBank sẽ không chịu bất kỳ trách nhiệm nào liên quan tới rủi ro phát sinh nếu khách hàng tổ chức đăng ký quyền 'user tạo' và 'user duyệt' là cùng một người.
+
+Q10: Khi nào HDBank có thể khóa/tạm ngừng/chấm dứt dịch vụ eBanking?
+A10: Khi cần thiết và không cần sự đồng ý trước của khách hàng (HDBank sẽ thông báo), ví dụ: giao dịch không hợp lệ; số dư không đáp ứng tối thiểu; vượt hạn mức/ngày; tài khoản bị phong tỏa; theo yêu cầu cơ quan có thẩm quyền; hoặc các nguyên nhân vượt tầm kiểm soát (bảo trì, lỗi đường truyền...).
+
+Q11: Quy định nhận hóa đơn khác nhau thế nào giữa cá nhân và doanh nghiệp?
+A11: Đối với cá nhân: chậm nhất vào ngày cuối tháng của tháng phát sinh giao dịch thu phí, đến điểm giao dịch nơi mở tài khoản để yêu cầu hóa đơn; sau thời điểm này ngân hàng không phát hành hóa đơn riêng lẻ. Đối với doanh nghiệp: từ ngày liền kề sau ngày phát sinh giao dịch thu phí, liên hệ điểm giao dịch nơi mở tài khoản để được cung cấp hóa đơn.
+
+Q12: Khuyến cáo bảo mật trình duyệt khi dùng iBanking là gì?
+A12: Không bật tùy chọn của trình duyệt cho phép lưu lại Tên đăng nhập và Mật khẩu; đồng thời thận trọng, hạn chế dùng máy tính công cộng và mạng không dây công cộng để truy cập iBanking.
+
+Q13: Số điện thoại nào dùng để báo khẩn khi lộ OTP/mất thiết bị?
+A13: Gọi ngay 1800 6868 (hoặc số hotline khác của HDBank tại từng thời điểm) để yêu cầu tạm khóa dịch vụ và xác nhận lại bằng văn bản với HDBank.
+

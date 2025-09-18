@@ -1,0 +1,42 @@
+Q1: Hạn mức giao dịch mới dành cho Khách hàng cá nhân HDBank có hiệu lực từ khi nào?
+A1: Từ ngày 01/07/2024.
+
+Q2: Với giao dịch loại A (dùng tên đăng nhập & mật khẩu), hạn mức thế nào?
+A2: 
+- Các giao dịch tra cứu thông tin: không có hạn mức.
+- Tất toán trước hạn khoản vay cầm cố, tiền gửi tiết kiệm trực tuyến từ chính tài khoản thanh toán KH: không giới hạn.
+
+Q3: Với giao dịch loại B (OTP qua SMS/Soft OTP/Token), hạn mức ra sao?
+A3: 
+- Nhóm 1 – Thanh toán hàng hóa dịch vụ: tối đa 100 triệu/giao dịch, 100 triệu/ngày.
+  + Thanh toán hóa đơn: 50 triệu/giao dịch, 100 triệu/ngày.
+  + Nạp tiền điện thoại: 500.000/giao dịch, 20 triệu/ngày.
+  + Thanh toán khoản vay HDSaison: 20 triệu/giao dịch, 100 triệu/ngày.
+- Nhóm 2 – Chuyển tiền: 10 triệu/giao dịch, 20 triệu/ngày (bao gồm nội bộ HDBank, Napas, Citad, nạp ví).
+- Nhóm 3 – Chuyển tiền giữa tài khoản cùng CIF: không giới hạn.
+
+Q4: Với giao dịch loại C (xác thực sinh trắc học + Soft OTP nâng cao), hạn mức thế nào?
+A4: 
+- Nhóm 1 – Thanh toán hàng hóa dịch vụ: tối đa 100 triệu/giao dịch, 100 triệu/ngày.
+  + Thanh toán hóa đơn: 50 triệu/giao dịch, 100 triệu/ngày.
+  + Nạp tiền điện thoại: 500.000/giao dịch, 20 triệu/ngày.
+  + Thanh toán khoản vay HDSaison: 20 triệu/giao dịch, 100 triệu/ngày.
+  + Các dịch vụ khác theo quy định riêng, nhưng tổng nhóm 1 tối đa < 1,5 tỷ/ngày.
+- Nhóm 2 – Chuyển tiền: tối đa <500 triệu/giao dịch, <1,5 tỷ/ngày (bao gồm nội bộ HDBank, Napas, Citad).
+  + Nạp ví: 50 triệu/giao dịch, 100 triệu/ngày.
+
+Q5: Với giao dịch loại D (Soft OTP nâng cao + sinh trắc học CCCD/CSDL HDBank), hạn mức ra sao?
+A5: 
+- Nhóm 1 – Thanh toán hàng hóa dịch vụ: tối đa 100 triệu/giao dịch, 100 triệu/ngày.
+  + Thanh toán hóa đơn: 50 triệu/giao dịch, 100 triệu/ngày.
+  + Nạp tiền điện thoại: 500.000/giao dịch, 20 triệu/ngày.
+  + Thanh toán khoản vay HDSaison: 20 triệu/giao dịch, 100 triệu/ngày.
+  + Các dịch vụ khác theo quy định riêng, nhưng tổng nhóm 1 tối đa < 5 tỷ/ngày.
+- Nhóm 2 – Chuyển tiền: tối đa 500 triệu/giao dịch, 5 tỷ/ngày (nội bộ, Napas, Citad).
+  + Có trường hợp tối đa 2 tỷ/giao dịch, 5 tỷ/ngày tùy loại.
+  + Nạp ví: 50 triệu/giao dịch, 100 triệu – 2 tỷ/ngày.
+
+Q6: Biện pháp xác thực loại C/D có thể thay thế loại A/B không?
+A6: 
+- Loại D có thể xác thực giao dịch loại A, B, C.
+- Loại C có thể xác thực giao dịch loại A, B.

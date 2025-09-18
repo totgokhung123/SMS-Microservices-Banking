@@ -1,0 +1,36 @@
+Q1: Thông báo này có hiệu lực từ khi nào?
+A1: Từ ngày 27/12/2024.
+
+Q2: Kênh nào cung cấp thông tin giao dịch thanh toán bằng phương tiện điện tử?
+A2: Mobile Banking và/hoặc Internet Banking.
+
+Q3: Khi hoàn tất giao dịch, hệ thống hiển thị những thông tin nào cho khách hàng?
+A3: Số tham chiếu giao dịch (mã giao dịch), ngày giao dịch và số tiền giao dịch — hiển thị ngay trên màn hình kết quả.
+
+Q4: Ngoài màn hình kết quả, tôi có thể xem lại thông tin giao dịch ở đâu?
+A4: Bạn có thể xem trong lịch sử giao dịch/sao kê của tài khoản.
+
+Q5: Tính năng Tra soát giao dịch được triển khai trên kênh nào?
+A5: Chỉ trên HDBank Mobile Banking.
+
+Q6: Loại giao dịch nào được phép gửi tra soát trong ứng dụng?
+A6: Các giao dịch ghi nợ của tài khoản thanh toán thực hiện trên kênh Ngân hàng điện tử.
+
+Q7: Có giao dịch nào bị loại trừ khỏi tra soát trong ứng dụng không?
+A7: Có. Không áp dụng cho giao dịch Chuyển khoản trong hệ thống và Chuyển khoản chứng khoán.
+
+Q8: Thời hạn gửi tra soát cho một giao dịch là bao lâu?
+A8: Áp dụng với giao dịch phát sinh trong vòng 70 ngày tính đến ngày bạn gửi yêu cầu tra soát.
+
+Q9: Cách vào mục tạo tra soát trên app như thế nào?
+A9: Đăng nhập Mobile Banking → menu bên trái chọn “Tra soát khiếu nại” → chọn “Tạo yêu cầu mới” → chọn giao dịch cần tra soát → điền/cập nhật thông tin yêu cầu → đồng ý quy định → kiểm tra lại và ‘Xác nhận’.
+
+Q10: Sau khi tôi xác nhận, yêu cầu của tôi đi đâu?
+A10: Yêu cầu sẽ được gửi tới HDBank để tiếp nhận và xử lý.
+
+Q11: Tôi có thể theo dõi tình trạng yêu cầu tra soát đã gửi ở đâu?
+A11: Ngay trong ứng dụng: vào “Tra soát khiếu nại”, tìm kiếm yêu cầu theo nhu cầu và mở chi tiết để xem kết quả/tiến độ.
+
+Q12: Tôi tìm nút “Tra soát giao dịch này?” ở đâu?
+A12: Sau khi chọn một giao dịch trong danh sách, vào màn hình chi tiết giao dịch và chọn “Tra soát giao dịch này?”.
+

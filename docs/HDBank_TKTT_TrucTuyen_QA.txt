@@ -1,0 +1,41 @@
+Q1: Tài khoản thanh toán trực tuyến tại HDBank là gì?
+A1: Là tài khoản thanh toán được mở bằng phương tiện điện tử, định danh trực tuyến (eKYC), khách hàng không cần đến điểm giao dịch.
+
+Q2: Ai có thể mở tài khoản thanh toán trực tuyến?
+A2: Cá nhân từ 18 tuổi trở lên, cư trú tại Việt Nam, có năng lực hành vi dân sự đầy đủ và đáp ứng điều kiện của HDBank.
+
+Q3: Những hành vi nào khách hàng không được thực hiện khi mở và sử dụng tài khoản?
+A3: Gồm: cung cấp thông tin gian lận; giả mạo giấy tờ; cho thuê/mượn tài khoản; mở tài khoản nặc danh; sử dụng cho mục đích rửa tiền, khủng bố, lừa đảo, đánh bạc; tiết lộ thông tin tài khoản trái phép; xâm nhập dữ liệu trái phép; cam kết sai khi mở tài khoản.
+
+Q4: Quyền của chủ tài khoản là gì?
+A4: Sử dụng số tiền trên tài khoản, chọn dịch vụ thanh toán của HDBank, yêu cầu phong tỏa/đóng tài khoản, được hưởng lãi suất, được ủy quyền, yêu cầu hỗ trợ và giải đáp thắc mắc.
+
+Q5: Nghĩa vụ của chủ tài khoản gồm những gì?
+A5: Sử dụng đúng mục đích, tuân thủ điều kiện HDBank, cung cấp thông tin chính xác, duy trì số dư tối thiểu, thanh toán phí, thông báo thay đổi thông tin, chịu trách nhiệm khi bị lợi dụng, tuân thủ luật phòng chống rửa tiền.
+
+Q6: HDBank có quyền gì đối với tài khoản thanh toán trực tuyến?
+A6: Quyền phong tỏa/đóng tài khoản, trích nợ khi có nghĩa vụ, từ chối lệnh thanh toán không hợp lệ, cung cấp thông tin cho cơ quan chức năng, áp dụng các biện pháp an toàn bảo mật, và quy định số dư tối thiểu, hạn mức giao dịch.
+
+Q7: Nghĩa vụ của HDBank là gì?
+A7: Hướng dẫn quy trình mở/sử dụng tài khoản, thực hiện lệnh thanh toán hợp lệ, bảo mật thông tin khách hàng, cung cấp thông tin chính xác, cập nhật kịp thời thông tin KH, xử lý khiếu nại, tuân thủ pháp luật về rửa tiền và khủng bố.
+
+Q8: Trong bao lâu khách hàng có thể khiếu nại/tra soát giao dịch?
+A8: Trong vòng tối đa 70 ngày kể từ ngày phát sinh giao dịch.
+
+Q9: Thời hạn xử lý tra soát/khieu nại là bao lâu?
+A9: Tối đa 30 ngày làm việc, có thể kéo dài thêm 15 ngày để thông báo phương án xử lý nếu chưa rõ nguyên nhân.
+
+Q10: Khi nào HDBank được quyền phong tỏa tài khoản?
+A10: Khi có yêu cầu từ chủ tài khoản/cơ quan có thẩm quyền; có nhầm lẫn/sai sót; nghi ngờ gian lận, khủng bố, rửa tiền; KH không cập nhật thông tin; hoặc các dấu hiệu bất thường khác.
+
+Q11: Khi nào tài khoản sẽ được đóng?
+A11: Khi khách hàng yêu cầu; khách hàng chết/mất tích; vi phạm pháp luật; số dư dưới mức tối thiểu và không hoạt động 12 tháng; có hành vi gian lận; hoặc các trường hợp khác theo quy định.
+
+Q12: Quyền và nghĩa vụ về bảo mật dữ liệu cá nhân của HDBank ra sao?
+A12: HDBank bảo vệ và xử lý dữ liệu cá nhân khách hàng theo chính sách và pháp luật; có thể chia sẻ cho bên thứ ba để cung cấp dịch vụ, xử lý gian lận, hoặc theo yêu cầu cơ quan nhà nước.
+
+Q13: Những trường hợp HDBank được miễn trách nhiệm?
+A13: Khi thiệt hại do lỗi từ khách hàng (cung cấp sai thông tin, không bảo mật OTP, không cập nhật liên hệ…); khi hệ thống gián đoạn do bảo trì, nâng cấp; khi có sự kiện bất khả kháng (chiến tranh, thiên tai, dịch bệnh…).
+
+Q14: Hiệu lực của Điều khoản này là gì?
+A14: Có hiệu lực từ khi khách hàng xác nhận mở và sử dụng tài khoản. Nếu có sửa đổi, sẽ tự động cập nhật. Khi tranh chấp, ưu tiên thương lượng/hòa giải, nếu không thành sẽ giải quyết tại Tòa án có thẩm quyền.

@@ -1,0 +1,52 @@
+Q1: Rút tiền tại ATM HDBank: tối thiểu và tối đa mỗi lần là bao nhiêu?
+A1: Tối thiểu 10.000 VND/lần; tối đa 20.000.000 VND/lần.
+
+Q2: Rút ở ATM ngân hàng khác (trong lãnh thổ Việt Nam) thì hạn mức mỗi lần ra sao?
+A2: Mức tối thiểu/tối đa mỗi lần phụ thuộc quy định của ngân hàng chủ quản máy ATM. (Số liệu 10.000 VND tối thiểu và 20.000.000 VND tối đa/lần áp dụng tại ATM HDBank).
+
+Q3: Một ngày được rút tối đa bao nhiêu lần ở ATM?
+A3: Tối đa 20 lần/ngày (áp dụng cho hầu hết các loại thẻ).
+
+Q4: Hạn mức rút tiền mặt qua ATM trong nước (tối đa/ngày) theo nhóm thẻ là gì?
+A4: Thẻ tín dụng (nội địa/quốc tế): Hạng chuẩn 50 triệu; Hạng vàng/cao cấp 100 triệu.
+Thẻ ghi nợ (nội địa/quốc tế): 50–200 triệu tùy hạng (một số thẻ quốc tế hạng cao cấp tới 200 triệu).
+Thẻ trả trước định danh: 20 triệu/ngày; thẻ trả trước vô danh: không được rút tiền mặt.
+
+Q5: Rút tiền mặt ở ATM ngoài lãnh thổ Việt Nam tối đa bao nhiêu?
+A5: Tối đa tương đương 30.000.000 VND/ngày cho mỗi thẻ.
+
+Q6: Chuyển khoản bằng thẻ tại ATM HDBank: số lần tối đa/ngày là bao nhiêu?
+A6: Không giới hạn (KGH) đối với thẻ ghi nợ/thẻ trả trước; thẻ tín dụng không áp dụng tại mục này.
+
+Q7: Chuyển khoản bằng thẻ tại ATM HDBank: số tiền tối đa/ngày là bao nhiêu?
+A7: Thẻ ghi nợ: 200–300 triệu VND/ngày tùy hạng.
+Thẻ trả trước: tối đa 50 triệu VND/ngày.
+(Thẻ tín dụng: không áp dụng).
+
+Q8: Thanh toán qua POS/EDC nội mạng và thanh toán trực tuyến: một ngày được thanh toán tối đa bao nhiêu lần?
+A8: Thẻ tín dụng: 30 lần/ngày (hạng chuẩn), 35 lần/ngày (hạng vàng/cao cấp).
+Thẻ ghi nợ: khoảng 25–35 lần/ngày tùy hạng.
+Thẻ trả trước: theo bố trí sản phẩm, thường thấp hơn thẻ ghi nợ/tín dụng.
+
+Q9: Thanh toán qua POS/EDC/online: số tiền tối đa một lần là bao nhiêu?
+A9: Thẻ tín dụng: 50 triệu (hạng chuẩn), 200 triệu (hạng vàng), 300 triệu (hạng cao cấp) cho mỗi lần.
+Thẻ ghi nợ: mức tối đa mỗi lần có thể tới 300 triệu tùy hạng và loại thẻ.
+Thẻ trả trước: hạn mức thấp hơn đáng kể so với thẻ ghi nợ/tín dụng.
+
+Q10: Thanh toán qua POS/EDC/online: số tiền tối đa/ngày là bao nhiêu?
+A10: Thẻ tín dụng: 100 triệu (chuẩn), 300 triệu (vàng), 500 triệu (cao cấp) mỗi ngày.
+Thẻ ghi nợ: 100–300 triệu/ngày tùy hạng.
+Thẻ trả trước định danh: tối đa 50 triệu/ngày; thẻ trả trước vô danh: tối đa 5 triệu/ngày, chỉ thanh toán tại điểm bán trong lãnh thổ Việt Nam.
+
+Q11: Giới hạn đặc biệt với thẻ tín dụng về rút tiền mặt theo BIN là gì?
+A11: Tổng hạn mức rút tiền mặt theo BIN của thẻ tín dụng tối đa 100.000.000 VND trong 01 tháng.
+
+Q12: Giới hạn tổng giao dịch theo tháng cho thẻ trả trước định danh là bao nhiêu?
+A12: Tối đa 100.000.000 VND/tháng cho tổng các giao dịch (rút tiền, chuyển khoản, thanh toán).
+
+Q13: Thẻ trả trước vô danh có được giao dịch điện tử hoặc rút tiền mặt không?
+A13: Không. Thẻ trả trước vô danh không được dùng để giao dịch bằng phương tiện điện tử và không được rút tiền mặt. Đồng thời, tổng hạn mức thanh toán tại thiết bị chấp nhận thẻ không vượt quá số dư và số dư tối đa là 5.000.000 VND.
+
+Q14: Ký hiệu “KGH” trong bảng hạn mức nghĩa là gì?
+A14: KGH = Không giới hạn (về số lần giao dịch trong ngày, tùy mục).
+
