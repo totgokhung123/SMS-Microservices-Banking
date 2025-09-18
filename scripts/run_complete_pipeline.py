@@ -1,5 +1,5 @@
 """
-Complete Fine-tuning Pipeline for Qwen2-4B Banking Chatbot
+Complete Fine-tuning Pipeline for Qwen3-4B Banking Chatbot
 Script tổng hợp chạy toàn bộ pipeline từ preprocessing đến merge model
 """
 
@@ -41,7 +41,7 @@ class CompletePipeline:
         self.merged_output_dir = config['merged_output_dir']
         
         # Model config
-        self.model_name = config.get('model_name', 'Qwen/Qwen2-4B')
+        self.model_name = config.get('model_name', 'Qwen/Qwen3-4B')
         self.available_vram = self._detect_vram()
         
         logger.info("=== HDBank Chatbot Fine-tuning Pipeline ===")
@@ -233,7 +233,7 @@ def create_default_config() -> dict:
         'processed_data_dir': 'e:/HDBank_Hackathon/source/data/processed/train_split',
         'lora_output_dir': './qwen-banking-lora',
         'merged_output_dir': './qwen-banking-merged',
-        'model_name': 'Qwen/Qwen2-4B'
+        'model_name': 'Qwen/Qwen3-4B'
     }
 
 def main():
@@ -242,7 +242,7 @@ def main():
     parser.add_argument('--csv-path', type=str, help='Path to CSV data file')
     parser.add_argument('--output-dir', type=str, default='./qwen-banking-merged', 
                        help='Output directory for merged model')
-    parser.add_argument('--model-name', type=str, default='Qwen/Qwen2-4B',
+    parser.add_argument('--model-name', type=str, default='Qwen/Qwen3-4B',
                        help='Base model name')
     parser.add_argument('--skip-preprocessing', action='store_true',
                        help='Skip data preprocessing step')

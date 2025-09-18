@@ -1,5 +1,5 @@
 """
-LoRA Configuration for Qwen2-4B Banking Chatbot Fine-tuning
+LoRA Configuration for Qwen3-4B Banking Chatbot Fine-tuning
 Cấu hình LoRA được tối ưu cho VRAM và chất lượng training
 """
 
@@ -11,7 +11,7 @@ import torch
 @dataclass
 class LoRAConfigManager:
     """
-    LoRA Configuration Manager với các tham số được tối ưu cho Qwen2-4B
+    LoRA Configuration Manager với các tham số được tối ưu cho Qwen3-4B
     
     Phân tích tham số:
     - r=16: Rank thấp vừa đủ để capture patterns quan trọng, tiết kiệm VRAM
@@ -26,7 +26,7 @@ class LoRAConfigManager:
     lora_dropout: float = 0.1      # Dropout cho LoRA layers
     bias: str = "none"             # Không train bias để tiết kiệm memory
     
-    # Target modules cho Qwen2-4B architecture
+    # Target modules cho Qwen3-4B architecture
     target_modules: List[str] = None
     
     # Task configuration
@@ -98,8 +98,8 @@ class LoRAConfigManager:
         
         # LoRA parameters estimation
         # Rough calculation: r * (input_dim + output_dim) * num_layers * num_target_modules
-        qwen_hidden_size = 3584  # Qwen2-4B hidden size
-        num_layers = 40          # Qwen2-4B layers
+        qwen_hidden_size = 3584  # Qwen3-4B hidden size
+        num_layers = 40          # Qwen3-4B layers
         num_target_modules = len(self.target_modules)
         
         # Standard config

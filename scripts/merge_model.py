@@ -1,5 +1,5 @@
 """
-Model Merging Script for Qwen2-4B Banking Chatbot
+Model Merging Script for Qwen3-4B Banking Chatbot
 Merge LoRA weights với base model và chuẩn bị cho RAG integration
 """
 
@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 class ModelMerger:
     def __init__(self, 
-                 base_model_name: str = "Qwen/Qwen2-4B",
+                 base_model_name: str = "Qwen/Qwen3-4B",
                  lora_model_path: str = "./qwen-banking-lora",
                  output_path: str = "./qwen-banking-merged"):
         
@@ -305,7 +305,7 @@ if __name__ == "__main__":
 def main():
     """Main function"""
     # Configuration
-    BASE_MODEL = "Qwen/Qwen2-4B"
+    BASE_MODEL = "Qwen/Qwen3-4B"
     LORA_MODEL_PATH = "./qwen-banking-lora"
     OUTPUT_PATH = "./qwen-banking-merged"
     

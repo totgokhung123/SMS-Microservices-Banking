@@ -1,5 +1,5 @@
 """
-Training Configuration for Qwen2-4B Banking Chatbot Fine-tuning
+Training Configuration for Qwen2.5-4B Banking Chatbot Fine-tuning
 Cấu hình training được tối ưu cho chất lượng và hiệu suất
 """
 

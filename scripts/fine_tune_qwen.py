@@ -1,5 +1,5 @@
 """
-Fine-tuning Script for Qwen2-4B Banking Chatbot
+Fine-tuning Script for Qwen3-4B Banking Chatbot
 Script chính để fine-tune model với LoRA
 """
 
@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 
 class QwenBankingFineTuner:
     def __init__(self, 
-                 model_name: str = "Qwen/Qwen2-4B",
+                 model_name: str = "Qwen/Qwen3-4B",
                  data_dir: str = "e:/HDBank_Hackathon/source/data/processed/train_split",
                  output_dir: str = "./qwen-banking-lora"):
         
@@ -230,7 +230,7 @@ class QwenBankingFineTuner:
 def main():
     """Main function"""
     # Configuration
-    MODEL_NAME = "Qwen/Qwen2-4B"
+    MODEL_NAME = "Qwen/Qwen3-4B"
     DATA_DIR = "e:/HDBank_Hackathon/source/data/processed/train_split"
     OUTPUT_DIR = "./qwen-banking-lora"
     

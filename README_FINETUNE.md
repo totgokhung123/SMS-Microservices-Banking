@@ -1,10 +1,10 @@
-# HDBank Chatbot Fine-tuning với Qwen2-4B
+# HDBank Chatbot Fine-tuning với Qwen3-4B
 
-Hệ thống fine-tuning hoàn chỉnh cho chatbot tư vấn tài chính ngân hàng sử dụng Qwen2-4B với LoRA.
+Hệ thống fine-tuning hoàn chỉnh cho chatbot tư vấn tài chính ngân hàng sử dụng Qwen3-4B với LoRA.
 
 ## 🎯 Tổng quan
 
-Dự án này fine-tune mô hình Qwen2-4B để tạo ra một chatbot chuyên biệt cho tư vấn tài chính ngân hàng. Sử dụng kỹ thuật LoRA (Low-Rank Adaptation) để tối ưu VRAM và chất lượng training.
+Dự án này fine-tune mô hình Qwen3-4B để tạo ra một chatbot chuyên biệt cho tư vấn tài chính ngân hàng. Sử dụng kỹ thuật LoRA (Low-Rank Adaptation) để tối ưu VRAM và chất lượng training.
 
 ## 📋 Yêu cầu hệ thống
 
@@ -114,7 +114,7 @@ python run_complete_pipeline.py --csv-path /path/to/your/data.csv
 python run_complete_pipeline.py --output-dir ./my-custom-model
 
 # Sử dụng model khác
-python run_complete_pipeline.py --model-name Qwen/Qwen2-7B
+python run_complete_pipeline.py --model-name Qwen/Qwen3-7B
 
 # Bỏ qua bước preprocessing
 python run_complete_pipeline.py --skip-preprocessing
