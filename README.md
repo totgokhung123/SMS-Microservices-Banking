@@ -105,6 +105,10 @@ Hệ thống **Banking Financial Advisory** là một chatbot tư vấn tài ch�
 └─────────────────────────────────────────────────────────────┘
 ```
 
+Kỹ thuật này được tham khảo dựa trên kỹ thuật nâng cao của RAG:
+
+<img width="3006" height="1577" alt="image" src="https://github.com/user-attachments/assets/21546c61-76e2-4ead-af7f-cb775d7989f3" />
+
 ## 📊 Quy trình hoạt động
 
 ### **Phase 1: Training**
