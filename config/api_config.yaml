@@ -1,0 +1,178 @@
+# FastAPI Configuration cho HDBank AI Chatbot Backend
+
+# Server configuration
+server:
+  host: "0.0.0.0"
+  port: 8000
+  debug: false
+  reload: false
+  workers: 4
+  
+# API configuration
+api:
+  title: "HDBank AI Chatbot API"
+  description: "REST API cho HDBank intelligent banking chatbot system"
+  version: "1.0.0"
+  prefix: "/api/v1"
+  
+  # Rate limiting
+  rate_limit:
+    enabled: true
+    requests_per_minute: 60
+    requests_per_hour: 1000
+  
+  # Documentation
+  docs:
+    url: "/docs"
+    redoc_url: "/redoc"
+    openapi_url: "/openapi.json"
+    include_in_schema: true
+
+# CORS configuration
+cors:
+  allow_origins:
+    - "http://localhost:3000"  # Flutter web development
+    - "https://hdbank.com.vn"
+    - "https://ebanking.hdbank.com.vn"
+  allow_methods:
+    - "GET"
+    - "POST"
+    - "PUT"
+    - "DELETE"
+    - "OPTIONS"
+  allow_headers:
+    - "Authorization"
+    - "Content-Type"
+    - "X-Requested-With"
+    - "X-User-ID"
+    - "X-Session-ID"
+  allow_credentials: true
+  max_age: 86400  # 24 hours
+
+# Security configuration
+security:
+  secret_key: "hdbank-ai-chatbot-secret-key-change-in-production"
+  access_token_expire_minutes: 60
+  algorithm: "HS256"
+  
+  # API Key authentication (optional)
+  api_key:
+    enabled: false
+    header_name: "X-API-Key"
+    
+# Chat configuration
+chat:
+  max_message_length: 1000
+  max_conversation_history: 20
+  response_timeout: 30  # seconds
+  
+  # Streaming response
+  streaming:
+    enabled: true
+    chunk_size: 50
+    delay_between_chunks: 0.05  # seconds
+    
+  # Context settings
+  context:
+    max_context_length: 4000
+    default_top_k: 5
+    similarity_threshold: 0.7
+
+# Database configuration (nếu cần persist data)
+database:
+  url: "sqlite:///./hdbank_chatbot.db"
+  echo: false
+  pool_size: 10
+  max_overflow: 20
+  
+# Cache configuration
+cache:
+  enabled: true
+  backend: "memory"  # memory, redis
+  default_ttl: 3600  # 1 hour
+  max_size: 1000  # Max items in memory cache
+  
+  # Redis configuration (nếu dùng Redis)
+  redis:
+    host: "localhost"
+    port: 6379
+    db: 0
+    password: null
+    
+# Logging configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  
+  # File logging
+  file:
+    enabled: true
+    path: "logs/api.log"
+    max_size: "10MB"
+    backup_count: 5
+    
+  # Structured logging
+  structured:
+    enabled: true
+    include_request_id: true
+    include_user_id: true
+
+# Monitoring configuration
+monitoring:
+  metrics:
+    enabled: true
+    path: "/metrics"
+    
+  health_check:
+    enabled: true
+    path: "/health"
+    detailed_path: "/health/detailed"
+    
+  # Performance monitoring
+  performance:
+    track_request_time: true
+    track_response_size: true
+    slow_request_threshold: 2.0  # seconds
+
+# Background tasks
+background_tasks:
+  enabled: true
+  max_workers: 4
+  queue_size: 100
+
+# External services
+external_services:
+  # HDBank APIs (nếu cần integrate)
+  hdbank_api:
+    base_url: "https://api.hdbank.com.vn"
+    timeout: 10
+    retries: 3
+    
+  # Notification service
+  notifications:
+    enabled: false
+    webhook_url: null
+
+# Feature flags
+features:
+  conversation_persistence: false
+  user_analytics: false
+  feedback_collection: true
+  model_switching: false
+
+# Environment specific settings
+environment: "development"  # development, staging, production
+
+# Production specific settings
+production:
+  debug: false
+  reload: false
+  log_level: "WARNING"
+  cors_allow_origins: ["https://hdbank.com.vn"]
+  
+# Development specific settings  
+development:
+  debug: true
+  reload: true
+  log_level: "DEBUG"
+  cors_allow_origins: ["*"]

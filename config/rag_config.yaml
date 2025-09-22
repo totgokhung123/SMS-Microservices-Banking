@@ -1,0 +1,68 @@
+# RAG Configuration for HDBank Banking Chatbot
+# Cấu hình hệ thống RAG cho chatbot tư vấn tài chính
+
+# Embedding Model Configuration
+embedding:
+  model_name: "keepitreal/vietnamese-sbert"  # Model hỗ trợ tiếng Việt tốt
+  model_kwargs:
+    device: "cuda"  # hoặc "cpu"
+  encode_kwargs:
+    normalize_embeddings: true
+    batch_size: 32
+  dimension: 768  # Dimension của embeddings
+
+# Text Processing Configuration  
+text_processing:
+  chunk_size: 512  # Kích thước chunk text
+  chunk_overlap: 64  # Overlap giữa các chunk
+  separator: "\n\n"  # Separator để chia text
+  language: "vietnamese"
+  
+# Document Loading Configuration
+document_loader:
+  supported_formats: [".txt", ".md", ".pdf", ".html"]
+  encoding: "utf-8"
+  max_file_size_mb: 50
+  
+# Vector Store Configuration (FAISS)
+vector_store:
+  index_type: "IndexFlatIP"  # Inner Product for cosine similarity
+  save_path: "data/vector_db/faiss_index.bin"
+  metadata_path: "data/vector_db/metadata.json"
+  
+# Retrieval Configuration
+retrieval:
+  top_k: 5  # Số lượng documents tương tự nhất để retrieve
+  similarity_threshold: 0.7  # Ngưỡng similarity tối thiểu
+  max_context_length: 2048  # Độ dài context tối đa cho LLM
+  rerank: true  # Có sử dụng reranking không
+  
+# Reranking Configuration
+reranking:
+  model_name: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  top_k_rerank: 3  # Số lượng docs sau reranking
+  
+# Query Processing
+query_processing:
+  expand_query: true  # Có mở rộng query không
+  min_query_length: 10  # Độ dài query tối thiểu
+  remove_stopwords: false  # Không remove stopwords cho tiếng Việt
+  
+# Performance Configuration
+performance:
+  cache_embeddings: true
+  cache_ttl_hours: 24
+  batch_processing: true
+  max_workers: 4
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  log_file: "logs/rag.log"
+  
+# Data Paths
+paths:
+  docs_dir: "docs"
+  data_dir: "data"
+  vector_db_dir: "data/vector_db"
+  processed_dir: "data/processed"

@@ -1,0 +1,24 @@
+# Dependencies for RAG System - HDBank Banking Chatbot
+# Các dependencies cần thiết cho hệ thống RAG
+
+# Core ML và NLP libraries
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Vector database
+faiss-cpu>=1.7.0  # Sử dụng faiss-gpu nếu có GPU
+
+# Configuration và data processing
+PyYAML>=6.0
+pandas>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
+pathlib>=1.0.0
+
+# Optional: Enhanced features
+# sentence-transformers[onnx]  # For faster inference
+# faiss-gpu  # For GPU acceleration (thay thế faiss-cpu)

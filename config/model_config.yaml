@@ -1,0 +1,211 @@
+# Model Configuration cho HDBank AI Chatbot
+
+# Primary AI Model Configuration
+primary_model:
+  name: "qwen3-4b-hdbank-finetuned"
+  type: "qwen"  # qwen, gpt, llama
+  version: "1.0.0"
+  
+  # Model paths
+  model_path: "models/qwen3-4b-hdbank"
+  tokenizer_path: "models/qwen3-4b-hdbank"
+  
+  # Generation parameters
+  generation:
+    max_length: 2048
+    max_new_tokens: 512
+    temperature: 0.7
+    top_p: 0.9
+    top_k: 50
+    repetition_penalty: 1.1
+    do_sample: true
+    
+  # Model loading
+  loading:
+    device: "auto"  # auto, cpu, cuda, mps
+    torch_dtype: "auto"  # auto, float16, bfloat16, float32
+    trust_remote_code: true
+    use_flash_attention: false
+    
+  # Memory optimization
+  optimization:
+    use_8bit: false
+    use_4bit: false
+    load_in_8bit: false
+    load_in_4bit: false
+    
+# Fallback model (nếu primary model fails)
+fallback_model:
+  name: "rule-based-hdbank"
+  type: "rule_based"
+  enabled: true
+  
+# Model serving configuration
+serving:
+  batch_size: 1
+  max_concurrent_requests: 10
+  timeout: 30  # seconds
+  
+  # Caching
+  cache_responses: true
+  cache_ttl: 3600  # 1 hour
+  max_cache_size: 1000
+  
+# Prompt configuration
+prompts:
+  system_prompt: |
+    Bạn là trợ lý AI tư vấn tài chính chuyên nghiệp của HDBank.
+    
+    Nhiệm vụ của bạn:
+    - Tư vấn các sản phẩm và dịch vụ ngân hàng của HDBank
+    - Trả lời các câu hỏi về thẻ tín dụng, vay vốn, tiết kiệm, chuyển khoản
+    - Hướng dẫn sử dụng dịch vụ Internet Banking, Mobile Banking
+    - Cung cấp thông tin chính xác, hữu ích và thân thiện
+    
+    Nguyên tắc:
+    - Luôn lịch sự và chuyên nghiệp
+    - Cung cấp thông tin chính xác từ tài liệu chính thức
+    - Hướng dẫn khách hàng đến đúng kênh hỗ trợ khi cần
+    - Không đưa ra lời khuyên tài chính cá nhân
+    - Luôn đề xuất liên hệ hotline 1900 6060 cho các vấn đề phức tạp
+  
+  # Template cho RAG context
+  context_template: |
+    ### Thông tin tham khảo:
+    {context}
+    
+    ### Câu hỏi:
+    {question}
+    
+    ### Trả lời:
+  
+  # Template cho conversation history
+  conversation_template: |
+    ### Lịch sử trò chuyện:
+    {history}
+    
+    ### Câu hỏi hiện tại:
+    Khách hàng: {question}
+    
+    Tư vấn viên:
+
+# Text processing configuration
+text_processing:
+  # Preprocessing
+  preprocessing:
+    lowercase: false
+    remove_special_chars: false
+    normalize_whitespace: true
+    max_input_length: 1000
+    
+  # Postprocessing
+  postprocessing:
+    remove_system_tokens: true
+    clean_response: true
+    max_response_length: 2000
+    
+  # Language detection
+  language:
+    default: "vi"  # Vietnamese
+    supported: ["vi", "en"]
+    auto_detect: true
+
+# Safety và content filtering
+safety:
+  enabled: true
+  
+  # Content filters
+  filters:
+    profanity: true
+    personal_info: true
+    financial_advice: true  # Prevent personal financial advice
+    
+  # Response validation
+  validation:
+    min_confidence: 0.3
+    max_toxicity: 0.1
+    require_banking_context: false
+
+# Model evaluation và monitoring
+evaluation:
+  # Quality metrics
+  metrics:
+    track_response_time: true
+    track_token_usage: true
+    track_confidence_scores: true
+    
+  # A/B testing
+  ab_testing:
+    enabled: false
+    variants: []
+    
+  # Model comparison
+  comparison:
+    enabled: false
+    baseline_model: null
+
+# Fine-tuning configuration
+fine_tuning:
+  # Training data
+  data:
+    train_file: "data/processed/train_split/train.jsonl"
+    validation_file: "data/processed/train_split/validation.jsonl"
+    
+  # Training parameters
+  training:
+    learning_rate: 5e-5
+    batch_size: 4
+    num_epochs: 3
+    warmup_steps: 100
+    max_grad_norm: 1.0
+    
+  # LoRA configuration
+  lora:
+    enabled: true
+    r: 16
+    alpha: 32
+    dropout: 0.1
+    target_modules: ["q_proj", "v_proj", "k_proj", "o_proj"]
+    
+# Environment specific model settings
+environments:
+  development:
+    primary_model:
+      generation:
+        temperature: 0.8
+        max_new_tokens: 256
+    serving:
+      batch_size: 1
+      max_concurrent_requests: 5
+      
+  production:
+    primary_model:
+      generation:
+        temperature: 0.7
+        max_new_tokens: 512
+    serving:
+      batch_size: 4
+      max_concurrent_requests: 20
+      
+# Model versioning
+versioning:
+  enabled: true
+  auto_version: true
+  version_format: "YYYY.MM.DD-HH.mm"
+  
+# Model registry (nếu dùng MLOps)
+registry:
+  enabled: false
+  backend: "local"  # local, mlflow, wandb
+  
+# Hardware requirements
+hardware:
+  minimum:
+    ram: "8GB"
+    gpu_memory: "6GB"  # Nếu dùng GPU
+    disk_space: "20GB"
+    
+  recommended:
+    ram: "16GB"
+    gpu_memory: "12GB"
+    disk_space: "50GB"
