@@ -120,65 +120,16 @@ Tiết kiệm Linh Hoạt được thả nổi lãi suất theo định kỳ lĩ
 Hướng dẫn thanh toán và tất toán khoản vay tiêu dùng linh hoạt từ thẻ tín dụng?
 1- Thanh toán khoản vay
 Đường dẫn: Vay(Màn hình chính) >> Chi tiết khoản vay >> Thanh toán khoản vay
-Bước 1: KH có thể
-nhập số tiền thanh
-toán mong muốn và
-số tiền nhập ≤ Số tiền
-thanh toán
-KH có thể xem
-chi tiết các khoản
-vay cần thanh
-toán tại đây
-Bước 2: KH có
-thể chọn TKTT
-khác để thực hiện
-thanh toán (TKTT
-thỏa điều kiện)
-Bước 3: KH xác
-nhận thanh toán
-Xem chi
-tiết
-khoản
-vay cần
-thanh
-toán
-Bước 4:
-Nhập &
-xác nhận
-OTP
-Xem chi
-tiết giao
-dịch
-Màn hình thanh toán thành công
-2- Tất toán khoản vay
-Đường dẫn: Vay(Màn hình chính) >> Chi tiết khoản vay >> Tất toán khoản vay
-Bước 2:
-KH có thể
-kiểm tra
-số tiền tất
-toán cũng
-như các
-khoản chi
-tiết
-Bước 1:
-chọn tính
-năng Tất
-toán
-Bước 3: KH
-có thể chọn
-TKTT khác
-để thực hiện
-tất toán
-(TKTT thỏa
-điều kiện)
-Bước 4:
-Xác nhận
-tất toán
-Bước 5:
-Nhập &
-xác nhận
-OTP
-Màn hình tất toán thành công
+Bước 1: KH có thể nhập số tiền thanh toán mong muốn và số tiền nhập ≤ Số tiền thanh toán KH có thể xem chi tiết các khoản vay cần thanh toán tại đây
+Bước 2: KH có thể chọn TKTT khác để thực hiện thanh toán (TKTT thỏa điều kiện) 
+Bước 3: KH xác nhận thanh toán Xem chi tiết khoản vay cần thanh toán
+Bước 4: Nhập & xác nhận OTP Xem chi tiết giao dịch Màn hình thanh toán thành công
+2- Tất toán khoản vay Đường dẫn: Vay(Màn hình chính) >> Chi tiết khoản vay >> Tất toán khoản vay
+Bước 2: KH có thể kiểm tra số tiền tất toán cũng như các khoản chi tiết
+Bước 1: chọn tính năng Tất toán
+Bước 3: KH có thể chọn TKTT khác để thực hiện tất toán (TKTT thỏa điều kiện)
+Bước 4: Xác nhận tất toán
+Bước 5: Nhập & xác nhận OTP Màn hình tất toán thành công
 
 Tôi có thể vay thấu chi trong thời gian bao lâu ?
 Quý khách có thể vay với thời gian tối đa 12 tháng
